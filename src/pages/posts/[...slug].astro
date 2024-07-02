@@ -20,9 +20,16 @@ const { Content } = await post.render();
 <BaseLayout title={post.data.title} description={post.data.description}>
   <main>
     <article class="prose mx-auto dark:prose-invert">
-        <div class="prose-h1 text-center">
-          <h1>{post.data.title}</h1>
-        </div>
+      <img src={post.data.cover} alt={post.data.coverAlt}>
+      <div class="prose-h1 text-center">
+        <h1>{post.data.title}</h1>
+      </div>
+      <div class="flex justify-between font-bold">
+        <small
+          >Publicado el <FormattedDate date={post.data.pubDate}/> por {post.data.author}
+          </small
+        >
+      </div>
         <div class="prose-img:rounded-lg">
           {
             post.data.cover && (
@@ -41,13 +48,6 @@ const { Content } = await post.render();
               </span>
             ))
           }
-        </div>
-        <div class="flex justify-between">
-          <small
-            >Publish on <FormattedDate date={post.data.pubDate} />，Update on <FormattedDate
-              date={new Date().toISOString()}
-            /></small
-          >
         </div>
     </article>
     <div class="mt-4">

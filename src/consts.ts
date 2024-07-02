@@ -2,36 +2,42 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "AstroVerse";
-export const SITE_TITLE = "AstroVerse";
-export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
+export const BRAND_NAME = "solo de ida | blog de viajes";
+export const SITE_TITLE = "Solo de Ida | Blog de viajes";
+export const SITE_DESCRIPTION = "Blog de viajes y experiencas vividas";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "AstroVerse - All Tags";
+export const Tags_TITLE = "solo de ida | tags";
 export const Tags_DESCRIPTION =
-  "AstroVerse - All tags and the count of articles related to each tag";
+  "solo de ida - tags";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `All articles on '${tag}' tag in AstroVerse`,
-    description: `Explore articles about ${tag} for different perspectives and in-depth analysis.`,
+    title: `${tag} | Solo de ida`,
+    description: `Todos los posteos sobre ${tag}, en el blog.`,
   };
 }
 
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `All articles in '${category}' category in AstroVerse`,
+    title: `${category} | Solo de ida`,
     description: `Browse all articles under the ${category} category in AstroVerse`,
   };
 }
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/One/1/", title: "General" },
+  { href: "/category/Three/1/", title: "Viajes" },
+  { href: "/tags/Astro/1/", title: "Qué hacer en...?" },
+  { href: "/category/Crónicas/1/", title: "Crónicas" },
+  { href: "/tags/", title: "TAGS" },
+  { href: "/category/Descubrir/1/", title: "Descubrir" },
+
+
+
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -45,14 +51,19 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/astrodotbuild",
+    href: "https://twitter.com/@solodeida",
     icon: "tabler:brand-twitter",
     label: "Twitter",
   },
   {
-    href: "https://github.com/isooosi",
-    icon: "tabler:brand-github",
-    label: "GitHub",
+    href: "https://youtube.com/@solodeida",
+    icon: "tabler:brand-youtube",
+    label: "Youtube",
+  },
+  {
+    href: "https://tiktok.com/@solodeida",
+    icon: "tabler:brand-tiktok",
+    label: "Tiktok",
   },
 ];
 

@@ -3,7 +3,7 @@ title: Share state between Islands
 slug: share-state-between-islands
 description: Learn how to share state across framework components with Nano Stores.
 category:
-  - Three
+  - Two
 tags:
   - Tailwind
   - Astro

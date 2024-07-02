@@ -12,10 +12,10 @@ const { title, description } = Astro.props;
     <BaseHead title={title} description={description} />
   </head>
   <body
-    class="mx-auto flex min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900"
+    class=""
   >
     <Header />
-    <div class="flex-grow">
+    <div class="mx-auto flex min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900">
       <slot />
     </div>
     <Footer />

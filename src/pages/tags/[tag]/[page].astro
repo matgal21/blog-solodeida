@@ -4,6 +4,7 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import PostCard from "@components/CommonCard.astro";
 import Pagination from "@components/Pagination.astro";
 import { getTagMetadata } from "@consts";
+import TagsLayout from "@layouts/TagsLayout.astro";
 
 export async function getStaticPaths() {
   const allPosts = await getCollection("posts");
@@ -37,12 +38,14 @@ export async function getStaticPaths() {
 }
 
 const params = Astro.params;
+const post = Astro.props;
 const { page } = Astro.props;
 const { title, description } = getTagMetadata(params.tag);
 ---
 
-<BaseLayout title={title} description={description}>
-  <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+<TagsLayout title={title} description={description}>
+  <h1 class="text-4xl mt-4 mb-4 font-medium">Posts sobre <span class="text-sky-600 font-bold">{params.tag}</span>...</h1>
+  <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2 text-xl mt-4">
     {page.data.map((post) => <PostCard post={post} />)}
   </div>
 
@@ -58,4 +61,4 @@ const { title, description } = getTagMetadata(params.tag);
     basePath={`/tags/${params.tag}`}
     maxDisplayedPages={5}
   />
-</BaseLayout>
+</TagsLayout>

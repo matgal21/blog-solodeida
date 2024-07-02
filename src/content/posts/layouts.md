@@ -3,7 +3,7 @@ title: Layouts
 slug: layouts
 description: An intro to layouts, a type of Astro component that is shared between pages for common layouts.
 category:
-  - One
+  - Deportes
 tags:
   - Tailwind
   - Astro

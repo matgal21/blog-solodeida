@@ -1,15 +1,15 @@
 ---
-title: Contribute to Astro
+title: ¿Qué hacer en Boston?
 slug: contribute-to-astro
 description: How to get involved and contribute to Astro.
 category:
-  - Three
+  - Descubrir
 tags:
-  - Tailwind
-  - Astro
+  - Boston
+  - Estados Unidos
   - Jamstack
 pubDate: 2023-09-03
-cover: https://images.unsplash.com/photo-1560251085-d9c1dc542960?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+cover: "/public/img/IMG_8516.jpg"
 coverAlt: AstroVerse-Authoring Content
 author: VV
 ---

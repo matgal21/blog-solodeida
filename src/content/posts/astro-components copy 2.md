@@ -1,15 +1,20 @@
 ---
-title: Astro components are extremely flexible
-slug: components1
-description: the basic building blocks of any Astro project
+title: Vuelo de Ezeiza a Barcelona con escala en Paris
+slug: vuelo-ezeiza-barcelona-con-escala-en-paris
+description: vuelo nocturno en un airbus 350 de AirFrance
 category:
-  - One
+  - Crónicas
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
+  - Vuelos
+  - Cronica de vuelo
+  - Ezeiza
+  - CDG
+  - Paris
+  - Barcelona
+  - AirFrance
+  - Airbus 350
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1550684376-efcbd6e3f031?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2t8ZW58MHwwfDB8fHwy
+cover: "/public/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

@@ -1,15 +1,15 @@
 ---
-title: Vitae ultricies
+title: Primer vez volando en Flybondy a Bariloche
 slug: first-post0265
-description: Lorem ipsum dolor sit amet
+description: Viajando desde Aeroparque a Barloche desde la low cost con mas crecimiento en el pais
 category:
-  - One
+  - Crónicas
 tags:
   - Tailwind
   - Integer
   - Markdown
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1498805983167-a523078d762c?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+pubDate: 2023-09-07
+cover: "/public/img/flybondi.jpg"
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---

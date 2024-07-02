@@ -3,7 +3,7 @@ title: Eendpoint
 slug: endpoint
 description: Learn how to create endpoints that serve any kind of data
 category:
-  - There
+  - General
 tags:
   - Tailwind
   - Astro

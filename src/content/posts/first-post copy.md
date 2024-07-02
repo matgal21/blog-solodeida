@@ -3,7 +3,7 @@ title: Auctor uspendisse in es
 slug: first-post11
 description: Lorem ipsum dolor sit amet
 category:
-  - One
+  - General
 tags:
   - Tailwind
   - Integer

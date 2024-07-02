@@ -3,7 +3,7 @@ title: Framework Components
 slug: framework-components
 description: Learn how to use React, Svelte, etc.
 category:
-  - One
+  - Viajes
 tags:
   - Tailwind
   - Astro

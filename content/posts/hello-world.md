@@ -1,8 +1,13 @@
 ---
-title: Hello, World!
+title: Primer post desde tina
+posted: 2024-07-03T03:00:00.000Z
 ---
 
-## Hello World!
+## Probando el cms
+
+![](</images/Captura de pantalla 2024-05-08 123330.png>)
+
+Primera vez en flybondi, la aerolinea low cost que no para de crecer.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
 

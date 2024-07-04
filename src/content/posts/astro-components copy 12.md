@@ -1,5 +1,5 @@
 ---
-title: You can even write TypeScript in your component script
+title: Zagreb
 slug: components12
 description: the basic building blocks of any Astro project
 category:

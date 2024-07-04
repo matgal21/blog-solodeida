@@ -1,5 +1,5 @@
 ---
-title: Importing other Astro components
+title: Roma
 slug: components8
 description: the basic building blocks of any Astro project
 category:

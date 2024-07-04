@@ -1,5 +1,5 @@
 ---
-title: You can include JavaScript code
+title: Berlin
 slug: components4
 description: the basic building blocks of any Astro project
 category:

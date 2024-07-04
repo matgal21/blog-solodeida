@@ -1,5 +1,5 @@
 ---
-title: Aliases
+title: Barcelona
 slug: aliases
 description: An intro to aliases with Astro.
 category:

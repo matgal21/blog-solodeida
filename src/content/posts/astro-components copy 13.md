@@ -1,5 +1,5 @@
 ---
-title: An Astro component can define and accept props
+title: Budapest
 slug: components13
 description: the basic building blocks of any Astro project
 category:

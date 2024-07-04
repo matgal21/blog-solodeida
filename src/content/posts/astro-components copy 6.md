@@ -1,5 +1,5 @@
 ---
-title: When your Astro component does need client-side
+title: Paris
 slug: components5
 description: the basic building blocks of any Astro project
 category:

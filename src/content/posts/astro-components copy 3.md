@@ -1,5 +1,5 @@
 ---
-title: tags that make SEO easy
+title: Madrid
 slug: components2
 description: the basic building blocks of any Astro project
 category:

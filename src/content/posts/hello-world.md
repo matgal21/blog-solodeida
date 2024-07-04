@@ -1,6 +1,19 @@
 ---
-title: Primer post desde tina
-posted: 2024-07-03T03:00:00.000Z
+title: Buenos Aires a Paris con AirFrance
+slug: primera-vez-flybondi
+description: No solo por la arquitectura sino también por su modo de vida.
+category:
+  - Crónicas
+tags:
+  - Flybondi
+  - Lowcost
+  - Viajes
+  - Vuelo
+  - Bariloche
+pubDate: 2024-07-03
+cover: "/public/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
+coverAlt: AstroVerse-Getting Started
+author: Mateo Galvez
 ---
 
 ## Probando el cms

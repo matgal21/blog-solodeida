@@ -1,5 +1,5 @@
 ---
-title: The result is a faster site
+title: Varsovia
 slug: components6
 description: the basic building blocks of any Astro project
 category:

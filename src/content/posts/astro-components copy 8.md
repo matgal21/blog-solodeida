@@ -1,5 +1,5 @@
 ---
-title: An Astro component is made up of two main parts
+title: Cracovia
 slug: components7
 description: the basic building blocks of any Astro project
 category:

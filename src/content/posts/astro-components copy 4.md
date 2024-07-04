@@ -1,5 +1,5 @@
 ---
-title: You can spot an Astro component
+title: Londres
 slug: components3
 description: the basic building blocks of any Astro project
 category:

@@ -1,5 +1,5 @@
 ---
-title: JavaScript code that you need to render your template
+title: Venecia
 slug: components10
 description: the basic building blocks of any Astro project
 category:

@@ -12,11 +12,11 @@ const { post } = Astro.props;
 ---
 
 <div
-class="relative overflow-hidden rounded-xl bg-gray-300 transition-transform duration-500 hover:-translate-y-1 hover:scale-105 dark:bg-neutral-900 border-2 border-b-orange-700"
+class="relative overflow-hidden bg-gray-200 transition-transform duration-500  dark:bg-neutral-900 border-4 border-b-orange-500"
 >
 <a href={`/posts/${post.slug}/`} class="block">
-  <img src={post.data.cover} alt={post.data.coverAlt} class="hover:opacity-90"/>
-  <div class=" bottom-0 end-0 start-0 bg-gray-300 p-5 md:p-6">
+  <img src={post.data.cover} alt={post.data.coverAlt} class="hover:opacity-90 hover:scale-110"/>
+  <div class=" bottom-0 end-0 start-0 p-5 md:p-6">
       <a href=`/category/${post.data.category}/1/`>
         {post.data.category}
       </a>

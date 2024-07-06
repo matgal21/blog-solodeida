@@ -1,7 +1,7 @@
 ---
 title: Berlin
-slug: components4
-description: the basic building blocks of any Astro project
+slug: berlin
+description: La capital alemana, una ciudad cuna de hechos historicos
 category:
   - One
 tags:
@@ -9,9 +9,9 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1527843812948-a8c2ddd2fb68?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2t8ZW58MHwwfDB8fHwy
+cover: "/public/img/IMG_8498.jpg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo Galvez
 ---
 
 **Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.

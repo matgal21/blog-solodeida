@@ -1,7 +1,7 @@
 ---
 title: Varsovia
 slug: components6
-description: the basic building blocks of any Astro project
+description: Una ciudad que se reconstruyo y hoy es hermosa
 category:
   - One
 tags:

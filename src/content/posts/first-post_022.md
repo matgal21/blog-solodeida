@@ -8,7 +8,7 @@ tags:
   - Solo de ida
   - Blog
   - Mateo
-pubDate: 2024-09-01
+pubDate: 2023-09-01
 cover: "/public/img/IMG_1324.JPG"
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Mateo Galvez

@@ -1,17 +1,17 @@
 ---
 title: Excursion de lobos marinos y pingüinos en Puerto Madryn
 slug: excursion-lobos-marinos
-description: Add an RSS feed to your Astro site to let users subscribe to your content.
+description: Ver de cerca e incluso tocar lobos marinos y pingüinos en su hábitat natural.
 category:
-  - Two
+  - Viajes
 tags:
-  - RSS
-  - Astro
-  - Jamstack
+  - Puerto Madryn 
+  - Lobos marinos
+  - Pingüinos
 pubDate: 2023-09-06
 cover: "/public/images/LOBOS MARINOS.png"
-coverAlt: AstroVerse-Add an RSS feed
-author: VV
+coverAlt: lobos marinos
+author: Mateo
 ---
 
 Astro supports fast, automatic RSS feed generation for blogs and other content websites. RSS feeds provide an easy way for users to subscribe to your content.

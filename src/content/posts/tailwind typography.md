@@ -8,10 +8,10 @@ tags:
   - Barcelona
   - Futbol
   - Camp Nou
-pubDate: 2023-09-08
-cover: "/public/images/IMG_8017.jpg"
-coverAlt: AstroVerse-tailwind-typography
-author: VV
+pubDate: 2024-02-01
+cover: https://images.unsplash.com/photo-1720369176819-3b74b40688fb?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+coverAlt: Camp-Nou-vacio
+author: Mateo
 ---
 
 Until now, trying to style an article, document, or blog post with Tailwind has been a tedious task that required a keen eye for typography and a lot of complex custom CSS.

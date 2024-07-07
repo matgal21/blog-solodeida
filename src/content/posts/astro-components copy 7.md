@@ -1,17 +1,17 @@
 ---
 title: Varsovia
-slug: components6
+slug: Varsovia
 description: Una ciudad que se reconstruyo y hoy es hermosa
 category:
   - One
 tags:
-  - Tailwind
-  - Astro
+  - Polonia
+  - Varsovia
   - Jamstack
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1608447714925-599deeb5a682?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmxhY2t8ZW58MHwwfDB8fHwy
-coverAlt: AstroVerse-Aliases
-author: VV
+cover: https://images.unsplash.com/photo-1519197924294-4ba991a11128?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+coverAlt: Varsovia-ciudad
+author: Mateo
 ---
 
 **Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.

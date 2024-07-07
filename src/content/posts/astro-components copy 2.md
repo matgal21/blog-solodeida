@@ -14,7 +14,7 @@ tags:
   - AirFrance
   - Airbus 350
 pubDate: 2023-09-01
-cover: "/public/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
+cover: "/public/image/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

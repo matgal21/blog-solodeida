@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-08
-cover: "/public/img/IMG_8017.jpg"
+cover: "/public/image/IMG_8017.jpg"
 coverAlt: AstroVerse-tailwind-typography
 author: VV
 ---

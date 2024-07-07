@@ -9,7 +9,7 @@ tags:
   - Blog
   - Mateo
 pubDate: 2023-09-01
-cover: "/public/img/IMG_1324.JPG"
+cover: "/public/image/IMG_1324.JPG"
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Mateo Galvez
 ---

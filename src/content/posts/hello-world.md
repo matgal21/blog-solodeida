@@ -11,7 +11,7 @@ tags:
   - Vuelo
   - Bariloche
 pubDate: 2024-07-03
-cover: "/public/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
+cover: "/public/image/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Getting Started
 author: Mateo Galvez
 ---

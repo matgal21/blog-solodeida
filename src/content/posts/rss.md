@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-06
-cover: "/public/img/LOBOS MARINOS.png"
+cover: "/public/image/LOBOS MARINOS.png"
 coverAlt: AstroVerse-Add an RSS feed
 author: VV
 ---

@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-01
-cover: "/public/img/IMG_8498.jpg"
+cover: "/public/image/IMG_8498.jpg"
 coverAlt: AstroVerse-Aliases
 author: Mateo Galvez
 ---

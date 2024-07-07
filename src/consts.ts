@@ -23,7 +23,7 @@ export function getTagMetadata(tag: string) {
 export function getCategoryMetadata(category: string) {
   return {
     title: `${category} | Solo de ida`,
-    description: `Browse all articles under the ${category} category in AstroVerse`,
+    description: `Todos los posts sobre ${category}, categoria en Solo de Ida`,
   };
 }
 

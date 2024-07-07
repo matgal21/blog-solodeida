@@ -9,7 +9,7 @@ tags:
   - Estados Unidos
   - Jamstack
 pubDate: 2023-09-03
-cover: "/public/img/IMG_8516.jpg"
+cover: "/public/image/IMG_8516.jpg"
 coverAlt: AstroVerse-Authoring Content
 author: VV
 ---

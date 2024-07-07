@@ -9,7 +9,7 @@ tags:
   - Astro
   - File
 pubDate: 2023-09-01
-cover: "/public/img/LOBOS MARINOS.png"
+cover: "/public/image/LOBOS MARINOS.png"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

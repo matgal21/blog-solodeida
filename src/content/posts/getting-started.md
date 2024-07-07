@@ -9,7 +9,7 @@ tags:
   - Estados Unidos
   - Viajes
 pubDate: 2023-09-06
-cover: "/public/img/IMG_8516.jpg"
+cover: "/public/image/IMG_8516.jpg"
 coverAlt: AstroVerse-Getting Started
 author: Mateo Galvez
 ---

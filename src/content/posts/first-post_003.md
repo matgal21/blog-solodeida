@@ -9,7 +9,7 @@ tags:
   - Integer
   - Markdown
 pubDate: 2023-09-07
-cover: "/public/img/flybondi.jpg"
+cover: "/public/image/flybondi.jpg"
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---

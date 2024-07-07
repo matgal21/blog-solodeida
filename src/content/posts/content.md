@@ -9,7 +9,7 @@ tags:
   - España
   - Jamstack
 pubDate: 2023-09-02
-cover: "/public/img/IMG_8360.jpg"
+cover: "/public/image/IMG_8360.jpg"
 coverAlt: AstroVerse-Content Collections
 author: VV
 ---

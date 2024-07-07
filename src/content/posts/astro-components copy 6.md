@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-01
-cover: "/public/img/paris.jpg"
+cover: "/public/image/paris.jpg"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

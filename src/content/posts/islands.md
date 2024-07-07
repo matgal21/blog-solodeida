@@ -10,7 +10,7 @@ tags:
   - Delta
   - Nieve
 pubDate: 2023-09-06
-cover: "/public/img/boeing 777 AA.jpg"
+cover: "/public/image/boeing 777 AA.jpg"
 coverAlt: AstroVerse-Astro Islands
 author: VV
 ---

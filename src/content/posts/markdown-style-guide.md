@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-06
-cover:  "/public/image/IMG_7803.jpg"
+cover:  "/public/images/IMG_7803.jpg"
 coverAlt: AstroVerse-Markdown Style Guide
 author: VV
 ---

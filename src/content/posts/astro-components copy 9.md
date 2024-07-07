@@ -9,7 +9,7 @@ tags:
   - SEO
   - Jamstack
 pubDate: 2023-09-01
-cover: "/public/image/roma.jpg"
+cover: "/public/images/roma.jpg"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

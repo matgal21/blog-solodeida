@@ -9,7 +9,7 @@ tags:
   - Portugal
   - Turismo
 pubDate: 2023-09-09
-cover: "/public/image/fondo.jpg"
+cover: "/public/images/fondo.jpg"
 coverAlt: AstroVerse-Aliases
 author: Mateo Galvez
 ---

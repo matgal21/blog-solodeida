@@ -1,6 +1,6 @@
 ---
 title: Porto
-slug: content-collections
+slug: porto-sa
 description: ¿Qué hacer en Porto?
 category:
   - Descubrir
@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-02
-cover: "/public/image/IMG_8431.jpg"
+cover: "/public/images/IMG_8431.jpg"
 coverAlt: AstroVerse-Content Collections
 author: VV
 ---

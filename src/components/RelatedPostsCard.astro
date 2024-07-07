@@ -36,9 +36,10 @@ const relatedPosts = await getRelatedArticlesByCategory();
           <div class=" bottom-0 end-0 start-0 bg-gray-300 p-4 md:p-5">
             <h2 class="mt-0 text-lg font-bold text-black">{post.data.title}</h2>
             <h4 class="mt-2 text-xs font-bold text-black">{post.data.description}</h4>
-            <div class="mt-4 flex items-center gap-4 text-xs text-black">
-              <span class="bg-white">{post.data.tags.join(" ")}</span>
+            <div class="mt-4 flex items-center gap-4 text-xs text-orange-700 justify-end">
+              <span class="p-2">{post.data.tags.join(" ")}</span>
             </div>
+              <FormattedDate date={post.data.pubDate}/>
           </div>
         </a>
       </div>

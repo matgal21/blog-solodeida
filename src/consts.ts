@@ -67,5 +67,5 @@ export const SocialLinks = [
 ];
 
 // Search Page Metadata, src/pages/search.astro
-export const SEARCH_PAGE_TITLE = `${SITE_TITLE} - Site Search`;
-export const SEARCH_PAGE_DESCRIPTION = `Search all content on ${SITE_TITLE}`;
+export const SEARCH_PAGE_TITLE = `${SITE_TITLE} - Busqueda del blog`;
+export const SEARCH_PAGE_DESCRIPTION = `Busca todo el contenido de ${SITE_TITLE}`;

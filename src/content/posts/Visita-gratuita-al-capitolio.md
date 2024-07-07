@@ -1,5 +1,5 @@
 ---
-title: Porto, la encantadora ciudad del norte portugués
+title: Visitar el Capitolio estadounidense gratis
 slug: capitolio
 description: La gastronomía, la arquitectura, el trato de su gente hacen que sea un increíble destino
 category:
@@ -9,7 +9,7 @@ tags:
   - Portugal
   - Turismo
 pubDate: 2024-03-09
-cover: "/public/image/fondo.jpg"
+cover: "/public/images/IMG_7803.jpg"
 coverAlt: AstroVerse-Aliases
 author: Mateo Galvez
 ---

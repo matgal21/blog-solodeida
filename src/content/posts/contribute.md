@@ -1,15 +1,15 @@
 ---
 title: ¿Qué hacer en Boston?
-slug: contribute-to-astro
+slug: que-hacer-en-barcelona
 description: How to get involved and contribute to Astro.
 category:
   - Descubrir
 tags:
-  - Boston
-  - Estados Unidos
-  - Jamstack
+  - Barcelona
+  - España
+  - Que hacer en...
 pubDate: 2023-09-03
-cover: "/public/image/IMG_8516.jpg"
+cover: "/public/images/IMG_8516.jpg"
 coverAlt: AstroVerse-Authoring Content
 author: VV
 ---

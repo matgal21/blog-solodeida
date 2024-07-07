@@ -1,6 +1,6 @@
 ---
 title: Vuelo de Orlando a Boston
-slug: astro-islands
+slug: vuelo-oralndo-boston
 description: pasar del calor de Florida a un frio extremo en Boston
 category:
   - Crónicas
@@ -10,9 +10,9 @@ tags:
   - Delta
   - Nieve
 pubDate: 2023-09-06
-cover: "/public/image/boeing 777 AA.jpg"
+cover: "/public/images/boeing 777 AA.JPG"
 coverAlt: AstroVerse-Astro Islands
-author: VV
+author: Mateo Galvez
 ---
 
 **Astro Islands** (aka Component Islands) are a pattern of web architecture pioneered by Astro. The idea of “islands architecture” was first coined by Etsy's frontend architect [Katie Sylor-Miller](https://twitter.com/ksylor) in 2019, and expanded on in [this post](https://jasonformat.com/islands-architecture/) by Preact creator Jason Miller.

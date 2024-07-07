@@ -1,6 +1,6 @@
 ---
 title: Excursion de lobos marinos y pingüinos en Puerto Madryn
-slug: add-an-rss-feed
+slug: excursion-lobos-marinos
 description: Add an RSS feed to your Astro site to let users subscribe to your content.
 category:
   - Two
@@ -9,7 +9,7 @@ tags:
   - Astro
   - Jamstack
 pubDate: 2023-09-06
-cover: "/public/image/LOBOS MARINOS.png"
+cover: "/public/images/LOBOS MARINOS.png"
 coverAlt: AstroVerse-Add an RSS feed
 author: VV
 ---

@@ -1,15 +1,15 @@
 ---
 title: Cumplir un sueño al ver un partido del Barcelona FC
-slug: tailwind-typography
-description: Mejores apps a la hora de viajar
+slug: cumplir-sueño-partido-barcelona
+description: Vivir un partido de cuartos de final de la Copa del Rey en el Camp Nou
 category:
   - Two
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
+  - Barcelona
+  - Futbol
+  - Camp Nou
 pubDate: 2023-09-08
-cover: "/public/image/IMG_8017.jpg"
+cover: "/public/images/IMG_8017.jpg"
 coverAlt: AstroVerse-tailwind-typography
 author: VV
 ---

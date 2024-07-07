@@ -1,6 +1,6 @@
 ---
 title: Project Structure
-slug: project-structure
+slug: dsa
 description: Learn how to structure a project with Astro.
 category:
   - Three 
@@ -9,7 +9,7 @@ tags:
   - Astro
   - File
 pubDate: 2023-09-01
-cover: "/public/image/LOBOS MARINOS.png"
+cover: "/public/images/LOBOS MARINOS.png"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

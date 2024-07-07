@@ -52,6 +52,18 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            isBody: true,
+          },
+          {
+            type: "string",
+            name: "author",
+            label: "Author",
+            isBody: true,
+          }
         ],
       },
     ],

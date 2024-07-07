@@ -9,7 +9,7 @@ tags:
   - Astro
   - Lorem
 pubDate: 2023-09-01
-cover: "/public/image/cracovia.jpeg"
+cover: "/public/images/cracovia.jpeg"
 coverAlt: AstroVerse-Aliases
 author: VV
 ---

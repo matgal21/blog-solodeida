@@ -1,6 +1,6 @@
 ---
 title: Primer vez volando en Flybondy a Bariloche
-slug: first-post0265
+slug: primera-vez-fly-bondi
 description: Viajando desde Aeroparque a Barloche desde la low cost con mas crecimiento en el pais
 category:
   - Crónicas
@@ -9,7 +9,7 @@ tags:
   - Integer
   - Markdown
 pubDate: 2023-09-07
-cover: "/public/image/flybondi.jpg"
+cover: "/public/images/flybondi.jpg"
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---

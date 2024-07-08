@@ -42,7 +42,7 @@ export const HeaderLinks = [
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/sobre-mi/", title: "Sobre mi" },
+  { href: "/posts/sobre-mi/", title: "Acerca del blog" },
   { href: "/tags/", title: "Tags" },
 ];
 

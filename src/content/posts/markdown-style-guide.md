@@ -1,226 +1,57 @@
 ---
-title: Markdown Style Guide
-slug: markdown-style-guide
-description: Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+slug: pasar-año-nuevo-ny
 category:
-  - Viajes
+  - General
 tags:
-  - Sed
-  - Astro
-  - Jamstack
-pubDate: 2023-09-06
-cover:  "/public/images/IMG_7803.jpg"
-coverAlt: AstroVerse-Markdown Style Guide
-author: VV
+  - Año Nuevo
+  - Nueva York
+  - Times Square
+pubDate: 2024-03-06
+cover: >-
+  https://images.unsplash.com/photo-1720447949266-38bc1eacbb38?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+coverAlt: New York año nuevo
+title: Pasar año nuevo en Nueva York
+
+description: >-
+  Cumplir un sueño al pasar año nuevo en el Times Square y vivirlo de esa
+  manera.
+author: Mateo
 ---
 
+Cumplir un sueño al pasar año nuevo en el Times Square y vivirlo de esa manera
 
+Antes que nada acalarar que es gratuito, no hace falta pagar nada, pero si ir con mucho tiempo de antelación y con mucha calma.
 
+¿Cómo llegar hasta ahí?
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+Ir muy temprano y esperar, que vayan abriendo las calles e ir avanzando en los "cuadrados" con vallas que arma la policía,
 
-## Headings
+Yo fui alrededor de las 11:30 de la mañana, mas de 12 horas de espera con el frio de esas épocas se hicieron dificiles. Por suerte me encontré con otros dos argentinos mas y la espera se hizo mas amena.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Esta foto es de la fila a las 11:30
 
-# H1
+![](/img/598597e0-edc4-47bc-b032-1fd764c31308.jpg)
 
-## H2
+Cabe destacar que al momento de ingresar nos encontramos con otros dos chicos de Argentina los cuales fueron nuestros compañeros durante ese año nuevo, quienes ayudaron a que la espera sea mas amena, y los cuales seguramente me acuerde toda la vida de ellos.
 
-### H3
+![](/img/fa6f78cb-3d7b-48c6-a0c7-d64d38d6d742.jpg)La cena de esa noche no fue para nada recordable.
 
-#### H4
+Durante toda la tarde/noche pasaron varios cantantes muy famosos como BTS (estaba lleno de asiaticos), POST MALONE, y los hispanoablantes CNCO.
 
-##### H5
+#### Cantantes presentes
 
-###### H6
+* BTS
+* POST MALONE
+* SAM HUNT
+* CNCO
 
-## Paragraph
+Imagen final del momento de las 00:00 del dia 1 de enero del 2020.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+![](/img/IMG_7295.jpg)
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Después de todos los papeles asi quedó una de las calles mas concurridas de Nueva York
 
-## Images
+![](/img/IMG_7309.jpg)
 
-#### Syntax
-
-```markdown
-![Alt text](./full/or/relative/path/of/image)
-```
-
-#### Output
-
-![blog placeholder](https://images.unsplash.com/photo-1581438973482-a95e50a1000c?q=80&w=2874&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-#### Syntax
-
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
-
-#### Output
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-### Blockquote with attribution
-
-#### Syntax
-
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-#### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-#### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntac, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-#### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-#### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+\#Mi opinión...
+Es algo para hacer una vez en tu vida, disfrutarlo, emocionarse y celebrar. Pero es muy cansador y agotador, estar tanto tiempo sin poder ir al baño, comer muy poco, y pasar tanto frío, pero sin dudas lo recomiendo.

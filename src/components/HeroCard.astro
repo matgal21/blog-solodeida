@@ -31,7 +31,7 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
 ---
 
 <div
-  class="mt-4 mb-4 relative overflow-hidden bg-neutral-200 transition-transform duration-1000 hover:scale-110 md:flex md:flex-row dark:border-neutral-600 dark:bg-neutral-900"
+  class="mt-8 mb-4 relative overflow-hidden bg-neutral-200 transition-transform duration-1000 hover:scale-110 md:flex md:flex-row dark:border-neutral-600 dark:bg-neutral-900"
 >
   <a href={`/posts/${post.slug}/`} class="block md:flex md:flex-1">
     <div class="md:w-2/3">
@@ -44,10 +44,10 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
       <h1 class="font-bold text-xl bg-sky-800 rounded-full p-2 text-white">{post.data.category.join(" ")}</h1>
       <FormattedDate date={post.data.pubDate} />
     </div>
-    <h3 class="mt-2 text-xl font-bold text-black md:text-neutral-900 dark:text-white">
+    <h3 class="mt-4 text-xl font-bold text-black md:text-neutral-900 dark:text-white">
       {post.data.title}
     </h3>
-    <p class="mt-2 text-black md:text-neutral-900 dark:text-white">
+    <p class="mt-4 text-black md:text-neutral-900 dark:text-white">
       {truncatedDescription}
     </p>
     <div class="mt-32 flex font-bold items-center gap-0 text-xs md:text-neutral-900 dark:text-white">

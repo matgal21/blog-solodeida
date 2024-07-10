@@ -1,7 +1,7 @@
 ---
 title: Buenos Aires a Paris con AirFrance
 slug: primera-vez-flybondi
-description: No solo por la arquitectura sino también por su modo de vida.
+description: N
 category:
   - Crónicas
 tags:

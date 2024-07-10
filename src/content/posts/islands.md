@@ -1,7 +1,7 @@
 ---
 title: Vuelo de Orlando a Boston
 slug: vuelo-oralndo-boston
-description: pasar del calor de Florida a un frio extremo en Boston
+description: Pasar del calor de Florida a un frio extremo en Boston
 category:
   - Crónicas
 tags:

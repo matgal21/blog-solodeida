@@ -41,12 +41,12 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
     class="border-4 border-b-orange-500  bottom-0 end-0 start-0 bg-neutral-200  p-4 md:relative md:flex md:w-1/3 md:flex-col md:justify-start md:bg-transparent md:p-5"
     >
     <div class="mt-4 flex items-center gap-4 text-xs text-black md:text-neutral-900 dark:text-white">
-      <h1 class="font-bold text-xl bg-sky-800 rounded-full p-2 text-white">{post.data.category.join(" ")}</h1>
+      <h3 class="font-bold text-xl bg-sky-600 rounded-full p-2 text-white">{post.data.category.join(" ")}</h3>
       <FormattedDate date={post.data.pubDate} />
     </div>
-    <h3 class="mt-4 text-xl font-bold text-black md:text-neutral-900 dark:text-white">
+    <h1 class="mt-4 text-xl font-bold text-black md:text-neutral-900 dark:text-white">
       {post.data.title}
-    </h3>
+    </h1>
     <p class="mt-4 text-black md:text-neutral-900 dark:text-white">
       {truncatedDescription}
     </p>

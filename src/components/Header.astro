@@ -19,7 +19,7 @@ import { Image } from "astro:assets";
     
     <div class="mb-4 items-center justify-center mx-32">
       <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
-        <Image src="https://images.unsplash.com/photo-1720472913316-5e97ae0b88eb?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" width="600" height="400" />  
+        <Image src="https://images.unsplash.com/photo-1720472913316-5e97ae0b88eb?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" width="600" height="300" />  
       </a>
 
     </div>
@@ -37,7 +37,7 @@ import { Image } from "astro:assets";
           ))
         }
       <div class=" gap-x-2 ms-auto py-1 md:ps-6 md:order-3 md:col-span-3 mr-8">
-      <button type="button" class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl border border-transparent text-white hover:bg-neutral-900 dark:text-white dark:hover:bg-neutral-700 transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+      <button type="button" class="py-2 px-3 inline-flex gap-x-2 text-sm font-medium rounded-xl border border-transparent text-white hover:bg-neutral-900 dark:text-white dark:hover:bg-neutral-700 transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
         <Icon name="tabler:search" class="icon-base" />
       </button>
       </div>
@@ -47,13 +47,13 @@ import { Image } from "astro:assets";
     <h4 class="text-white"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/es/city/3435910">
       <span style="color:rgb(255, 255, 255);" class="text-white">Hora actual en</span><br />Buenos Aires, Argentina</a>
     </h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=es&size=small&timezone=America%2FArgentina%2FBuenos_Aires&show=hour_minute" width="100%" height="90" frameborder="0" color="white" seamless></iframe> 
-  </div> -->
+  </div>  -->
   
 
   
   <div class="md:hidden">
-    <button type="button" class="hs-collapse-toggle size-[38px] flex justify-center items-center ml-8 text-sm font-semibold rounded-xl text-white  disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">      <Icon name="tabler:menu-2" class="hs-collapse-open:hidden flex-shrink-0 size-8 ml-8"></Icon>
-      <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8 ml-8"></Icon>
+    <button type="button" class="hs-collapse-toggle size-[38px] flex justify-center items-center text-sm font-semibold rounded-xl text-white  disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">      <Icon name="tabler:menu-2" class="hs-collapse-open:hidden flex-shrink-0 size-8 ml-8"></Icon>
+      <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8"></Icon>
     </button>
   </div>
 </header>

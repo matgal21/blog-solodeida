@@ -6,24 +6,16 @@ import { Image } from "astro:assets";
 ---
 <link rel="icon" type="image" href="/public/img/logos solo de ida/logo azul1.png" />
 
-<style>
-  .header { ;
-    }
-  .titulo { ;
-    ;
-  }  
-</style>
-
 <header class=" flex-wrap bg-blue-600 text-white border-b-4 border-b-orange-500">
   <nav class="relative max-w-7xl w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
     
     <div class="mb-4 items-center justify-center mx-32 max-h-80">
       <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
-        <Image src="https://images.unsplash.com/photo-1720472913316-5e97ae0b88eb?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" width="600" height="400"/>  
+        <Image src="https://images.unsplash.com/photo-1720472913316-5e97ae0b88eb?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" width="600" height="400" class="max-h-48"/>  
       </a>
-
-    </div>
       
+    </div>
+    
     <div id="navbar-collapse-with-animation" class="hs-collapse justify-items-center justify-between hidden overflow-hidden transition-all duration-300 basis-full md:block md:w-auto md:basis-auto md:order-2 md:col-span-6 text-white">
       <div class="flex flex-col gap-y-4 gap-x-0 md:flex-row md:justify-center md:items-center md:gap-y-0 md:gap-x-7 md:mt-0  text-lg">
         {
@@ -36,24 +28,27 @@ import { Image } from "astro:assets";
             </Link>
           ))
         }
-      <div class=" gap-x-2 ms-auto py-1 md:ps-6 md:order-3 md:col-span-3 mr-8">
-      <button type="button" class="py-2 px-3 inline-flex gap-x-2 text-sm font-medium rounded-xl border border-transparent text-white hover:bg-neutral-900 dark:text-white dark:hover:bg-neutral-700 transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+    <!-- <div class=" gap-x-2 ms-auto py-1 md:ps-6 md:order-3 md:col-span-3 mr-8">
+      <button type="button" class="py-2 gap-x-2 text-lg bolder rounded-xl border border-transparent text-white hover:bg-neutral-900 dark:text-white dark:hover:bg-neutral-700 transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
         <Icon name="tabler:search" class="icon-base" />
       </button>
-      </div>
+      </div> -->
     </div>
   </nav>
   <!-- <div style="text-align:center;padding:1em 0;"> 
     <h4 class="text-white"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/es/city/3435910">
-      <span style="color:rgb(255, 255, 255);" class="text-white">Hora actual en</span><br />Buenos Aires, Argentina</a>
+    <span style="color:rgb(255, 255, 255);" class="text-white">Hora actual en</span><br />Buenos Aires, Argentina</a>
     </h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=es&size=small&timezone=America%2FArgentina%2FBuenos_Aires&show=hour_minute" width="100%" height="90" frameborder="0" color="white" seamless></iframe> 
-  </div>  -->
-  
-
-  
-  <div class="md:hidden">
-    <button type="button" class="hs-collapse-toggle size-[38px] flex justify-center items-center text-sm font-semibold rounded-xl text-white  disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">      <Icon name="tabler:menu-2" class="hs-collapse-open:hidden flex-shrink-0 size-8 ml-8"></Icon>
-      <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8"></Icon>
-    </button>
-  </div>
-</header>
+    </div>  -->
+    
+    
+    
+    <div class="md:hidden flex justify-between bg-sky-600">
+      <button type="button" class="hs-collapse-toggle size-[38px] text-lg font-semibold rounded-xl text-white  disabled:opacity-50 disabled:pointer-events-none hover:text-orange-500 " data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">      <Icon name="tabler:menu-2" class="hs-collapse-open:hidden size-8 ml-8"></Icon>
+        <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8"></Icon>
+      </button>
+      <button type="button" class="hs-collapse-toggle mr-4 size-[38px] text-lg font-semibold rounded-xl text-white disabled:opacity-50 disabled:pointer-events-none hover:text-orange-500 " onclick="window.location.href='/search/'">
+        <Icon name="tabler:search" class="icon-base flex-shrink-0 size-6" />
+      </button>
+    </div>
+  </header>

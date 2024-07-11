@@ -1,7 +1,7 @@
 ---
 title: Porto, la encantadora ciudad del norte portugués
 slug: porto
-description: La gastronomía, la arquitectura, el trato de su gente hacen que sea un increíble destino
+description: La gastronomía, la arquitectura, el trato de su gente hacen que sea un increíble destino.
 category:
   - Viajes
 tags:
@@ -10,7 +10,7 @@ tags:
   - Turismo
 pubDate: 2023-09-09
 cover: https://images.unsplash.com/photo-1720395069792-5d1556e38da7?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-coverAlt: AstroVerse-Aliases
+coverAlt: ciudad-porto
 author: Mateo Galvez
 ---
 

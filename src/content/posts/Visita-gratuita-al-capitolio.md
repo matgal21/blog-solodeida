@@ -1,16 +1,19 @@
 ---
 title: Visitar el Capitolio estadounidense gratis
-slug: capitolio
-description: La gastronomía, la arquitectura, el trato de su gente hacen que sea un increíble destino
+slug: tour-guiado-capitolio
+description: Una recorrida en un tour guiado por la sede del Congreso de los Estados Unidos.
 category:
   - Viajes
 tags:
-  - Porto
-  - Portugal
+  - Estados Unidos
+  - Washington DC
   - Turismo
-pubDate: 2024-03-09
+  - Recorrida
+  - Capitolio
+  - Tour
+pubDate: 2024-03-02
 cover: https://images.unsplash.com/photo-1720394981524-48f2d354fdb4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-coverAlt: AstroVerse-Aliases
+coverAlt: capitolio-estados-unidos
 author: Mateo Galvez
 ---
 

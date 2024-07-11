@@ -5,9 +5,9 @@ category:
 tags:
   - Londres
   - Turismo
-  - Qué hace en ...?
+  - Qué hace en ...
 
-pubDate: '2024-04-05'
+pubDate: 2024-04-05
 cover: (/img/london/pexels-manualman32-726484.jpg)
 coverAlt: AstroVerse-Aliases
 title: Que hacer en ... LONDRES?

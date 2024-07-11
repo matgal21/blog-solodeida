@@ -1,25 +1,54 @@
 ---
-title: Barcelona
-slug: aliases
-description: An intro to aliases with Astro.
+slug: que-hacer-en-londres
 category:
   - General
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
-pubDate: 2023-09-01
-cover: "/public/images/roma.jpg"
+  - Londres
+  - Turismo
+  - Qué hace en ...?
+
+pubDate: '2024-04-05'
+cover: (/img/london/pexels-manualman32-726484.jpg)
 coverAlt: AstroVerse-Aliases
-author: VV
+title: Que hacer en ... LONDRES?
+description: 'Una ciudad llena de historia, con mucho por ver.'
+author: Mateo
 ---
 
-ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+![](/img/london/pexels-manualman32-726484.jpg)
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Londres, una ciudad vibrante y llena de historia, ofrece una infinidad de atracciones que cautivan a visitantes de todo el mundo. Desde monumentos históricos hasta museos de renombre mundial, la capital británica tiene algo para todos.       Ya sea que te interese por la historia, la cultura, el arte o simplemente busques lugares icónicos para tus fotos, Londres tiene algo especial que ofrecerte.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+1\. El Palacio de Buckingham 
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+![](</img/london/buckingham palace.jpg>)
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+El Palacio de Buckingham es una visita obligada para cualquier viajero en Londres. Como residencia oficial de la Reina, este majestuoso edificio no solo es un icono de la monarquía británica, sino también un símbolo de la historia y la cultura del Reino Unido. No te podés el Cambio de Guardia, una ceremonia llena de mística y elegancia que atrae a turistas de todas partes. Además, durante los meses de verano, algunas salas del palacio están abiertas al público, ofreciendo una visión fascinante del lujo y la opulencia en la que vive la familia real.
+
+2\. La Torre de Londres 
+
+![](</img/london/tower of london.jpg>)
+
+La Torre de Londres, con más de mil años de historia, es otro de los lugares imprescindibles. Este castillo ha servido como fortaleza, palacio y prisión, y actualmente alberga las Joyas de la Corona, una colección impresionante de objetos reales. Los visitantes pueden explorar sus antiguos muros y conocer las historias de los prisioneros famosos que fueron encerrados allí. No olvides visitar la Torre Blanca, el edificio más antiguo del complejo, y disfrutar de las vistas del icónico Puente de la Torre, situado justo al lado.
+
+3\. El Museo Británico 
+
+![](</img/london/london museum.jpg>)
+
+Para los amantes de la historia y el arte, el Museo Británico es un verdadero paraíso. Con una de las colecciones más extensas y variadas del mundo, este museo gratuito permite a los visitantes explorar artefactos de todas las épocas y culturas. Desde la Piedra de Rosetta hasta las esculturas del Partenón, cada sala del museo ofrece una nueva maravilla. Además, el Museo Británico alberga exposiciones temporales que abordan temas fascinantes y ofrecen una nueva perspectiva sobre diferentes aspectos de la historia.
+
+4\. El London Eye
+
+![](</img/london/london eye.jpg>)
+
+Para una vista panorámica inolvidable de Londres, el London Eye es la mejor opción. Esta noria gigante, situada a orillas del río Támesis, ofrece vistas espectaculares de los principales puntos de interés de la ciudad, como el Big Ben, el Palacio de Westminster y el río Támesis. Cada vuelta dura aproximadamente 30 minutos, lo que permite a los visitantes disfrutar de la ciudad desde una perspectiva única y capturar fotos impresionantes. Es especialmente recomendable realizar el paseo al atardecer, cuando las luces de la ciudad empiezan a encenderse y el horizonte se tiñe de colores cálidos.
+
+5\. Camden Market 
+
+![](</img/london/camdem market.jpg>)
+
+Si buscas una experiencia más alternativa y vibrante, Camden Market es el lugar perfecto. Este mercado es conocido por su ambiente bohemio y su amplia variedad de tiendas, puestos de comida y entretenimiento en vivo. Desde ropa vintage y artesanías hasta deliciosos platos de todo el mundo, Camden Market tiene algo para todos los gustos. Además, el área de Camden es famosa por su vida nocturna, con numerosos bares, pubs y locales de música en vivo que garantizan una noche llena de diversión.
+
+Conclusión 
+
+Londres es una ciudad que nunca deja de sorprender. Con su rica historia, su vibrante cultura y sus innumerables atracciones, siempre hay algo nuevo por descubrir.

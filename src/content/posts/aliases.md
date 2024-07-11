@@ -8,7 +8,7 @@ tags:
   - Qué hace en ...
 
 pubDate: 2024-04-05
-cover: (/img/london/pexels-manualman32-726484.jpg)
+cover: https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: AstroVerse-Aliases
 title: Que hacer en ... LONDRES?
 description: 'Una ciudad llena de historia, con mucho por ver.'

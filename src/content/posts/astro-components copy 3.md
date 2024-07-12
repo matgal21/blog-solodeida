@@ -9,7 +9,7 @@ tags:
   - España
   - Capital
 pubDate: 2024-02-01
-cover: "/public/img/Cibeles madrid.jpg"
+cover: /public/img/Cibeles madrid.jpg
 coverAlt: Plaza-cibeles-Madrid
 author: Mateo
 ---

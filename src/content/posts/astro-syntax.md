@@ -1,5 +1,5 @@
 ---
-slug: aveiro-la-venevia-de-portugal
+slug: aveiro-la-venecia-de-portugal
 category:
   - Viajes
 tags:
@@ -11,8 +11,7 @@ cover: >-
   https://images.unsplash.com/photo-1720369091745-1ccc6059a1cd?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: aveiro
 title: Aveiro...la Venecia de Portugal?
-posted: 2024-07-07T03:00:00.000Z
-description: La pintoresca ciudad entre Porto y Lisboa
+description: La pintoresca ciudad entre Porto y Lisboa.
 author: Mateo Galvez
 ---
 

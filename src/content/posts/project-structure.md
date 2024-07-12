@@ -1,13 +1,16 @@
 ---
-title: Project Structure
-slug: dsa
-description: Learn how to structure a project with Astro.
+title: El dia que casi pierdo un vuelo de Porto a Buenos Aires
+slug: el-dia-que-casi-pierdo-un-vuelo
+description: Por el retraso de la conexion a Madrid estuve a punto de perderlo.
 category:
   - Three 
 tags:
-  - Tailwind
-  - Astro
-  - File
+  - AirEuropa
+  - Porto
+  - Madrid
+  - Buenos Aires
+  - Boeing 737
+  - Boeing 787
 pubDate: 2023-09-01
 cover: "/public/images/LOBOS MARINOS.png"
 coverAlt: AstroVerse-Aliases

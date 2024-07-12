@@ -1,16 +1,17 @@
 ---
-title: Barcelona
-slug: barcelona
-description: ¿Qué hacer en Barcelona?
+title: Hostel en la gran vía por 9 euros la noche 
+slug: hostel-madrid-9-euros
+description: Dormir en el pleno centro de Madrid por menos de 10 euros. 
 category:
-  - Descubrir
+  - General
 tags:
-  - Mollis
-  - Astro
-  - Jamstack
-pubDate: 2023-09-01
-cover: "/public/images/IMG_7961.jpg"
-coverAlt: AstroVerse-Aliases
+  - Madrid
+  - Hostel
+  - Callao
+  - Gran Via
+pubDate: 2023-12-07
+cover: https://images.unsplash.com/photo-1720812793539-0e0b2327f498?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+coverAlt: foto-plaza-callao
 author: Mateo Galvez
 ---
 

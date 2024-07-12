@@ -1,17 +1,19 @@
 ---
-title: Share state between Islands
-slug: share-state-between-islands
-description: Learn how to share state across framework components with Nano Stores.
+title: Bus de Nueva York a Boston por solo 1 euro
+slug: bus-ny-boston-por-1-euro
+description: Un viaje entre dos grandes ciudades a un precio regalado.
 category:
   - Two
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
+  - Bus 
+  - Boston
+  - Viaje
+  - Oferta
+  - Flixbus
 pubDate: 2023-09-06
-cover: https://images.unsplash.com/photo-1475257026007-0753d5429e10?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+cover: "/public/img/flix bus.jpg"
 coverAlt: AstroVerse-Astro Islands
-author: VV
+author: Mateo
 ---
 
 When building an Astro website with [islands architecture / partial hydration](/en/concepts/islands/), you may have run into this problem: **I want to share state between my components.**

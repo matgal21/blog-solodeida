@@ -11,7 +11,7 @@ tags:
   - Oferta
   - Flixbus
 pubDate: 2023-11-10
-cover: /public/img/flix bus.jpg
+cover: https://images.unsplash.com/photo-1589056411110-81114028841e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: AstroVerse-Astro Islands
 author: Mateo
 ---

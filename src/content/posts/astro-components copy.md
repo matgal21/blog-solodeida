@@ -1,18 +1,18 @@
 ---
 title: Ver la estatua de la libertad desde un ferry gratuito
-slug: -ver-estatua-de-la-libertad-desde-un-ferry-gratuito
+slug: ver-estatua-de-la-libertad-desde-un-ferry-gratuito
 description: El ferry sale desde Manhattan y va hacia Staten Island y no tiene costo
 category:
-  - One
+  - Viajes
 tags:
   - Nueva York
   - Estatua Libertas
   - Viajes
   - Ferry
   - Turismo
-pubDate: 2023-12-25
-cover: https://images.unsplash.com/photo-1515446870326-c532f9a8d954?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
-coverAlt: AstroVerse-Aliases
+pubDate: 2023-12-12
+cover: https://images.unsplash.com/photo-1720791565742-24780438991b?q=80&w=773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+coverAlt: Esatua libertad
 author: Mateo
 ---
 

@@ -3,7 +3,7 @@ title: Sobre el blog
 slug: sobre-mi
 description: Que es este blog?
 category:
-  - One
+  - General
 tags:
   - Solo de ida
   - Blog
@@ -15,10 +15,14 @@ author: Mateo Galvez
 ---
 
 
-Soy Mateo, un apasionado viajero y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
+**Soy Mateo** , un apasionado viajero y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
 
 En este espacio, encontrarás relatos de mis viajes, guías , recomendaciones de lugares imperdibles, y tips prácticos para viajar de manera inteligente y económica. Mi objetivo es ayudarte a descubrir nuevos lugares, sumergirte en culturas fascinantes y vivir experiencias inolvidables.
 
 Desde escapadas de fin de semana hasta largas travesías por continentes lejanos, cada viaje es una oportunidad para aprender, crecer y conectar con el mundo. Acompáñame en esta emocionante travesía y descubre cómo convertir tus sueños de viaje en realidad.
 
+
 ¡Prepárate para explorar, descubrir y soñar con mi blog de viajes y turismo!
+
+## Mis vuelos
+<a class="justify-center align-center items-center" target="_blank" href="https://my.flightradar24.com/MateoGal27"><img src="https://banners-my.flightradar24.com/MateoGal27.png" alt="My Flightdiary.net profile" /></a>

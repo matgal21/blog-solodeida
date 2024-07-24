@@ -23,7 +23,9 @@ class="relative overflow-hidden bg-gray-200 transition-transform duration-500  d
       <div class="mt-4 flex items-center gap-4 text-xs text-black">
         <FormattedDate date={post.data.pubDate} />
       </div>
+      <a href={`/posts/${post.slug}/`} class="block">
       <h1 class="mt-2 text-xl font-bold text-black">{post.data.title}</h1>
+      </a>
       <h4 class="mt-2 text-medium font-bold text-black">{post.data.description}</h4>
     </div>
   </a>

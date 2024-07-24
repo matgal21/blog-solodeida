@@ -1,17 +1,19 @@
 ---
-title: You can also define your props with TypeScript
-slug: components14
-description: the basic building blocks of any Astro project
+title: Ver la estatua de la libertad desde un ferry gratuito
+slug: -ver-estatua-de-la-libertad-desde-un-ferry-gratuito
+description: El ferry sale desde Manhattan y va hacia Staten Island y no tiene costo
 category:
   - One
 tags:
-  - Tailwind
-  - Astro
-  - Markdown
-pubDate: 2023-09-01
+  - Nueva York
+  - Estatua Libertas
+  - Viajes
+  - Ferry
+  - Turismo
+pubDate: 2023-12-25
 cover: https://images.unsplash.com/photo-1515446870326-c532f9a8d954?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
 **Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.

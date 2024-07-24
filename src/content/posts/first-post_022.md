@@ -9,11 +9,11 @@ tags:
   - Blog
   - Mateo
 pubDate: 2023-09-01
-cover: "/public/images/IMG_1324.JPG"
-coverAlt: AstroVerse-Lorem ipsum dolor sit amet
+cover: ""
+coverAlt: ""
 author: Mateo Galvez
 ---
-
+![](</img/IMG_1324.JPG>)
 
 **Soy Mateo** , un apasionado viajero y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
 

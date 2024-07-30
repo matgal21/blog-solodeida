@@ -15,7 +15,7 @@ author: Mateo Galvez
 ---
 ![](</img/IMG_1324.JPG>)
 
-**Soy Mateo** , un apasionado viajero y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
+**Soy Mateo** , un apasionado por los viajes y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
 
 En este espacio, encontrarás relatos de mis viajes, guías , recomendaciones de lugares imperdibles, y tips prácticos para viajar de manera inteligente y económica. Mi objetivo es ayudarte a descubrir nuevos lugares, sumergirte en culturas fascinantes y vivir experiencias inolvidables.
 
@@ -25,4 +25,4 @@ Desde escapadas de fin de semana hasta largas travesías por continentes lejanos
 ¡Prepárate para explorar, descubrir y soñar con mi blog de viajes y turismo!
 
 ## Mis vuelos
-<a class="justify-center align-center items-center" target="_blank" href="https://my.flightradar24.com/MateoGal27"><img src="https://banners-my.flightradar24.com/MateoGal27.png" alt="My Flightdiary.net profile" /></a>
+<a class="justify-center align-center items-center" target="_blank" href="https://my.flightradar24.com/MateoGal27"><img src="https://banners-my.flightradar24.com/MateoGal27.png" alt="Mi perfil de MyFlightRadar " /></a>

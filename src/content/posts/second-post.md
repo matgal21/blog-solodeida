@@ -1,25 +1,35 @@
 ---
-title: Second post
 slug: second-post
-description: Lorem ipsum dolor sit amet.
-category:
-  - Two
-tags:
-  - Mollis
-  - Astro
-  - Jamstack
 pubDate: 2023-09-05
-cover: https://images.unsplash.com/photo-1610010992962-ab921d36eebb?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+cover: >-
+  https://images.unsplash.com/photo-1610010992962-ab921d36eebb?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
 coverAlt: AstroVerse-Second post
-author: VV
+title: 'Barcelona, mi primer destino en Europa'
+description: Mi llegada a Barcelona y primeras sensaciones
+category: 
+  - Viajes
+tags: 
+  - Barcelona
+  - Aerobus
+  - España
+  - Sagrada Familia
+author: Mateo
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+\*\*Después de unas cuantas horas de espera en el aeropuerto Charles De Gaulle(CDG), y un vuelo de casi 2 horas, llegaba al aeropuerto de Barcelona cerca de las 23:00.\*\*
+Por suerte estaba poco concurrido y pude buscar la valija rápido y sin problemas, para ir a la zona de buses a horario.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+//Foto aeropuerto bcn
+\## Por suerte el aerobus estaba proximo a llegar, el costo fue de unos 5 euros.
+Me baje en Plaza Catalunya pensando que podia subir a un bus y pagar con tarjeta de credito o debito (habia leido en algun lugar por redes que se podia pagar de este modo... no fue así),entonces para ir a la zona de la Sagrada Familia, donde me iba a alojar esa noche, decidi ir caminando para ahorrarme el uber.
+Al caminar durante una hora, pasando por la rambla, Casa Batló, la Pedrera y por hermosos edificios y lugares sin gente, pudiendo disfrutar realmente del lugar.A unas cuadras de llegar al hostel, sin querer, por una diagonal veo la hermosa Sagrada Familia, con esas luces de construcción en la punta y dije que mas pedir. En una hora ya me di cuenta que Barcelona me habia enamorado.
+/// foto sagrada familia de noche
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Ir muy temprano y esperar, que vayan abriendo las calles e ir avanzando en los "cuadrados" con vallas que arma la policía,
+Yo fui alrededor de las 11:30 de la mañana, mas de 12 horas de espera con el frio de esas épocas se hicieron dificiles. Por suerte me encontré con otros dos argentinos mas y la espera se hizo mas amena.
+!\[]\(\</src/assets/images/fila times square.jpg>)Esta foto es de la fila a las 11:30
+\### Cantantes
+Durante toda la tarde/noche pasaron varios cantantes muy famosos como BTS (estaba lleno de asiaticos), POST MALONE, y los hispanoablantes CNCO.
+\### Mi opinión...
+Es algo para hacer una vez en tu vida, disfrutarlo, emocionarse y celebrar. Pero es muy cansador y agotador, estar tanto tiempo sin poder ir al baño, comer muy poco, y pasar tanto frío, pero sin dudas lo recomiendo.
+!\[]\(\</src/assets/images/año nuevo3.jpg>)Imagen final del momento de las 00:00 del dia 1 de enero del 2020.

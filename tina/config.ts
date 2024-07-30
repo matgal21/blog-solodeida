@@ -54,6 +54,18 @@ export default defineConfig({
           },
           {
             type: "string",
+            name: "category",
+            label: "category",
+            isBody: true,
+          },
+          {
+            type: "string",
+            name: "tags",
+            label: "tags",
+            isBody: true,
+          },
+          {
+            type: "string",
             name: "author",
             label: "Author",
             isBody: true,

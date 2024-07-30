@@ -29,12 +29,12 @@ const today = new Date();
           SocialLinks.map((link) => (
             <button
               type="button"
-              class="relative inline-flex h-12 w-12 items-center gap-x-2 bg-white px-4 py-3 text-neutral-900 hover:text-red-700 disabled:pointer-events-none disabled:opacity-50  dark:text-neutral-500 dark:hover:text-neutral-200 dark:bg-neutral-900 dark:hover:bg-neutral-900"
+              class="relative inline-flex h-12 w-12 items-center gap-x-2 bg-white px-4 py-3 text-neutral-100 hover:text-red-700 disabled:pointer-events-none disabled:opacity-50  dark:text-neutral-500 dark:hover:text-neutral-200 dark:bg-neutral-900 dark:hover:bg-neutral-900"
             >
               <a
                 href={link.href}
                 target="_blank"
-                class="absolute inset-0 z-10"
+                class="absolute inset-0 z-10 text-orange-600"
                 aria-label={link.label}
               />
               <Icon name={link.icon} class="icon-base text-xl" />

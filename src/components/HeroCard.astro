@@ -59,7 +59,7 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
 <style>
   img {
     width: 700px;
-    height: 500px
+    height: 30%;
   }
 </style>
 
@@ -68,12 +68,14 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions3" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions4" data-bs-slide-to="3" aria-label="Slide 4"></button>
+
     </div>
     
     <a href="/posts/tour-guiado-capitolio/">
       <div class="carousel-inner">
         <div class="carousel-item active hover:scale-110">
-          <img src="https://images.unsplash.com/photo-1720394981524-48f2d354fdb4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="Capitolio us">
+          <img src="https://images.unsplash.com/photo-1720394981524-48f2d354fdb4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100 grid" alt="Capitolio us">
           <div class="carousel-caption d-none d-md-block bg-sky-700 bg-opacity-90 rounded">
             <h2 class="text-2xl font-bold">Visitar el Capitolio estadouniudense gratis</h2>
             <p>Una recorrida en un tour guiado por la sede del Congreso de los Estados Unidos.</p>
@@ -90,15 +92,26 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
           </div>
         </div>
       </a>
+
       <a href="/posts/aveiro-la-venecia-de-portugal/">
         <div class="carousel-item hover:scale-110">
-          <img src="https://images.unsplash.com/photo-1720369091745-1ccc6059a1cd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="London Eye">
+          <img src="https://images.unsplash.com/photo-1720369091745-1ccc6059a1cd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTJ8fHxlbnwwfHx8fHw%3D" class="d-block w-100" alt="London Eye">
           <div class="carousel-caption d-none d-md-block bg-sky-700 bg-opacity-60 rounded">
             <h2 class="text-2xl font-bold">Aveiro... la Venecia de Portugal?</h2>
             <p>La pintoresca ciudad entre Porto y Lisboa</p>
           </div>
         </div>
       </div>
+      </a>
+
+      <a href="/posts/primera-vez-fly-bondi/">
+        <div class="carousel-item hover:scale-110">
+          <img src="https://images.unsplash.com/photo-1720362570794-c9dd78232bdf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTV8fHxlbnwwfHx8fHw%3D" class="d-block w-100" alt="Avión Flybondi">
+          <div class="carousel-caption d-none d-md-block bg-orange-700 bg-opacity-60 rounded">
+            <h2 class="text-2xl font-bold">Primera vez volando con Flybondi a Bariloche</h2>
+            <p>Viajando desde Aeroparque a Barloche desde la low cost con mas crecimiento en el pais.</p>
+          </div>
+        </div>
       </a>
       
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">

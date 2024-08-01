@@ -27,7 +27,7 @@ import { Image } from 'astro:assets';
 <br></br>
 
 # 1. El Castillo de Liubliana
-<Image src="/public/img/Eslovenia/castillo liubliana.jpeg" width="600px" alt="castillo liubliana">
+<Image src="/public/img/Eslovenia/castillo liubliana.jpeg" width="600px" alt="castillo liubliana" />
 
 
 ### El Castillo de Liubliana es uno de los puntos de referencia más importantes de la ciudad. Situado en una colina que domina el centro de la ciudad, este castillo medieval ofrece vistas panorámicas impresionantes de Liubliana y sus alrededores. Puedes llegar al castillo a pie, en funicular o en tren turístico. Una vez allí, explora sus diversas exhibiciones que narran la historia de Eslovenia y disfruta de sus torres de observación. El castillo también alberga restaurantes y cafeterías donde puedes relajarte y disfrutar del paisaje. No te pierdas las visitas guiadas que te llevarán a través de los rincones más interesantes del castillo.
@@ -36,7 +36,7 @@ import { Image } from 'astro:assets';
 
 # 2. El Puente Triple
 
-<img src="/public/img/Eslovenia/puente triple.jpeg" width="600px" alt="castillo liubliana">
+<img src="/src/img/eslovenia/puente triple.jpeg" width="600px" alt="castillo liubliana">
 
 ### **El Puente Triple** es uno de los monumentos **más distintivos de Liubliana**. Diseñado por el famoso arquitecto **Jože Plečnik**, este conjunto de **tres puentes** conecta la ciudad moderna con el casco antiguo, cruzando el río Liublianica. El **puente central es el más antiguo**, mientras que los **dos laterales fueron añadidos posteriormente** para aliviar el tráfico peatonal. Pasear por el Puente Triple te brinda una **vista magnífica del río** y del **Castillo de Liubliana**. Alrededor de la **plaza Prešeren**, situada junto al puente, encontrarás una vibrante mezcla de tiendas, cafés y restaurantes, haciendo de esta área un **lugar perfecto para explorar**.
 

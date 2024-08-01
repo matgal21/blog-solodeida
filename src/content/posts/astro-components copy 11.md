@@ -25,7 +25,7 @@ author: Mateo
 <br></br>
 
 # 1. El Castillo de Liubliana
-<img src="/public/img/Eslovenia/castillo liubliana.jpeg" width="600px" alt="castillo liubliana">
+<Image src="/public/img/Eslovenia/castillo liubliana.jpeg" width="600px" alt="castillo liubliana">
 
 
 ### El Castillo de Liubliana es uno de los puntos de referencia más importantes de la ciudad. Situado en una colina que domina el centro de la ciudad, este castillo medieval ofrece vistas panorámicas impresionantes de Liubliana y sus alrededores. Puedes llegar al castillo a pie, en funicular o en tren turístico. Una vez allí, explora sus diversas exhibiciones que narran la historia de Eslovenia y disfruta de sus torres de observación. El castillo también alberga restaurantes y cafeterías donde puedes relajarte y disfrutar del paisaje. No te pierdas las visitas guiadas que te llevarán a través de los rincones más interesantes del castillo.

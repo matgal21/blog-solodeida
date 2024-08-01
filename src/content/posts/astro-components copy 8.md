@@ -1,6 +1,6 @@
 ---
 title: Cracovia
-slug: components7
+slug: que-hacer-en-cracovia
 description: La belleza de la cidad mas visitada en Polonia
 category:
   - One

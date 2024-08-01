@@ -1,6 +1,6 @@
 ---
 title: Paris
-slug: components5
+slug: que-hacer-en-paris
 description: Una de las ciudades mas fotogenicas del mundo
 category:
   - One

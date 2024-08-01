@@ -1,6 +1,6 @@
 ---
 title: Los Angeles
-slug: components10
+slug: que-hacer-en-los-angeles
 description: the basic building blocks of any Astro project
 category:
   - One

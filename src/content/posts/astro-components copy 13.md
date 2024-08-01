@@ -1,6 +1,6 @@
 ---
 title: Budapest
-slug: components13
+slug: que-hacer-en-budapest
 description: the basic building blocks of any Astro project
 category:
   - One

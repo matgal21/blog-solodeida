@@ -1,6 +1,6 @@
 ---
 title: Berlin
-slug: berlin
+slug: que-hacer-en-berlin
 description: La capital alemana, una ciudad cuna de hechos historicos
 category:
   - One

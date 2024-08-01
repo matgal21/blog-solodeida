@@ -1,6 +1,6 @@
 ---
 title: Zagreb
-slug: components12
+slug: que-hacer-en-zagreb
 description: the basic building blocks of any Astro project
 category:
   - One

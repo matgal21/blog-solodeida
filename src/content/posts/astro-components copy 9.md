@@ -1,6 +1,6 @@
 ---
 title: Roma
-slug: components8
+slug: que-hacer-en-roma
 description: the basic building blocks of any Astro project
 category:
   - One

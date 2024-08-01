@@ -16,6 +16,8 @@ tags:
 
 author: Mateo
 ---
+import { Image } from 'astro:assets';
+
 
 ### Liubliana, la capital de Eslovenia, es una ciudad encantadora y vibrante que combina la historia medieval con una atmósfera moderna y relajada. Con su río serpenteante, puentes pintorescos y una gran cantidad de espacios verdes, Liubliana ofrece un ambiente acogedor y amigable. En esta nota, exploraremos las mejores atracciones de Liubliana que no te puedes perder. Desde el imponente Castillo de Liubliana hasta el innovador Metelkova, descubre todo lo que hace de esta ciudad un destino fascinante.
 

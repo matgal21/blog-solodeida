@@ -33,7 +33,7 @@ author: Mateo
 
 ![](</img/Eslovenia/castillo liubliana.jpeg>)
 
-### El Castillo de Liubliana es uno de los puntos de referencia más importantes de la ciudad. Situado en una colina que domina el centro de la ciudad, este castillo medieval ofrece vistas panorámicas impresionantes de Liubliana y sus alrededores. 
+#### El Castillo de Liubliana es uno de los puntos de referencia más importantes de la ciudad. Situado en una colina que domina el centro de la ciudad, este castillo medieval ofrece vistas panorámicas impresionantes de Liubliana y sus alrededores. 
 
 ### Puedes llegar al castillo a pie, en funicular o en tren turístico. Una vez allí, explora sus diversas exhibiciones que narran la historia de Eslovenia y disfruta de sus torres de observación. 
 
@@ -51,7 +51,7 @@ author: Mateo
 
 ### El **puente central es el más antiguo**, mientras que los **dos laterales fueron añadidos posteriormente** para aliviar el tráfico peatonal. 
 
-### Pasear por el Puente Triple te brinda una **vista magnífica del río** y del **Castillo de Liubliana**. 
+### Pasear por el *Puente Triple* te brinda una **vista magnífica del río** y del **Castillo de Liubliana**. 
 
 ### Alrededor de la **plaza Prešeren**, situada junto al puente, encontrarás una vibrante mezcla de tiendas, cafés y restaurantes, haciendo de esta área un **lugar perfecto para explorar**.
 

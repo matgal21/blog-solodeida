@@ -16,7 +16,7 @@ author: Mateo
 Madrid, la capital de España, es una ciudad vibrante y llena de vida que combina a la perfección su rico patrimonio histórico con una energía moderna y cosmopolita. Con su arquitectura impresionante, museos de clase mundial, parques hermosos y una vida nocturna inigualable, Madrid tiene algo para todos. En esta nota, exploraremos las mejores atracciones de Madrid que no te puedes perder. Desde el majestuoso Palacio Real hasta el animado mercado de El Rastro, descubre todo lo que esta increíble ciudad tiene para ofrecer.
 
 1. El Palacio Real (150 palabras)
-<img src="/public/images/madrid/palacio real españa.jpeg" alt="palacio real españa" width="500px" >
+<img src="/images/madrid/palacio real españa.jpeg" alt="palacio real españa" width="500px" >
 
 El Palacio Real de Madrid es uno de los edificios más emblemáticos de la ciudad y una visita imprescindible para cualquier viajero. Este imponente palacio, que es la residencia oficial de la familia real española, aunque solo se utiliza para ceremonias de estado, cuenta con más de 3,000 habitaciones decoradas con una opulencia que deja sin aliento. Los visitantes pueden recorrer varias de estas estancias, incluyendo la impresionante Armería Real y la exquisita Sala del Trono. Además, los jardines del Campo del Moro y el Jardín de Sabatini, que rodean el palacio, son perfectos para un paseo relajante.
 

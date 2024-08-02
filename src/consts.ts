@@ -29,12 +29,12 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "General" },
+  { href: "/category/General/1/", title: "General" },
   { href: "/category/Viajes/1/", title: "Viajes" },
-  { href: "/tags/Astro/1/", title: "Qué hacer en...?" },
+  // { href: "/tags/Astro/1/", title: "Qué hacer en...?" },
   { href: "/category/Crónicas/1/", title: "Crónicas" },
   { href: "/tags/", title: "TAGS" },
-  { href: "/category/Descubrir/1/", title: "Descubrir" },
+  { href: "/category/Descubrir/1/", title: "Descubrir destinos" },
 
 
 

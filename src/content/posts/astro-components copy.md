@@ -50,18 +50,18 @@ Además de la Estatua de la Libertad, el ferry ofrece vistas impresionantes del 
 
 Una vez que llegues a Staten Island, hay varias actividades y lugares para explorar. Aquí tienes algunas recomendaciones:
 
-* -Staten Island Museum: Un museo que ofrece una interesante combinación de historia natural, arte y cultura local.
-* -Snug Harbor Cultural Center & Botanical Garden: Un centro cultural y jardín botánico que alberga una variedad de exposiciones y eventos.
-* -Historic Richmond Town: Un museo al aire libre que recrea la vida en Staten Island en los siglos pasados.
+* **Staten Island Museum**: Un museo que ofrece una interesante combinación de historia natural, arte y cultura local.
+* **Snug Harbor Cultural Center & Botanical Garden**: Un centro cultural y jardín botánico que alberga una variedad de exposiciones y eventos.
+* **Historic Richmond Town**: Un museo al aire libre que recrea la vida en Staten Island en los siglos pasados.
 
 ## Consejos para el Viaje
 
-* -Horario: El ferry opera las 24 horas del día, los 7 días de la semana, con salidas frecuentes. Consulta el horario en línea para planificar tu viaje.
-* -Mejores Vistas: Para obtener las mejores vistas de la Estatua de la Libertad, dirígete al lado derecho del ferry cuando te dirijas a Staten Island y al lado izquierdo cuando regreses a Manhattan.
-* -Evitar las Multitudes: Si prefieres evitar las multitudes, trata de tomar el ferry fuera de las horas pico, que son generalmente durante las mañanas y tardes de días laborables.
-* \- Otra muy importante es no dejarse intimidar por la gente que se encuentra en la entrada a la terminal que piden dinero y que les pagues por el ferry, simplemente no darle importancia y seguir camino a la terminal.
-* ![](</img/NY/ferry entrada.jpeg>)
+* **Horario**: El ferry opera las 24 horas del día, los 7 días de la semana, con salidas frecuentes. Consulta el horario en línea para planificar tu viaje.
+* **Mejores Vistas**: Para obtener las mejores vistas de la Estatua de la Libertad, dirígete al lado derecho del ferry cuando te dirijas a Staten Island y al lado izquierdo cuando regreses a Manhattan.
+* **Evitar las Multitudes**: Si prefieres evitar las multitudes, trata de tomar el ferry fuera de las horas pico, que son generalmente durante las mañanas y tardes de días laborables.
+*  **Otra muy importante** es no dejarse intimidar por la gente que se encuentra en la entrada a la terminal que piden dinero y que les pagues por el ferry, simplemente no darle importancia y seguir camino a la terminal.
+ ![](</img/NY/ferry entrada.jpeg>)
 
 ## Conclusión
 
-El ferry de Staten Island es una experiencia que no te puedes perder cuando visitas Nueva York. No solo es una manera práctica y gratuita de moverse entre Manhattan y Staten Island, sino que también ofrece algunas de las mejores vistas de la ciudad y sus alrededores. ¡No olvides incluir este viaje en tu itinerario y disfruta de una perspectiva única de la Gran Manzana!
+### El ferry de Staten Island es una experiencia que no te puedes perder cuando visitas Nueva York. No solo es una manera práctica y gratuita de moverse entre Manhattan y Staten Island, sino que también ofrece algunas de las mejores vistas de la ciudad y sus alrededores. ¡No olvides incluir este viaje en tu itinerario y disfruta de una perspectiva única de la Gran Manzana!

@@ -32,7 +32,7 @@ El trayecto comienza en el Whitehall Terminal en el Bajo Manhattan, situado cerc
 
 ### DATO DE COLOR
 
-En la famosa película de \*\*SPIDER-MAN: DE REGRESO A CASA \*\*aparece este ferry y tiene una escena muy importante de la película.
+En la famosa película de **SPIDER-MAN: DE REGRESO A CASA** aparece este ferry y tiene una escena muy importante de la película.
 
 ![](</img/NY/spider man ferry.jpeg>)
 

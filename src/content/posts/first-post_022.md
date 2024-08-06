@@ -13,7 +13,7 @@ cover: ""
 coverAlt: ""
 author: Mateo Galvez
 ---
-![](</img/IMG_1324.JPG>)
+<img src="/img/IMG_1324.jpg" alt="Imagen Mateo">
 
 **Soy Mateo** , un apasionado por los viajes y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
 

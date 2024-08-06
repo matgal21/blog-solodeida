@@ -1,5 +1,5 @@
 ---
-title: Roma
+title: ¿Qué hacer en... ROMA?
 slug: que-hacer-en-roma
 description: the basic building blocks of any Astro project
 category:
@@ -8,6 +8,8 @@ tags:
   - Tailwind
   - SEO
   - Jamstack
+    - Turismo
+
 pubDate: 2023-09-01
 cover: https://plus.unsplash.com/premium_photo-1676391399721-87078f87da25?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fHJvbWF8ZW58MHx8MHx8fDA%3D
 coverAlt: AstroVerse-Aliases

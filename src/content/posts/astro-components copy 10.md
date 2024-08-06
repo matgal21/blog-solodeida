@@ -1,5 +1,5 @@
 ---
-title: Los Angeles
+title: ¿Qué hacer en... LOS ÁNGELES?
 slug: que-hacer-en-los-angeles
 description: the basic building blocks of any Astro project
 category:
@@ -8,6 +8,8 @@ tags:
   - Tailwind
   - Astro
   - Jamstack
+    - Turismo
+
 pubDate: 2023-09-01
 cover: https://images.unsplash.com/photo-1604261622543-be7da1e4f520?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxsb3MlMjBhbmdlbGVzfGVufDB8MHwwfHx8MA%3D%3D
 coverAlt: AstroVerse-Aliases

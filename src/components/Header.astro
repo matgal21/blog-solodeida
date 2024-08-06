@@ -5,7 +5,10 @@ import { SITE_TITLE, HeaderLinks } from "@consts";
 import { Image } from "astro:assets";
 ---
 <style>
-  h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+  h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    }
 </style>
 <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
 <head>
@@ -14,16 +17,17 @@ import { Image } from "astro:assets";
 </head>
 <header class=" flex-wrap bg-blue-600 text-white border-b-4 border-b-orange-500">
   
-  <nav class="relative max-w-7xl w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
+  <nav class="relative w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
     
-    <div class="mb-4 flex grow mx-32 align-center justify-center items-center hover:shadow-orange-500	hover:shadow-md">
-      <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
-        <Image src="/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  
-      </a>
-      <a href="/">
-        <h2 class="text-8xl align-center justify-center items-center  mx-4">SOLO DE IDA</h2>
-      </a>
-    </div>
+    <div class="mb-4 flex grow mx-16 align-center justify-center items-center">
+        <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
+          <Image src="/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  
+        </a>
+        <a href="/">
+          <h2 class=" align-center justify-center items-center mx-4 hover:shadow-orange-500	hover:shadow-md">SOLO DE IDA</h2>
+        </a>
+      </div>
+
     
     <div id="navbar-collapse-with-animation" class="hs-collapse justify-items-center justify-between hidden overflow-hidden transition-all duration-300 basis-full md:block md:w-auto md:basis-auto md:order-2 md:col-span-6 text-white">
       <div class="flex flex-col gap-y-4 gap-x-0 md:flex-row md:justify-center md:items-center md:gap-y-0 md:gap-x-7 md:mt-0 text-lg">

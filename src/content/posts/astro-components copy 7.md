@@ -1,5 +1,5 @@
 ---
-title: Varsovia
+title: ¿Qué hacer en... VARSOVIA?
 slug: que-hacer-en-varsovia
 description: Una ciudad que se reconstruyo y hoy es hermosa
 category:
@@ -8,6 +8,8 @@ tags:
   - Polonia
   - Varsovia
   - Jamstack
+    - Turismo
+
 pubDate: 2023-09-01
 cover: https://images.unsplash.com/photo-1519197924294-4ba991a11128?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: Varsovia-ciudad

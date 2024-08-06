@@ -1,5 +1,5 @@
 ---
-title: Paris
+title: ¿Qué hacer en... PARIS?
 slug: que-hacer-en-paris
 description: Una de las ciudades mas fotogenicas del mundo
 category:
@@ -8,6 +8,8 @@ tags:
   - Tailwind
   - Astro
   - Jamstack
+    - Turismo
+
 pubDate: 2023-09-01
 cover: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhcmlzfGVufDB8fDB8fHww
 coverAlt: AstroVerse-Aliases

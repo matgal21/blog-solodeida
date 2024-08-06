@@ -19,16 +19,16 @@ author: Mateo
 
 ### La aplicación es el mayor marketplace para salvar el excedente de comida. Ayudamos a los usuarios a evitar que se desperdicien alimentos en buen estado, ofreciéndoles una excelente relación calidad-precio en tiendas, cafeterías y restaurantes locales.
 
-<img src="/public/images/too good to go/too good to go persona.jpeg" width="500px" alt="Too good to go bolsa verduras">
+<img src="/images/too good to go/too good to go persona.jpeg" width="500px" alt="Too good to go bolsa verduras">
 
-Si te interesa ver más de la empresa a continuación el sitio web: https://www.toogoodtogo.com/es/about-us
+Si te interesa ver más de la empresa a continuación el sitio web: <a href="https://www.toogoodtogo.com/es/about-us" target="_blank">too good to go.</a>
 
 Esta aplicación fue fundada en Copenague, Dinamarca, y hoy en dia se encuentra en Estados Unidos y muchos paises de Europa, siendo muy popular tanto para turistas como para residentes. 
 
 Desde panaderías, verdulerías, supermercados , restaurantes y mucho más. Esta aplicación ofrece alimentos de excelente calidad a un precio del 30% del valor original. 
 Lo que lo hace sumamente interesante porque además de ayudar a no desperdiciar comida, estamos ahorrando dinero.
 
-## Mi experiencia fue en España y en Portugal, ambos países sumamente positiva.
+## Mi experiencia fue en Portugal, y fue sumamente positiva.
 
 **Primera vez** en el supermercado portugués Auchan, por este pedido pagué €3.99 por algo que salía €15
 <img src="/images/too good to go/5EE1EBE2-E016-42EF-BFE1-72C9936A2C0C.jpg" width="400px">

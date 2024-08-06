@@ -4,7 +4,10 @@ import { Icon } from "astro-icon/components";
 import { SITE_TITLE, HeaderLinks } from "@consts";
 import { Image } from "astro:assets";
 ---
-<link rel="icon" type="image" href="/public/img/logos solo de ida/logo azul1.png" />
+<style>
+  h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+</style>
+<link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
@@ -13,11 +16,13 @@ import { Image } from "astro:assets";
   
   <nav class="relative max-w-7xl w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
     
-    <div class="mb-4 items-center justify-center mx-32 max-h-80">
+    <div class="mb-4 flex grow mx-32 align-center justify-center items-center hover:shadow-orange-500	hover:shadow-md">
       <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
-        <Image src="https://images.unsplash.com/photo-1720472913316-5e97ae0b88eb?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" width="600" height="400" class="max-h-48"/>  
+        <Image src="/public/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  
       </a>
-      
+      <a href="/">
+        <h2 class="text-8xl align-center justify-center items-center  mx-4">SOLO DE IDA</h2>
+      </a>
     </div>
     
     <div id="navbar-collapse-with-animation" class="hs-collapse justify-items-center justify-between hidden overflow-hidden transition-all duration-300 basis-full md:block md:w-auto md:basis-auto md:order-2 md:col-span-6 text-white">

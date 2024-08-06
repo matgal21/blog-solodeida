@@ -24,9 +24,9 @@ const { Content } = await post.render();
       <div class="prose-h1 text-center">
         <h1>{post.data.title}</h1>
       </div>
-      <div class="flex justify-between font-bold">
+      <div class="flex text-xl justify-between font-bold">
         <small
-          >Publicado el <FormattedDate date={post.data.pubDate}/> por {post.data.author}
+          >Publicado el <FormattedDate date={post.data.pubDate}/> por <b><u>{post.data.author}</u></b>
           </small
         >
       </div>

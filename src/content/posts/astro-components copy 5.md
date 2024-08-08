@@ -1,17 +1,17 @@
 ---
 title: ¿Qué hacer en... BERLIN?
 slug: que-hacer-en-berlin
-description: La capital alemana, una ciudad cuna de hechos historicos
+description: La capital alemana, una ciudad cuna de hechos historicos.
 category:
-  - One
+  - Descubrir
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
-    - Turismo
+  - Alemania
+  - Berlin
+  - Capital
+  - Turismo
 
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: "/images/alemania/berlin.jpeg"
 coverAlt: AstroVerse-Aliases
 author: Mateo Galvez
 ---

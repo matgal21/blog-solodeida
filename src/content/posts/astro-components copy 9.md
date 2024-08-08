@@ -1,19 +1,20 @@
 ---
 title: ¿Qué hacer en... ROMA?
 slug: que-hacer-en-roma
-description: the basic building blocks of any Astro project
+description: La ciudad donde se mezcla un pasado histórico con el presente.
 category:
-  - One
+  - Descubrir
 tags:
-  - Tailwind
-  - SEO
-  - Jamstack
-    - Turismo
+  - Roma
+  - Italia
+  - Coliseo
+  - Turismo
+  - Fontana Di Trevi
 
 pubDate: 2023-09-01
-cover: https://plus.unsplash.com/premium_photo-1676391399721-87078f87da25?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fHJvbWF8ZW58MHx8MHx8fDA%3D
+cover: "/images/italia/roma.jpg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
 Roma, la capital de Italia, es una ciudad llena de historia, cultura y belleza. Conocida como la Ciudad Eterna, Roma ofrece una mezcla única de monumentos antiguos, impresionantes obras de arte y una vibrante vida moderna. En esta nota, exploraremos las mejores atracciones de Roma que no te puedes perder. Desde el majestuoso Coliseo hasta la impresionante Basílica de San Pedro, descubre todo lo que hace de esta ciudad un destino inolvidable.

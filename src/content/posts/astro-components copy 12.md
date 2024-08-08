@@ -3,7 +3,7 @@ title: ¿Qué hacer en... ZAGREB?
 slug: que-hacer-en-zagreb
 description: the basic building blocks of any Astro project
 category:
-  - One
+  - Descubrir
 tags:
   - Tailwind
   - Astro
@@ -11,9 +11,9 @@ tags:
     - Turismo
 
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1526655805340-274e69922288?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+cover: "/public/images/craocia/zagreb 2.jpeg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 Zagreb, la capital de Croacia, es una ciudad vibrante y llena de historia, donde la tradición se encuentra con la modernidad. Con sus calles adoquinadas, arquitectura austrohúngara y una vibrante escena cultural, Zagreb tiene algo para todos los gustos. En esta nota, exploraremos las mejores atracciones de Zagreb que no te puedes perder. Desde el histórico barrio de Gornji Grad hasta el innovador Museo de las Relaciones Rotas, descubre todo lo que hace de Zagreb un destino único y fascinante.
 

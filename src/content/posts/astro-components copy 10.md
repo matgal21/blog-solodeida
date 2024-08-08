@@ -1,9 +1,9 @@
 ---
 title: ¿Qué hacer en... LOS ÁNGELES?
 slug: que-hacer-en-los-angeles
-description: the basic building blocks of any Astro project
+description: Desde la hostentación de Hollywood hasta las hermosas y reconocidas playas.
 category:
-  - One
+  - Descubrir
 tags:
   - Tailwind
   - Astro
@@ -11,10 +11,11 @@ tags:
     - Turismo
 
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1604261622543-be7da1e4f520?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxsb3MlMjBhbmdlbGVzfGVufDB8MHwwfHx8MA%3D%3D
+cover: "/images/usa/la.jpg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
+
 Los Ángeles, la segunda ciudad más grande de Estados Unidos, es conocida por su clima soleado, sus playas icónicas y su vibrante industria del entretenimiento. Con una mezcla única de cultura, historia y modernidad, LA ofrece algo para todos. En esta nota, exploraremos las mejores atracciones de Los Ángeles que no te puedes perder. Desde el glamuroso Hollywood hasta las relajantes playas de Santa Mónica, descubre todo lo que hace de esta ciudad un destino imprescindible.
 
 1. Hollywood (150 palabras)

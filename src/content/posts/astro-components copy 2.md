@@ -14,9 +14,9 @@ tags:
   - AirFrance
   - Airbus 350
 pubDate: 2023-09-01
-cover: "/public/images/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
+cover: "/images/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
 **Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.

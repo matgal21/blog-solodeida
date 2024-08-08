@@ -1,8 +1,8 @@
 ---
 slug: que-hacer-en-ljubjiana
 pubDate: 2024-06-10
-cover: >-
-  https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: 
+  "/images/eslovenia/liubliana.jpeg"
 coverAlt: Ciudad de Jljubljana
 title: ¿Qué hacer en... LJUBLJANA?
 description: La no muy conocida pero muy interesante y atractiva capital de Eslovenia.

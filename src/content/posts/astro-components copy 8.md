@@ -11,9 +11,9 @@ tags:
     - Turismo
 
 pubDate: 2023-09-01
-cover: https://plus.unsplash.com/premium_photo-1689248943653-37ab70151a9f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3JhY292aWF8ZW58MHx8MHx8fDA%3D
+cover: "/images/polonia/cracovia.jpg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
 Cracovia, una de las ciudades más antiguas y hermosas de Polonia, es un destino lleno de historia, cultura y encanto. Con su impresionante arquitectura medieval, vibrantes plazas y rica herencia cultural, Cracovia ofrece una experiencia única para cada visitante. En esta nota, exploraremos las mejores atracciones de Cracovia que no te puedes perder. Desde el histórico Castillo de Wawel hasta el conmovedor Museo de Auschwitz, descubre todo lo que hace de Cracovia un destino inolvidable.

@@ -3,17 +3,17 @@ title: ¿Qué hacer en... PARIS?
 slug: que-hacer-en-paris
 description: Una de las ciudades mas fotogenicas del mundo
 category:
-  - One
+  - Descubrir
 tags:
   - Tailwind
-  - Astro
-  - Jamstack
-    - Turismo
+  - Francia
+  - Paris
+  - Turismo
 
 pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhcmlzfGVufDB8fDB8fHww
+cover: "/images/paris/paris.jpeg"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 París, la capital de Francia, es conocida mundialmente como la Ciudad de la Luz. Con su rica historia, su arquitectura icónica y su vibrante vida cultural, París atrae a millones de visitantes cada año. Desde la majestuosidad de la Torre Eiffel hasta la elegancia de los Campos Elíseos, cada rincón de París ofrece una nueva maravilla por descubrir. En esta nota, exploraremos las mejores atracciones de París que no te puedes perder. Sumérgete en la magia de esta ciudad encantadora y descubre todo lo que la hace uno de los destinos más fascinantes del mundo.
 

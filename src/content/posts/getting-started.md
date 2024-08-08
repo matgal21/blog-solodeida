@@ -3,13 +3,13 @@ title: Boston, la ciudad europea en Estados Unidos
 slug: boston-ciudad-europea
 description: No solo por la arquitectura sino también por su modo de vida.
 category:
-  - One
+  - Viajes
 tags:
   - Boston
   - Estados Unidos
   - Viajes
 pubDate: 2023-09-06
-cover: https://images.unsplash.com/photo-1720474273103-bef2eea09719?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: "/images/usa/boston.jpg"
 coverAlt: AstroVerse-Getting Started
 author: Mateo Galvez
 ---

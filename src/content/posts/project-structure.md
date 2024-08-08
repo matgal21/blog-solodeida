@@ -12,9 +12,9 @@ tags:
   - Boeing 737
   - Boeing 787
 pubDate: 2023-09-01
-cover: "/public/images/LOBOS MARINOS.png"
+cover: "/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
 Your new Astro project generated from the `create astro` CLI wizard already includes some files and folders. Others, you will create yourself and add to Astro's existing file structure.

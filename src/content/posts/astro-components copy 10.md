@@ -12,7 +12,7 @@ tags:
 
 pubDate: 2023-09-01
 cover: "/images/usa/la.jpg"
-coverAlt: AstroVerse-Aliases
+coverAlt: Los Angeles ciudad
 author: Mateo
 ---
 

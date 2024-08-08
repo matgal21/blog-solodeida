@@ -13,8 +13,7 @@ tags:
 
 pubDate: 2023-09-01
 cover: "/images/italia/roma.jpg"
-coverAlt: AstroVerse-Aliases
-author: Mateo
+coverAlt: Roma Coliseo
 ---
 
 Roma, la capital de Italia, es una ciudad llena de historia, cultura y belleza. Conocida como la Ciudad Eterna, Roma ofrece una mezcla única de monumentos antiguos, impresionantes obras de arte y una vibrante vida moderna. En esta nota, exploraremos las mejores atracciones de Roma que no te puedes perder. Desde el majestuoso Coliseo hasta la impresionante Basílica de San Pedro, descubre todo lo que hace de esta ciudad un destino inolvidable.

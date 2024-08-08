@@ -11,8 +11,8 @@ tags:
     - Turismo
 
 pubDate: 2023-09-01
-cover: "/public/images/craocia/zagreb 2.jpeg"
-coverAlt: AstroVerse-Aliases
+cover: "/images/craocia/zagreb 2.jpeg"
+coverAlt: Zagreb ciudad
 author: Mateo
 ---
 Zagreb, la capital de Croacia, es una ciudad vibrante y llena de historia, donde la tradición se encuentra con la modernidad. Con sus calles adoquinadas, arquitectura austrohúngara y una vibrante escena cultural, Zagreb tiene algo para todos los gustos. En esta nota, exploraremos las mejores atracciones de Zagreb que no te puedes perder. Desde el histórico barrio de Gornji Grad hasta el innovador Museo de las Relaciones Rotas, descubre todo lo que hace de Zagreb un destino único y fascinante.

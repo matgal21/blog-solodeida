@@ -6,9 +6,9 @@ tags:
   - Barcelona
   - Futbol
   - Camp Nou
+  - Real Sociedad
 pubDate: 2024-02-01
-cover: >-
-  https://images.unsplash.com/photo-1720369176819-3b74b40688fb?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: "/img/Barsa/IMG_8017.jpg"
 coverAlt: Camp-Nou-vacio
 title: Cumplir un sueño al ver un partido del Barcelona FC
 description: Vivir un partido de cuartos de final de la Copa del Rey en el Camp Nou

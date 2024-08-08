@@ -1,17 +1,17 @@
 ---
-title: ¿Qué hacer en... MADRID?
-slug: que-hacer-en-madrid
-description: La capital española, llena de historia, arquitectura y una gran gastronomía.
+title: Apps indispensables para viajar
+slug: mejores-apps-para-viajar
+description: Aplicaciones para que el viaje sea mas óptimo y se disfrute más.
 category:
-  - Descubrir
+  - General
 tags:
-  - Madrid
-  - España
-  - Capital
+  - Aplicaciones
+  - Viajes
+  - General
   - Turismo
-pubDate: 2024-02-01
-cover: "/img/Cibeles madrid.jpg"
-coverAlt: Plaza-cibeles-Madrid
+pubDate: 2024-01-01
+cover: "/img/747 lufhtansa.jpg"
+coverAlt: Foto de aplicaciones
 author: Mateo
 ---
 

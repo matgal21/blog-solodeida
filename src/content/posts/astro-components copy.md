@@ -6,7 +6,7 @@ category:
   - Viajes
 tags:
   - Nueva York
-  - Estatua Libertas
+  - Estatua Libertad
   - Viajes
   - Ferry
   - Turismo

@@ -12,7 +12,7 @@ tags:
   - Capitolio
   - Tour
 pubDate: 2024-03-02
-cover: https://images.unsplash.com/photo-1720394981524-48f2d354fdb4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: "/images/usa/capitolio-us.jpg"
 coverAlt: capitolio-estados-unidos
 author: Mateo Galvez
 ---

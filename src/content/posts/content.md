@@ -1,16 +1,17 @@
 ---
-title: Madrid
+title: ¿Qué hacer en... Madrid?
 slug: madrid
-description: ¿Qué hacer en Madrid?
+description: La capital española, llena de historia, arquitectura y una gran gastronomía.
 category:
   - Descubrir
 tags:
   - Madrid
   - España
   - Capital
-pubDate: 2023-09-02
-cover: https://images.unsplash.com/photo-1720793386509-6548703b85e1?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-coverAlt: Plaza cibeles de noche
+  - Turismo
+pubDate: 2024-02-01
+cover: "/img/Cibeles madrid.jpg"
+coverAlt: Plaza-cibeles-Madrid
 author: Mateo
 ---
 

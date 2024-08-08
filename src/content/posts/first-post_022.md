@@ -1,7 +1,7 @@
 ---
 title: Sobre el blog
 slug: sobre-mi
-description: Que es este blog?
+description: solo de ida, un blog para compartir experiencias y mucho más.
 category:
   - General
 tags:
@@ -13,7 +13,7 @@ cover: ""
 coverAlt: ""
 author: Mateo Galvez
 ---
-<img src="/img/IMG_1324.jpg" alt="Imagen Mateo">
+<img src="/public/img/IMG_1324.JPG" alt="Imagen Mateo">
 
 **Soy Mateo** , un apasionado por los viajes y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
 

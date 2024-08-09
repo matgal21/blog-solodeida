@@ -3,7 +3,7 @@ title: El dia que casi pierdo un vuelo de Porto a Buenos Aires
 slug: el-dia-que-casi-pierdo-un-vuelo
 description: Por el retraso de la conexion a Madrid estuve a punto de perderlo.
 category:
-  - Three 
+  - General 
 tags:
   - AirEuropa
   - Porto
@@ -11,9 +11,9 @@ tags:
   - Buenos Aires
   - Boeing 737
   - Boeing 787
-pubDate: 2023-09-01
-cover: "/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
-coverAlt: AstroVerse-Aliases
+pubDate: 2024-06-07
+cover: "/img/vuelo retraso/avion-air-europa.jpg"
+coverAlt: Avion-air-europa
 author: Mateo
 ---
 

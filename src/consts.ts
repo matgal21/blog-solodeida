@@ -4,7 +4,7 @@
 // Base Page Metadata, src/layouts/BaseLayout.astro
 export const BRAND_NAME = "solo de ida | blog de viajes";
 export const SITE_TITLE = "Solo de Ida | Blog de viajes";
-export const SITE_DESCRIPTION = "Blog de viajes y experiencas vividas";
+export const SITE_DESCRIPTION = "Blog de viajes y experiencas vividas. Desde noticias, experiencias de viajes y anécdotas.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "solo de ida | tags";
@@ -31,13 +31,9 @@ export function getCategoryMetadata(category: string) {
 export const HeaderLinks = [
   { href: "/category/General/1/", title: "General" },
   { href: "/category/Viajes/1/", title: "Viajes" },
-  // { href: "/tags/Astro/1/", title: "Qué hacer en...?" },
   { href: "/category/Crónicas/1/", title: "Crónicas" },
   { href: "/tags/", title: "TAGS" },
   { href: "/category/Descubrir/1/", title: "Descubrir destinos" },
-
-
-
 ];
 
 // Footer Links, src/components/Footer.astro

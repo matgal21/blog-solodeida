@@ -7,8 +7,7 @@ tags:
   - Nueva York
   - Times Square
 pubDate: 2024-03-06
-cover: >-
-  https://images.unsplash.com/photo-1720447949266-38bc1eacbb38?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: "/img/año nuevo.jpg"
 coverAlt: New York año nuevo
 title: Pasar año nuevo en Nueva York
 

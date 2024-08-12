@@ -29,7 +29,7 @@ author: Mateo
 
 <br></br>
 
-# 1. El Castillo de Liubliana
+## 1. El Castillo de Liubliana
 
 ![](</img/Eslovenia/castillo liubliana.jpeg>)
 
@@ -43,7 +43,7 @@ author: Mateo
 
 <br></br>
 
-# 2. El Puente Triple
+## 2. El Puente Triple
 
 ![](</img/Eslovenia/puente triple.jpeg>)
 
@@ -57,7 +57,7 @@ author: Mateo
 
 <br></br>
 
-# 3.Metelkova
+## 3.Metelkova
 
 ![](/img/Eslovenia/images.jpg)
 
@@ -73,7 +73,7 @@ author: Mateo
 
 <br></br>
 
-# 4. El Parque Tivoli
+## 4. El Parque Tivoli
 
 ![](</img/Eslovenia/parque tivoli.jpeg>)
 
@@ -89,7 +89,7 @@ author: Mateo
 
 <br></br>
 
-# 5. El Mercado Central
+## 5. El Mercado Central
 
 ![](/img/Eslovenia/download.jpg)
 
@@ -107,7 +107,7 @@ author: Mateo
 
 <br></br>
 
-# Mi conclusión ...
+## Mi conclusión ...
 
 ### **Liubliana** es una ciudad que combina a la perfección su **rica historia** con una vibrante vida moderna. 
 

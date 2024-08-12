@@ -1,7 +1,7 @@
 ---
 title: Vuelo de Orlando a Boston
 slug: vuelo-oralndo-boston
-description: Pasar del calor de Florida a un frio extremo en Boston
+description: Vuelo con la aeolínea estadounidense Delta en un boeing 737.
 category:
   - Crónicas
 tags:

@@ -26,7 +26,7 @@ async function getRelatedArticlesByCategory(): Promise<
 const relatedPosts = await getRelatedArticlesByCategory();
 ---
 
-<h1 class="font-bold text-xl mb-4 shadow-md">Posteos relacionados...</h1>
+<h2 class="font-bold text-xl mb-4 shadow-md">Posteos relacionados...</h2>
 <div class="grid grid-cols-1 gap-4 md:grid-cols-3">
   {
     relatedPosts.map((post) => (
@@ -34,7 +34,7 @@ const relatedPosts = await getRelatedArticlesByCategory();
         <a href={`/posts/${post.slug}/`}>
         <img src={post.data.cover} alt={post.data.coverAlt} />
           <div class=" bottom-0 end-0 start-0 bg-gray-300 p-4 md:p-5">
-            <h1 class="mt-0 text-lg font-bold text-black">{post.data.title}</h1>
+            <h2 class="mt-0 text-lg font-bold text-black">{post.data.title}</h2>
             <h4 class="mt-2 text-xs font-bold text-black">{post.data.description}</h4>
             <div class="mt-4 flex items-center gap-4 text-xs text-orange-700 justify-end">
               <span class="p-2">{post.data.tags.join(" ")}</span>

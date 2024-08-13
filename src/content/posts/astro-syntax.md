@@ -14,9 +14,9 @@ description: La pintoresca ciudad entre Porto y Lisboa.
 author: Mateo Galvez
 ---
 
-Como fue pasar el dia en Aveiro
+### Como fue pasar el dia en Aveiro
 
-El viaje hacia esta ciudad fue a la mañana desde la estacion de trenes Sao Bento de Porto a la mañana temprano a eso de las 9 am.
+### El viaje hacia esta ciudad fue a la mañana desde la estacion de trenes Sao Bento de Porto a la mañana temprano a eso de las 9 am.
 El ticket fue pagado con la tarjeta de transporte interurbano que permite viajar a ciertas ciudades cercanas a Porto. Los boletos se pueden encontrar por menos de 5 euros.
 Despues de alrededor de una hora de viaje llegabamos al destino, al principio el tren iba lleno y luego a medida que paraba en distintas ciudades se iba desagotando y liberando asientos.
 
@@ -39,4 +39,4 @@ El precio de andar por estas embarcaciones llamadas moliceiros o mercanteles ron
 
 ### Mi opinión...
 
-Buen destino para ir si estas hospedado en Porto o Coimbra, pero como lugar para pasar mas de una noche queda grande, pero si destacar el encanto de las casas y los canales con los barcos pasando y haciendo el lugar muy ameno.
+## Buen destino para ir si estas hospedado en Porto o Coimbra, pero como lugar para pasar mas de una noche queda grande, pero si destacar el encanto de las casas y los canales con los barcos pasando y haciendo el lugar muy ameno.

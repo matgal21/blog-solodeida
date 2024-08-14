@@ -4,6 +4,7 @@ import { Icon } from "astro-icon/components";
 import { SITE_TITLE, HeaderLinks } from "@consts";
 import { Image } from "astro:assets";
 ---
+
 <style>
   h2{
     font-family: Impact, sans-serif;
@@ -14,49 +15,19 @@ import { Image } from "astro:assets";
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
-
 </head>
 <header class=" flex-wrap bg-blue-600 text-white border-b-4 border-b-orange-500">
   <nav class="relative w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
-    <div class="mb-4 flex grow mx-16 align-center justify-center items-center">
+    <div class=" flex grow mx-16 align-center justify-center items-center">
         <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
-          <Image src="/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  
+          <img src="/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  
         </a>
         <a href="/">
           <h2 class="mt-2 px-2 align-center justify-center items-center mx-4 	hover:shadow-md">SOLO DE IDA</h2>
         </a>
       </div>
 
-    <div class="navbar bg-blue-800">
-      <div class="flex items-center gap-x-2 ms-auto py-1 md:ps-6 md:order-3 md:col-span-3 ">
-        <button type="button" class="ml-4 py-2 text-white px-3 inline-flex items-center gap-x-2 text-sm font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
-          <Icon name="tabler:search" class="icon-base" />
-          BUSCAR
-        </button>
-        
-        <div class="md:hidden ml-64 mr-4">
-          <button type="button" class="hs-collapse-toggle size-[38px] flex justify-center items-center text-sm font-semibold rounded-xl text-white hover:bg-neutral-100 hover:text-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">
-            <Icon name="tabler:menu-2" class="hs-collapse-open:hidden flex-shrink-0 size-8"></Icon>
-            <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8"></Icon>
-          </button>
-        </div>
-      </div>
-    </div>
-    
-  
-      <div id="navbar-collapse-with-animation" class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow md:block md:w-auto md:basis-auto md:order-2 md:col-span-6">
-        <div class="flex justify-center align-center mx-auto flex-col gap-y-4 gap-x-0 mt-2  md:flex-row md:justify-center md:items-center md:gap-y-0 md:gap-x-7 md:mt-0">
-          {
-            HeaderLinks.map((link) => (
-              <Link
-                href={link.href}
-                class="px-4 py-3 font-medium mx-auto text-neutral-100 hover:border-b-4 hover:border-y-neutral-200 "
-              >
-                {link.title}
-              </Link>
-            ))
-          }
-        </div>
-      </div>
     </nav>
   </header>
+  
+

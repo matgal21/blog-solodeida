@@ -1,0 +1,41 @@
+---
+import {
+Astronav,
+MenuItems,
+MenuIcon,
+Dropdown,
+DropdownItems,
+DropdownSubmenu,
+} from "astro-navbar";
+import Link from "@components/Links.astro";
+import { Icon } from "astro-icon/components";
+import { SITE_TITLE, HeaderLinks } from "@consts";
+---
+<header class="lg:flex p-2 mx-auto container">
+   <Astronav closeOnClick>
+      <div class="flex w-full lg:w-auto justify-around">
+         <div class="block xl:hidden">
+            <MenuIcon class="w-8 h-8 text-blue-600 mr-" />
+            <button type="button" class="ml-24 py-2 text-blue-600 px-3 inline-end items-end gap-x-2 text-sm font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+                <Icon name="tabler:search" class="icon-base" />
+                BUSCAR
+              </button>
+         </div>
+      </div>
+      <MenuItems class="hidden lg:flex">
+         <ul class="flex flex-col lg:flex-row lg:gap-5 bg-blue-600 ">
+            {
+                HeaderLinks.map((link) => (
+                  <Link
+                    href={link.href}
+                    class="px-4 py-3 font-medium mx-auto bg-blue-600 text-white hover:border-b-4 hover:border-y-neutral-200 "
+                  >
+                    {link.title}
+                  </Link>
+                ))
+              }
+         </ul>
+        </MenuItems>
+        
+   </Astronav>
+</header>

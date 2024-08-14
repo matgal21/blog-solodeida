@@ -42,17 +42,21 @@ import { Image } from "astro:assets";
 
     <div class="navbar bg-blue-800">
       <div class="flex items-center gap-x-2 ms-auto py-1 md:ps-6 md:order-3 md:col-span-3 ">
-        <button type="button" class="ml-4 py-2 text-white px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl border border-transparent hover:bg-neutral-100  hover:text-blue-700 transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+        <button type="button" class="ml-4 py-2 text-white px-3 inline-flex items-center gap-x-2 text-sm font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
           <Icon name="tabler:search" class="icon-base" />
           BUSCAR
         </button>
-  
+        
         <div class="md:hidden ml-64 mr-4">
           <button type="button" class="hs-collapse-toggle size-[38px] flex justify-center items-center text-sm font-semibold rounded-xl text-white hover:bg-neutral-100 hover:text-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">
             <Icon name="tabler:menu-2" class="hs-collapse-open:hidden flex-shrink-0 size-8"></Icon>
             <Icon name="tabler:menu-order" class="hs-collapse-open:block hidden flex-shrink-0 size-8"></Icon>
           </button>
         </div>
+        <!-- <button type="button" class="mr-8 py-2 text-white  px-3 inline-flex items-center gap-x-2 text-sm font-medium transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+          <Icon name="tabler:search" class="icon-base" />
+          BUSCAR
+        </button> -->
         
       </div>
     </div>

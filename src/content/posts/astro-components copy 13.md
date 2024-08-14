@@ -15,7 +15,7 @@ coverAlt: Parlamento Budapest
 author: Mateo
 ---
 
-## Budapest, la capital de Hungría, es una ciudad fascinante que combina a la perfección su rica historia con una vibrante vida moderna. Dividida por el majestuoso río Danubio, esta ciudad está llena de impresionantes monumentos, relajantes baños termales y una cultura única. En esta nota, exploraremos las mejores atracciones de Budapest que no te puedes perder. Desde el icónico Parlamento Húngaro hasta las históricas Termas Széchenyi, descubre todo lo que hace de Budapest un destino inolvidable.
+### Budapest, la capital de Hungría, es una ciudad fascinante que combina a la perfección su rica historia con una vibrante vida moderna. Dividida por el majestuoso río Danubio, esta ciudad está llena de impresionantes monumentos, relajantes baños termales y una cultura única. En esta nota, exploraremos las mejores atracciones de Budapest que no te puedes perder. Desde el icónico Parlamento Húngaro hasta las históricas Termas Széchenyi, descubre todo lo que hace de Budapest un destino inolvidable.
 
 ## 1. El Parlamento Húngaro 
 <img src="/images/budapest/parlamento-hungaro-noche.jpeg" alt="Parlamento húngaro noche">

@@ -11,24 +11,24 @@ import Link from "@components/Links.astro";
 import { Icon } from "astro-icon/components";
 import { SITE_TITLE, HeaderLinks } from "@consts";
 ---
-<header class="lg:flex p-2 mx-auto align-center justify-center items-center">
+<header class="lg:flex p-2 mx-0 w-screen align-center justify-center items-center w-full bg-blue-700">
    <Astronav closeOnClick>
       <div class="flex w-full lg:w-auto align-center justify-center items-center">
-         <div class="block xl:hidden">
-            <MenuIcon class="w-8 h-8 text-blue-600 mr-" />
-            <button type="button" class="mx-auto py-2 text-blue-600 px-3 align-center justify-center items-center gap-x-2 text-sm font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
-                <Icon name="tabler:search" class="icon-base" />
+         <div class="block xl:hidden flex">
+            <MenuIcon class="w-8 h-8 text-neutral-100 mr-64 my-1" />
+            <button type="button" class="mx-auto my-1 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
+                <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center"/>
                 BUSCAR
               </button>
          </div>
       </div>
       <MenuItems class="hidden lg:flex">
-         <ul class="flex flex-col lg:flex-row lg:gap-5 bg-blue-600 ">
+         <ul class="flex flex-col lg:flex-row lg:gap-5">
             {
                 HeaderLinks.map((link) => (
                   <Link
                     href={link.href}
-                    class="px-4 py-3 font-medium mx-auto bg-blue-600 text-white hover:border-b-4 hover:border-y-neutral-200 "
+                    class="px-4 py-3 font-medium mx-auto  text-white hover:border-b-4 hover:border-y-neutral-200 "
                   >
                     {link.title}
                   </Link>

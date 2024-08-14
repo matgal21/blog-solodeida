@@ -14,36 +14,10 @@ import { Image } from "astro:assets";
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          const toggleButton = document.querySelector('[data-hs-collapse]');
-      
-          // Verificar si el botón de toggle existe
-          if (toggleButton) {
-            const targetSelector = toggleButton.getAttribute('data-hs-collapse');
-            const target = document.querySelector(targetSelector);
-      
-            // Verificar si el objetivo existe
-            if (target) {
-              toggleButton.addEventListener('click', function() {
-                target.classList.toggle('hidden');
-                target.classList.toggle('block');
-              });
-            } else {
-              console.error('Target element not found:', targetSelector);
-            }
-          } else {
-            console.error('Toggle button not found');
-          }
-        });
-      </script>
-      
-      
+
 </head>
 <header class=" flex-wrap bg-blue-600 text-white border-b-4 border-b-orange-500">
-  
   <nav class="relative w-full flex flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
-    
     <div class="mb-4 flex grow mx-16 align-center justify-center items-center">
         <a class="focus:outline-none focus:opacity-80 items-center" href="/" aria-label="Preline">
           <Image src="/img/logos solo de ida/logo.png" alt="logo" width="250" height="250"/>  

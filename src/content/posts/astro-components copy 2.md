@@ -1,7 +1,7 @@
 ---
-title: Vuelo de Ezeiza a Barcelona con escala en Paris
+title: Vuelo de Ezeiza a Paris en un airbus 350
 slug: vuelo-ezeiza-barcelona-con-escala-en-paris
-description: vuelo nocturno en un airbus 350 de AirFrance
+description: Mi primera vez volando en la aerolínea francesa .
 category:
   - Crónicas
 tags:
@@ -13,9 +13,9 @@ tags:
   - Barcelona
   - AirFrance
   - Airbus 350
-pubDate: 2023-09-01
+pubDate: 2024-04-10
 cover: "/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
-coverAlt: AstroVerse-Aliases
+coverAlt: Avión en aeropuerto CDG
 author: Mateo
 ---
 

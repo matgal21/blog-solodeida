@@ -10,7 +10,7 @@ tags:
   - Viajes
   - Vuelo
   - Bariloche
-pubDate: 2024-07-03
+pubDate: 2022-07-03
 cover: "/img/Dark Grey Minimalist Photo Travel YouTube Thumbnail.png"
 coverAlt: AstroVerse-Getting Started
 author: Mateo 

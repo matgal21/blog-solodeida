@@ -8,19 +8,31 @@ tags:
   - Boston
   - Estados Unidos
   - Viajes
-pubDate: 2023-09-06
+pubDate: 2024-04-16
 cover: "/images/usa/boston.jpg"
-coverAlt: AstroVerse-Getting Started
-author: Mateo Galvez
+coverAlt: Cartel ciudad de Boston
+author: Mateo 
 ---
+Mi llegada a Boston se dio a fines de enero, después de estar unos dias en Miami por lo que el cambio se notó.
+Pasar de estar en la playa a que este nevado y con mucho frio fue algo notorio, pero muy agradable. 
+<img src="/public/images/usa/boston/IMG_8395.jpg" alt="Foto desde el avion con vista nevada">
+Al caminar por Boston Common el primer parque público de todo Estados Unidos, abierto en el año 1.634, fue sin dudas algo increíble, pero más aún que este nevado y el lago también lo hacia un poco más.
+<img src="/public/images/usa/boston/IMG_8400.jpg" alt="Vista del Boston Common nevado">
+La ciudad trasmite una tranquilidad y un respeto muy grande, desde la arquitectura histórica hasta los edificios modernos, mezclan la historia y el modernismo actual.
 
-## Key Features
+Después de recorrer mucho la ciudad senti que estaba en una de las mejores ciudades de Estados Unidos.
+<img src="/public/images/usa/boston/IMG_8476.jpg" alt="Capitolio de Massachusetts de noche">
 
-- **Component Islands:** A new web architecture for building faster websites.
-- **Server-first API design:** Move expensive hydration off of your users' devices.
-- **Zero JS, by default:** No JavaScript runtime overhead to slow you down.
-- **Edge-ready:** Deploy anywhere, even a global edge runtime like Deno or Cloudflare.
-- **Customizable:** Tailwind, MDX, and 100+ other integrations to choose from.
-- **UI-agnostic:** Supports React, Preact, Svelte, Vue, Solid, Lit and more.
+Un hecho muy bueno fue poder entrar al Capitolio de Massachusetts y poder tener una visita guiada fue muy interesante.
+Hasta te dejan ingresar a la legislatura estatal donde estan los senadores y diputados.
+<img src="/public/images/usa/boston/IMG_8470.jpg" alt="Interior del Capitolio">
 
-Check out our detailed [Why Astro](/en/concepts/why-astro/) breakdown to learn more about what makes Astro special. ✨
+Una de las mejores universidades del mundo también se encuentra en esta ciudad, dándole una actividad muy juvenil.
+<img src="/public/images/usa/boston/IMG_8487.jpg" alt="Departamento de Tecnologia de la Universidad">
+
+Esta tiene edificios de cada especialización que cada uno tiene su particularidad, algo bueno es que se puede ir a recorrer el campus y pasear sin ningún problema.
+<img src="/public/images/usa/boston/IMG_8491.jpg" alt="Plaza de Harvard">
+Por último el monumento a John Harvard, el cual dicen que si le tocas el pie izquierdo vas a volver a la ciudad (algo asi como los huevos del toro de Wall Street)
+<img src="/public/images/usa/boston/IMG_8497.jpg" alt="Monumento a John Harvard">
+
+

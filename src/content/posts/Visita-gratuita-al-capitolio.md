@@ -14,74 +14,32 @@ tags:
 pubDate: 2024-03-02
 cover: "/images/usa/capitolio-us.jpg"
 coverAlt: capitolio-estados-unidos
-author: Mateo Galvez
+author: Mateo 
 ---
 
-Astro is an **all-in-one** **web framework** for building **fast,** **content-focused websites.**
+### **Washington D.C.**, con su *rica historia* y su papel central en la política de los Estados Unidos, es un destino obligado para cualquier amante de la *cultura* y la *historia*. Entre sus numerosos monumentos y edificios emblemáticos, el **Capitolio de los Estados Unidos** se destaca como un símbolo de la *democracia*. Lo mejor de todo es que puedes explorar este majestuoso edificio a través de una **visita guiada gratuita**.
 
-Why choose Astro over another web framework? Here are five core design principles to help explain why we built Astro, the problems that it exists to solve, and why Astro may be the best choice for your project or team.
+La **visita al Capitolio** es una experiencia educativa y fascinante que ofrece una visión única del funcionamiento del gobierno estadounidense. Desde el momento en que llegas al *Centro de Visitantes del Capitolio*, te das cuenta de la grandeza del lugar. Este moderno centro, inaugurado en *2008*, no solo es el punto de partida para la visita, sino que también alberga exposiciones que destacan la historia y el papel del **Congreso** en la vida nacional.
+<img src="/public/images/usa/washington/IMG_7787.jpg">
 
-#### Astro is...
 
-1. [Content-focused](#content-focused): Astro was designed for content-rich websites.
-2. [Server-first](#server-first): Websites run faster when they render HTML on the server.
-3. [Fast by default](#fast-by-default): It should be impossible to build a slow website in Astro.
-4. [Easy to use](#easy-to-use): You don't need to be an expert to build something with Astro.
-5. [Fully-featured, but flexible](#fully-featured-but-flexible): Over 100+ Astro integrations to choose from.
+Las visitas guiadas gratuitas al Capitolio se realizan **todos los días**, excepto los *domingos y algunos días festivos*. Es recomendable **reservar con antelación** a través del **[sitio web oficial](https://www.visitthecapitol.gov/visit/book-a-tour)**
+, ya que los **cupos son limitados** y las visitas son muy populares, especialmente durante la temporada turística alta.
+<a href="https://www.visitthecapitol.gov/visit/book-a-tour" target="_blank" >
+<img src="/public/images/usa/washington/pagina-capitolio.png">
+</a>
 
-## Content-focused
+El recorrido comienza con un breve video que ofrece una introducción a la **historia del Capitolio** y su importancia en la historia de los **Estados Unidos**. Después de esto, un guía experimentado te lleva a través de las diferentes secciones del edificio, incluyendo la Rotonda, con su impresionante cúpula y sus murales históricos, y el **Salón Nacional de las Estatuas**, donde puedes ver esculturas de figuras notables de cada estado.
+<img src="/images/usa/washington/IMG_7797.jpg">
 
-**Astro was designed for building content-rich websites.** This includes most marketing sites, publishing sites, documentation sites, blogs, portfolios, and some ecommerce sites.
+Una de las partes más destacadas de la visita es el acceso a la **Cripta del Capitolio**, un espacio impresionante que alberga 40 columnas dóricas y que originalmente fue diseñado para ser el lugar de descanso final de George Washington. Aunque finalmente no se utilizó para este propósito, la Cripta sigue siendo un lugar de interés arquitectónico y simbólico.
+<img src="/images/usa/washington/IMG_7791.jpg">
 
-By contrast, most modern web frameworks are designed for building _web applications_. These frameworks work best for building more complex, application-like experiences in the browser: logged-in admin dashboards, inboxes, social networks, todo lists, and even native-like applications like [Figma](https://figma.com/) and [Ping](https://ping.gg/).
+Lo que hace que esta visita sea aún más especial es la oportunidad de ver de cerca el funcionamiento del gobierno en acción. Si el Congreso está en sesión, puedes presenciar los debates en la **Cámara de Representantes** o el **Senado desde las galerías públicas**, una experiencia que añade una dimensión real y tangible a la visita.
+<img src="/images/usa/washington/congreso us dentro.avif">
 
-This is one of the most important differences to understand about Astro. Astro's unique focus on content lets Astro make tradeoffs and deliver unmatched performance features that wouldn't make sense for more application-focused web frameworks to implement.
 
-:::tip
-If your project falls into the second "application" camp, Astro might not be the right choice for your project... **and that's okay!** Check out [Next.js](https://nextjs.org/) for a more application-focused alternative to Astro.
-:::
+Terminar la visita en la tienda de regalos del Centro de Visitantes es casi una obligación, donde puedes encontrar recuerdos relacionados con la historia del Capitolio y la democracia estadounidense.
 
-## Server-first
-
-**Astro leverages server-side rendering over client-side rendering as much as possible.** This is the same approach that traditional server-side frameworks -- PHP, WordPress, Laravel, Ruby on Rails, etc. -- have been using for decades. But you don't need to learn a second server-side language to unlock it. With Astro, everything is still just HTML, CSS, and JavaScript (or TypeScript, if you prefer).
-
-This approach stands in contrast to other modern JavaScript web frameworks like Next.js, SvelteKit, Nuxt, Remix, and others. These frameworks require client-side rendering of your entire website and include server-side rendering mainly to address performance concerns. This approach has been dubbed the **Single Page App (SPA)**, in contrast with Astro's **Multi Page App (MPA)** approach.
-
-The SPA model has its benefits. However, these come at the expense of additional complexity and performance tradeoffs. These tradeoffs harm page performance -- including critical metrics like [Time to Interactive (TTI)](https://web.dev/interactive/) -- which doesn't make much sense for content-focused websites where first-load performance is essential.
-
-## Fast by default
-
-Good performance is always important, but it is _especially_ critical for content-focused websites. It has been well-proven that poor performance loses you engagement, conversions, and money. For example:
-
-- Every 100ms faster → 1% more conversions ([Mobify](https://web.dev/why-speed-matters/), earning +$380,000/yr)
-- 50% faster → 12% more sales ([AutoAnything](https://www.digitalcommerce360.com/2010/08/19/web-accelerator-revs-conversion-and-sales-autoanything/))
-- 20% faster → 10% more conversions ([Furniture Village](https://www.thinkwithgoogle.com/intl/en-gb/marketing-strategies/app-and-mobile/furniture-village-and-greenlight-slash-page-load-times-boosting-user-experience/))
-- 40% faster → 15% more sign-ups ([Pinterest](https://medium.com/pinterest-engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7))
-- 850ms faster → 7% more conversions ([COOK](https://web.dev/why-speed-matters/))
-- Every 1 second slower → 10% fewer users ([BBC](https://www.creativebloq.com/features/how-the-bbc-builds-websites-that-scale))
-
-In many web frameworks, it is easy to build a website that looks great during development only to load painfully slow once deployed. JavaScript is often the culprit, since users’ phones and lower-powered devices rarely match the speed of a developer's laptop.
-
-Astro's magic is in how it combines the two values explained above -- a content focus with a server-first MPA architecture -- to make tradeoffs and deliver features that other frameworks cannot. The result is amazing web performance for every website, out of the box. Our goal: **It should be nearly impossible to build a slow website with Astro.**
-
-An Astro website can [load 40% faster with 90% less JavaScript](https://twitter.com/t3dotgg/status/1437195415439360003) than the same site built with the most popular React web framework. But don't take our word for it: watch Astro's performance leave Ryan Carniato (creator of Solid.js and Marko) [speechless](https://youtu.be/2ZEMb_H-LYE?t=8163).
-
-## Easy to use
-
-**Astro's goal is to be accessible to every web developer.** Astro was designed to feel familiar and approachable regardless of skill level or past experience with web development.
-
-We started by making sure that you could use any favorite UI component languages that you already know. React, Preact, Svelte, Vue, Solid, Lit, and several others are all supported for creating new UI components in an Astro project.
-
-We also wanted to make sure that Astro had a great built-in component language as well. To do that, we created our own `.astro` UI language. It's heavily influenced by HTML: any valid snippet of HTML is already a valid Astro component! But it also combines some of our favorite features borrowed from other component languages like JSX expressions (React) and CSS scoping by default (Svelte and Vue). This closeness to HTML also makes it easier to use progressive enhancement and common accessibility patterns without any overhead.
-
-Astro was designed to be less complex than other UI frameworks and languages. One big reason for this is that Astro was designed to render on the server, not in the browser. That means that you don't need to worry about: hooks (React), stale closures (also React), refs (Vue), observables (Svelte), atoms, selectors, reactions, or derivations. There is no reactivity on the server, so all of that complexity melts away.
-
-One of our favorite sayings is: **opt-in to complexity.** We designed Astro to remove as much "required complexity" as possible from the developer experience, especially as you onboard for the first time. You can build a "Hello World" example website in Astro with just HTML and CSS. Then, when you need to build something more powerful, you can incrementally reach for new features and APIs as you go.
-
-## Fully-featured, but flexible
-
-**Astro is an all-in-one web framework that comes with everything you need to build a website.** Astro includes a component syntax, file-based routing, asset handling, a build process, bundling, optimizations, data-fetching, and more. You can build great websites without ever reaching outside of Astro's core feature set.
-
-If you need more control, you can extend Astro with over [100+ integrations](https://astro.build/integrations/) like [React](https://www.npmjs.com/package/@astrojs/react), [Svelte](https://www.npmjs.com/package/@astrojs/svelte), [Vue](https://www.npmjs.com/package/@astrojs/vue), [Tailwind CSS](https://www.npmjs.com/package/@astrojs/tailwind), [MDX](https://www.npmjs.com/package/@astrojs/mdx), and more. [Connect your favorite CMS](/en/guides/cms/) or [deploy to your favorite host](/en/guides/deploy/) with just a single command.
-
-Astro is UI-agnostic, meaning you can **Bring Your Own UI Framework (BYOF)**. React, Preact, Solid, Svelte, Vue, and Lit are all officially supported in Astro. You can even mix and match different frameworks on the same page, making future migrations easier and preventing project lock-in to a single framework.
+### En resumen, la visita guiada gratuita al Capitolio de Washington D.C. es una experiencia imperdible para cualquier visitante de la capital. No solo te permite explorar uno de los edificios más importantes del país, sino que también te brinda una comprensión más profunda de la historia y el funcionamiento del gobierno de los Estados Unidos. Así que la próxima vez que estés en Washington D.C., asegurate de reservar tu lugar y disfrutar de esta increíble y educativa aventura.
+<img src="/images/usa/washington/banderas-us.jpg">

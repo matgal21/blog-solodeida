@@ -2,6 +2,7 @@
 import BaseHead from "@components/BaseHead.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
+import Navbar from "@components/Navbar.astro";
 
 const { title, description } = Astro.props;
 ---
@@ -16,6 +17,7 @@ const { title, description } = Astro.props;
     class=""
   >
     <Header />
+    <Navbar />
     <div class="mx-auto text-white bg-blue-900 flex min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 ">
       <slot />
     </div>

@@ -31,7 +31,12 @@ function truncateUTF8String(str: string, maxBytes: number) {
 const truncatedDescription = truncateUTF8String(post.data.description, 150);
 
 ---
-
+<style>
+  img {
+    max-height: 400px;
+    width: 250px; 
+  }
+</style>
   <!-- <a href={`/posts/${post.slug}/`} class="block md:flex md:flex-1">
     <div class="md:w-2/3">
       <img src={post.data.cover} alt={post.data.coverAlt} class="hover:opacity-90"/>

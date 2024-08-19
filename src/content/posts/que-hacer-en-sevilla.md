@@ -1,5 +1,5 @@
 ---
-title: Qué hacer en Sevilla?
+title: Sevilla
 slug: que-hacer-en-sevilla
 description: An intro to layouts, a type of Astro component that is shared between pages for common layouts.
 category:

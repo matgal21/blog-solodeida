@@ -9,7 +9,8 @@ tags:
   - Polonia
   - Historia
   - Turismo
-pubDate: 2023-09-01
+
+pubDate: 2024-06-01
 cover: "/images/polonia/cracovia.jpg"
 coverAlt: Ciudad de Cracovia
 author: Mateo

@@ -1,7 +1,7 @@
 ---
 slug: barcelona-mi-primer-destino
 pubDate: 2024-06-10
-cover: "/public/img/fondo.jpg"
+cover: "/img/fondo.jpg"
 coverAlt: AstroVerse-Second post
 title: 'Barcelona, mi primer destino en Europa'
 description: Mi llegada a Barcelona y primeras sensaciones

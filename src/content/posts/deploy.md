@@ -1,6 +1,6 @@
 ---
 title: Sobre el blog 2.3
-slug: sobre-mi-3
+slug: sobre-mi-4
 description: solo de ida, un blog para compartir experiencias y mucho más.
 category:
   - General

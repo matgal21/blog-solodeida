@@ -13,6 +13,7 @@ cover: "/images/usa/boston.jpg"
 coverAlt: Cartel ciudad de Boston
 author: Mateo 
 ---
+
 Mi llegada a Boston se dio a fines de enero, después de estar unos dias en Miami por lo que el cambio se notó.
 Pasar de estar en la playa a que este nevado y con mucho frio fue algo notorio, pero muy agradable. 
 <img src="/images/usa/boston/IMG_8395.jpg" alt="Foto desde el avion con vista nevada">

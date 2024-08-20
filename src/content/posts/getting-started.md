@@ -1,7 +1,7 @@
 ---
 title: Boston, la ciudad europea en Estados Unidos
 slug: boston-ciudad-europea
-description: No solo por la arquitectura sino también por su modo de vida.
+description: La arquitectura, tranquilidad y su increible historia la hacen hermosa.
 category:
   - Viajes
 tags:

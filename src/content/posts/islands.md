@@ -1,22 +1,40 @@
 ---
-title: Vuelo de Orlando a Boston
-slug: vuelo-oralndo-boston
-description: Vuelo con la aeolínea estadounidense Delta en un boeing 737.
+title: Vuelo de Washington DC a Miami
+slug: vuelo-washington-miami
+description: Vuelo con la aerolínea estadounidense American Airlines en un boeing 737.
 category:
   - Crónicas
 tags:
-  - Boston
-  - Orlando
+  - Miami
+  - Washington DC
   - Delta
-  - Nieve
-pubDate: 2023-09-06
-cover: https://images.unsplash.com/photo-1720362570895-74cb3a84bea0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  - Estados Unidos
+pubDate: 2024-05-06
+cover: "/img/boeing 777 AA.JPG"
 coverAlt: Boeing 737 american airlines
-author: Mateo Galvez
+author: Mateo 
 ---
 
-**Astro Islands** (aka Component Islands) are a pattern of web architecture pioneered by Astro. The idea of “islands architecture” was first coined by Etsy's frontend architect [Katie Sylor-Miller](https://twitter.com/ksylor) in 2019, and expanded on in [this post](https://jasonformat.com/islands-architecture/) by Preact creator Jason Miller.
+Hoy quiero compartir con ustedes mi experiencia volando de la capital de los Estados Unidos, Washington D.C., a la soleada Miami con American Airlines. Si estás planeando un viaje entre estas dos ciudades, este post te será de gran utilidad.
 
-## What is an Astro Island?
+### La Reservación:
 
-The term "Astro Island" refers to an interactive UI component on an otherwise static page of HTML. Multiple islands can exist on a page, and an island always renders in isolation. Think of them as islands in a sea of static, non-interactive HTML.
+Reservé mi vuelo a través de la página web de American Airlines. El proceso fue bastante sencillo, con una gran variedad de opciones de vuelos y horarios. El precio del pasaje fue de 103 dólares.
+
+### El Aeropuerto de Washington:
+
+Salí desde el Aeropuerto Internacional de Washington Dulles (IAD). El aeropuerto es bastante grande y moderno, con una amplia variedad de tiendas y restaurantes. El proceso de check-in fue rápido y eficiente, en seguridad me revisaron exhaustivamente por llevar yerba.
+
+### A Bordo del Avión:
+
+El avión de American Airlines era cómodo y limpio. Los asientos ofrecían suficiente espacio para las piernas y pude disfrutar de una buena película durante el vuelo. La tripulación fue amable y atenta en todo momento.
+
+
+### Llegando a Miami:
+<img src="/images/usa/miami/f1accd1a-ca76-4a2b-b1e8-86e06a454d0d.jpg">
+El aterrizaje en el Aeropuerto Internacional de Miami fue suave y tranquilo. El proceso de inmigración y aduanas fue rápido y eficiente. Desde el aeropuerto hacia el Miami Beach se puede tomar un bus que te deja en una buena ubicación.
+
+### En Conclusión:
+
+Mi experiencia volando de Washington D.C. a Miami con American Airlines fue muy positiva. El servicio fue excelente y el vuelo fue cómodo y relajante. Si estás buscando una aerolínea confiable para viajar entre estas dos ciudades, te recomiendo American Airlines.
+

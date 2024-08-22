@@ -30,6 +30,10 @@ function truncateUTF8String(str: string, maxBytes: number) {
 
 const truncatedDescription = truncateUTF8String(post.data.description, 150);
 
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+
 ---
 <style>
   img {
@@ -72,18 +76,18 @@ const truncatedDescription = truncateUTF8String(post.data.description, 150);
 
     </div>
     
-    <a href="/posts/ver-estatua-de-la-libertad-desde-un-ferry-gratuito/">
+    <a href={`/posts/${post.slug}/`}>      
       <div class="carousel-inner">
         <div class="carousel-item active hover:scale-110 " data-bs-interval="10000">
-          <img src="https://images.unsplash.com/photo-1720791565742-24780438991b?q=80&w=773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100 grid" alt="Estatua libertad">
+          <img src={post.data.cover} class="d-block w-100 grid" alt="Estatua libertad">
           <div class="carousel-caption d-none d-md-block bg-sky-700 bg-opacity-90 rounded text-white">
-            <h2 class="text-2xl font-bold text-white">Ver la estatua de la libertad desde un ferry gratuito</h2>
-            <p>El ferry sale desde Manhattan y va hacia Staten Island y no tiene costo.</p>
+            <h2 class="text-2xl font-bold text-white">{post.data.title}</h2>
+            <p>{post.data.description}</p>
           </div>
         </div>
       </a>
       
-      <a href="/posts/excursion-lobos-marinos/">
+      <a href={`/posts/${post.slug}/`}>
         <div class="carousel-item hover:scale-110">
           <img src="https://images.unsplash.com/photo-1720638206606-3a78d7749c66?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="Buckingham Palace">
           <div class="carousel-caption d-none d-md-block bg-orange-700 bg-opacity-70 rounded text-white">

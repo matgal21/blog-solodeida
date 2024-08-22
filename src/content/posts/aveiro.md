@@ -6,7 +6,7 @@ tags:
   - Aveiro
   - Portugal
   - Viaje
-pubDate: 2024-09-01
+pubDate: 2024-07-01
 cover: "/img/IMG_8857.jpg"
 coverAlt: aveiro
 title: Aveiro...la Venecia de Portugal?

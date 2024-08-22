@@ -13,7 +13,7 @@ allPosts.sort(
     new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
 );
 
-const postsPerPage = 15;
+const postsPerPage = 14;
 const firstPagePosts = allPosts.slice(0, postsPerPage);
 const totalPages = Math.ceil(allPosts.length / postsPerPage);
 
@@ -33,7 +33,7 @@ const basePath = "/page/";
 
   <div class="grid grid-cols-1 mx-auto">
     <div class="col-span-1 mb-4">
-      {firstPagePosts.length > 0 && <HeroCard post={firstPagePosts[0]} />}
+      {firstPagePosts.length > 0 && <HeroCard post={firstPagePosts[6]} />}
     </div>
 
     <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">

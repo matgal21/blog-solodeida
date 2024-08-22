@@ -23,6 +23,7 @@ Por cuartos de final de Copa del Rey, contra la Real Sociedad el Barsa ganó 1-0
 ## Cómo compre la entrada?
 
 En la página oficial la misma mañana del partido. Yo habia buscado dias antes pero estaban a un precio mas elevado que cuando la compré, que fue de 19 euros (mas €2.5 de gestión de la página)
+[Página oficial para comprar tickets](https://www.fcbarcelona.es/es/entradas/futbol)
 
 ## Llegar al estadio
 

@@ -54,18 +54,18 @@ const { page } = Astro.props;
           {page.data.length > 0 && <HeroCard post={page.data[0]} />}
         </div> */}
         <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
-          {page.data.slice(1, 5).map((post) => (
+          {page.data.slice(0, 14).map((post) => (
             <PostCard post={post} />
           ))}
         </div>
-        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {/* <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
           {page.data.slice(5).map((post) => (
             <PostCard post={post} />
           ))}
-        </div>
+        </div> */}
       </>
     ) : (
-      <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+      <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
         {page.data.map((post) => (
           <PostCard post={post} />
         ))}

@@ -1,47 +1,47 @@
 ---
-title: Use a CMS with Astro
-slug: use-cms
-description: How to use a CMS to add content to Astro
+title: Qué hacer en... Argentina?
+slug: que-hacer-en-argenina
+description: La capital Argentina, llena de atractivos y historia.
 category:
   - Viajes
 tags:
-  - Tailwind
-  - Find
-  - SEO
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1638184984605-af1f05249a56?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+  - Descubrir
+  - Buenos Aires
+  - Argentina
+  - Turismo
+pubDate: 2024-02-04
+cover: "/images/argentina/obelisco-de-buenos-aires.webp"
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mateo
 ---
 
-**Ready to connect a Headless CMS to your Astro project?** Follow one of our guides to integrate a CMS.
+### **Buenos Aires**, la capital de Argentina, es una ciudad llena de vida, historia y cultura. Conocida como el "París de América del Sur", Buenos Aires combina la **elegancia europea** con el **espíritu latinoamericano**, ofreciendo una experiencia única a sus visitantes. Desde los icónicos barrios de **La Boca y San Telmo** hasta la majestuosidad del **Teatro Colón**, cada rincón de la ciudad tiene su propio encanto. En esta nota, exploraremos las mejores atracciones de Buenos Aires que no te puedes perder. Descubre todo lo que hace de Buenos Aires un destino fascinante y vibrante, lleno de historia, arte y pasión.
 
-:::tip
-Find [community-maintained integrations](https://astro.build/integrations/?search=cms) for connecting a CMS to your project in our integrations directory.
-:::
+## 1. La Plaza de Mayo y la Casa Rosada 
+<img src="/images/argentina/casa-rosada.webp" alt="Casa rosada">
+La **Plaza de Mayo** es el corazón histórico y político de Buenos Aires y uno de los lugares más emblemáticos de la ciudad. Rodeada por importantes edificios históricos, la plaza ha sido el escenario de numerosos eventos clave en la historia de Argentina. En uno de sus extremos se encuentra la Casa Rosada, el palacio presidencial, famoso por su distintivo color rosa y por haber sido el lugar desde donde Eva Perón, "Evita", se dirigía al pueblo argentino. Los visitantes pueden realizar visitas guiadas por la Casa Rosada los fines de semana y conocer más sobre la historia política del país. No te pierdas el Monumento a Manuel Belgrano en el centro de la plaza, así como la Catedral Metropolitana, que también se encuentra en sus alrededores. La Plaza de Mayo es un lugar cargado de historia y el punto de partida perfecto para explorar Buenos Aires.
 
-## CMS Guides
+## 2. El Teatro Colón 
+<img src="/images/argentina/teatro-colon.jpg" alt="Teatro Colón">
 
-Note that many of these pages are **stubs**: they're collections of resources waiting for your contribution!
+El **Teatro Colón** es uno de los teatros de ópera más prestigiosos del mundo y un ícono cultural de Buenos Aires. Inaugurado en 1908, este majestuoso teatro es conocido por su excepcional acústica y su impresionante arquitectura, que combina elementos neoclásicos, renacentistas y barrocos. Una visita al Teatro Colón te permitirá admirar su lujoso interior, incluyendo la sala principal, que cuenta con una capacidad para más de 2,400 personas, y el Salón Dorado, decorado con detalles dorados y espejos que recuerdan a los palacios europeos. Además de los recorridos guiados, el teatro ofrece una programación variada de ópera, ballet y conciertos que atraen a visitantes de todo el mundo. Asistir a una función en el Teatro Colón es una experiencia inolvidable y una excelente manera de sumergirse en la rica vida cultural de Buenos Aires.
 
-<CMSGuidesNav />
+## 3. El Barrio de La Boca y el Caminito 
+<img src="/images/argentina/la-boca.jpg" alt="Barrio de La Boca">
 
-## Why use a CMS?
+El **barrio de La Boca** es uno de los más coloridos y vibrantes de Buenos Aires, famoso por su rica historia, su arte callejero y su pasión por el fútbol. El corazón de La Boca es el Caminito, una calle peatonal adoquinada, conocida por sus casas pintadas de vivos colores y sus murales que representan escenas de la vida porteña. El Caminito es también un lugar lleno de vida, con artistas callejeros, bailarines de tango y puestos de artesanía que crean un ambiente único. Además, en La Boca se encuentra el Estadio Alberto J. Armando, más conocido como "La Bombonera", hogar del club de fútbol Boca Juniors, uno de los equipos más populares de Argentina. Un recorrido por La Boca te permitirá explorar el arte, la cultura y la pasión futbolística que definen a este barrio icónico de Buenos Aires.
 
-A Content Management System lets you write content and manage assets outside of your Astro project.
+## 4. El Barrio de San Telmo 
+<img src="/images/argentina/san-telmo.webp" alt="Barrio de San Telmo">
 
-This unlocks new features for working with content. Most CMSes give you a visual content editor, the ability to specify standard types of content, and a way to collaborate with others.
+**San Telmo** es uno de los barrios más antiguos y con más encanto de Buenos Aires, conocido por su atmósfera bohemia, sus calles empedradas y su rica historia. Este barrio es famoso por su mercado de antigüedades y su feria dominical, donde los visitantes pueden encontrar una gran variedad de objetos antiguos, arte, ropa vintage y artesanías locales. San Telmo también es el hogar del tango, y es común ver a bailarines en las plazas y en los bares tradicionales, conocidos como "milongas". Entre los puntos de interés del barrio se encuentra la Plaza Dorrego, uno de los lugares más concurridos durante la feria, y la Iglesia de San Pedro Telmo, una de las más antiguas de la ciudad. San Telmo es un barrio que respira historia y cultura, y es un lugar imprescindible para experimentar la auténtica esencia de Buenos Aires.
 
-A CMS can be useful for content that follows a particular structure, often giving you a dashboard-like experience and WYSIWYG editing tools. You might use a CMS to write blog posts using a CMS's rich text editor instead of Markdown files. Or you might use a CMS to maintain product listings for an eCommerce shop, making certain fields required to avoid incomplete listings.
+## 5. El Obelisco 
+<img src="/images/argentina/obelisco.jpg" alt="Obelisco de Buenos Aires">
 
-Your Astro project can then fetch your content from your CMS and display it, wherever and however you want on your site.
+El **Obelisco** es uno de los monumentos más icónicos de Buenos Aires y un símbolo inconfundible de la ciudad. Inaugurado en 1936 para conmemorar el cuarto centenario de la fundación de la ciudad, este imponente monumento se encuentra en el cruce de las avenidas Corrientes y 9 de Julio, la avenida más ancha del mundo. Con sus 67,5 metros de altura, el Obelisco es un punto de referencia para porteños y turistas por igual. La zona que lo rodea, especialmente la Avenida Corrientes, es conocida por su vibrante vida nocturna, con teatros, cines, librerías y cafés que le han dado el sobrenombre de "la calle que nunca duerme". Además, el Obelisco es un lugar central para las celebraciones y manifestaciones en la ciudad, convirtiéndose en un verdadero corazón cultural y social de Buenos Aires. Visitar el Obelisco y sus alrededores es una experiencia esencial para sentir la pulsante energía de la capital argentina.
 
-## Which CMSes work well with Astro?
+### Como conclusión... 
 
-Because Astro takes care of the _presentation_ of your content, you'll want to choose a _headless_ CMS, like those in the list above. This means that the CMS helps you write your content, but doesn't generate a site that displays it. Instead, you fetch the content data and use in your Astro project.
+### Buenos Aires es una ciudad que combina su rica historia con una vibrante vida cultural. Ya sea que explores la histórica Plaza de Mayo, te maravilles con la majestuosidad del Teatro Colón, te sumerjas en el colorido arte de La Boca, disfrutes del encanto bohemio de San Telmo o contemples el imponente Obelisco, cada rincón de Buenos Aires tiene algo especial que ofrecerte. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que la fascinante capital argentina tiene para ofrecer!
 
-Some headless CMSes, like Storyblok, provide an Astro [integration](/en/guides/integrations-guide/) that helps fetch the content specifically for an Astro site. Others provide a JavaScript SDK, a library that you install and use to fetch your remote content.
-
-## Can I use Astro without a CMS?
-
-Yes! Astro provides built-in ways to [author content](/en/guides/content/), including support for Markdown pages.

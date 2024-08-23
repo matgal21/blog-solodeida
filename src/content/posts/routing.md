@@ -1,28 +1,38 @@
 ---
-title: Sobre el blog 2.1
-slug: sobre-mi-2-3
-description: solo de ida, un blog para compartir experiencias y mucho más.
+title: ¿Cuáles son los aeropuertos con mas movimiento del mundo?
+slug: aeropuertos-con-mas-movimiento-del-mundo
+description: Desde Estados Unidos, Europa, Asia y Oriente Medio.
 category:
   - General
 tags:
-  - Solo de ida
-  - Blog
-  - Mateo
-pubDate: 2023-09-01
-cover: ""
-coverAlt: ""
-author: Mateo Galvez
+  - Aeropuertos
+  - Vuelos
+  - Estados Unidos
+pubDate: 2024-08-20
+cover: "/images/aeropuertos/fondo.jpg"
+coverAlt: "Aeropuerto con avión de fondo"
+author: Mateo 
 ---
-<img src="/img/IMG_1324.JPG" alt="Imagen Mateo">
+En 2024, los aeropuertos con más tráfico en el mundo son:
 
-**Soy Mateo** , un apasionado por los viajes y explorador del mundo. Bienvenido a mi blog de viajes y turismo, donde comparto mis aventuras, descubrimientos y consejos para que puedas disfrutar de cada destino al máximo.
+## 1. Hartsfield-Jackson Atlanta International Airport (ATL), Atlanta, EE.UU.: 
+Es el aeropuerto más transitado del mundo, con más de 104 millones de pasajeros en 2023.
+<img src="/public/images/aeropuertos/aeropuerto-atlanta.jpg" alt="Aeopuerto de Atlanta">
 
-En este espacio, encontrarás relatos de mis viajes, guías , recomendaciones de lugares imperdibles, y tips prácticos para viajar de manera inteligente y económica. Mi objetivo es ayudarte a descubrir nuevos lugares, sumergirte en culturas fascinantes y vivir experiencias inolvidables.
+## 2. Dubai International Airport (DXB), Dubái, Emiratos Árabes Unidos: 
+El segundo más ocupado con casi 87 millones de pasajeros.
+<img src="/public/images/aeropuertos/dubai.jpg" alt="Aeopuerto de Dubai">
 
-Desde escapadas de fin de semana hasta largas travesías por continentes lejanos, cada viaje es una oportunidad para aprender, crecer y conectar con el mundo. Acompáñame en esta emocionante travesía y descubre cómo convertir tus sueños de viaje en realidad.
+## 3. Dallas/Fort Worth International Airport (DFW), Texas, EE.UU.: 
+Ocupa el tercer lugar con más de 81 millones de pasajeros.
+<img src="/public/images/aeropuertos/dallas.jpg" alt="Aeopuerto de Dallas">
 
+## 4. London Heathrow Airport (LHR), Londres, Reino Unido: 
+Registró alrededor de 79 millones de pasajeros.
+<img src="/public/images/aeropuertos/lhr.jpg" alt="Aeopuerto de Londres LHR">
 
-¡Prepárate para explorar, descubrir y soñar con mi blog de viajes y turismo!
+## 5. Tokyo Haneda Airport (HND), Tokio, Japón:
+Con poco menos de 79 millones de pasajeros, se mantiene entre los cinco primeros.
+<img src="/public/images/aeropuertos/haneda.jpg" alt="Aeropuerto de Tokio Haneda">
 
-## Mis vuelos
-<a class="justify-center align-center items-center" target="_blank" href="https://my.flightradar24.com/MateoGal27"><img src="https://banners-my.flightradar24.com/MateoGal27.png" alt="Mi perfil de MyFlightRadar " /></a>
+<a href="https://aci.aero/2024/07/16/top-20-busiest-airports-in-the-world-confirmed-by-aci-world/" target="_blank">Fuente</a> de la información.

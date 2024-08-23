@@ -1,7 +1,7 @@
 ---
-title: Las 10 Aerolíneas con Más Ingresos en 2023 Un Vistazo a los Gigantes del Aire
+title: Las 10 Aerolíneas con más Ingresos en 2023.
 slug: mejores-aerolineas-del-mundo
-description: solo de ida, un blog para compartir experiencias y mucho más.
+description: Cúales son la aerolineas más grandes del mundo?
 category:
   - General
 tags:

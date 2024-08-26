@@ -5,6 +5,7 @@ cover: "/images/dinamarca/copenague.webp"
 coverAlt: Copenague
 title: Copenague
 description: ¿Qué hacer en la cpaital de Dinamarca?
+category:
   - Descubrir
 tags: 
   - Dinamarca

@@ -1,17 +1,19 @@
 ---
-slug: que-hacer-en-copenague
-pubDate: 2024-06-10
-cover: "/images/dinamarca/copenague.webp"
-coverAlt: Copenague
 title: Copenague
-description: ¿Qué hacer en la cpaital de Dinamarca?
+slug: que-hacer-en-copenague
+description: ¿Qué hacer en la capital de Dinamarca?
 category:
   - Descubrir
-tags: 
-  - Dinamarca
-  - Copenague
-  - España
-  - Sagrada Familia
+tags:
+  - Hollywood
+  - Estados Unidos
+  - Los Ángeles
+  - Turismo
+  - Pier Santa Mónica
+
+pubDate: 2024-06-15
+cover: "/images/dinamarca/copenague.webp"
+coverAlt: Copenague ciudad
 author: Mateo
 ---
 

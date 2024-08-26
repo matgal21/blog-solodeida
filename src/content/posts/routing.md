@@ -8,6 +8,9 @@ tags:
   - Aeropuertos
   - Vuelos
   - Estados Unidos
+  - Europa
+  - Dubai
+  - Tokio
 pubDate: 2024-08-20
 cover: "/images/aeropuertos/fondo.jpg"
 coverAlt: "Aeropuerto con avión de fondo"

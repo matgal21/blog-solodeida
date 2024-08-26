@@ -19,6 +19,7 @@ author: Mateo
 
 ## 1. La Plaza de Mayo y la Casa Rosada 
 <img src="/images/argentina/casa-rosada.webp" alt="Casa rosada">
+
 La **Plaza de Mayo** es el corazón histórico y político de Buenos Aires y uno de los lugares más emblemáticos de la ciudad. Rodeada por importantes edificios históricos, la plaza ha sido el escenario de numerosos eventos clave en la historia de Argentina. En uno de sus extremos se encuentra la Casa Rosada, el palacio presidencial, famoso por su distintivo color rosa y por haber sido el lugar desde donde Eva Perón, "Evita", se dirigía al pueblo argentino. Los visitantes pueden realizar visitas guiadas por la Casa Rosada los fines de semana y conocer más sobre la historia política del país. No te pierdas el Monumento a Manuel Belgrano en el centro de la plaza, así como la Catedral Metropolitana, que también se encuentra en sus alrededores. La Plaza de Mayo es un lugar cargado de historia y el punto de partida perfecto para explorar Buenos Aires.
 
 ## 2. El Teatro Colón 

@@ -50,10 +50,10 @@ const { Content } = await post.render();
             ))
           }
         </div>
+        <div class="bg-neutral-600 px-2 pt-2 rounded">
+          <PostComments />
+        </div>
     </article>
-    <div class="bg-blue-800 px-2 pt-2 rounded">
-      <PostComments />
-    </div>
     <div class="mt-4">
       <RelatedPostsCard
         currentCategory={post.data.category[0]}

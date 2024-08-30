@@ -1,6 +1,6 @@
 ---
-title: Aeropuertos con mas pasajeros de Latinoamerica
-slug: aeropuertos-con-mas-pasajeros-de-latinoamerica
+title: Aeropuertos con mas pasajeros de Sudamérica
+slug: aeropuertos-con-mas-pasajeros-de-sudamerica
 description: Estos son los 10 aeropuertos que tienen mas tráfico de personas a lo largo de un año.
 category:
   - General
@@ -10,8 +10,8 @@ tags:
   - Turismo
   - Viajes
 pubDate: 2024-08-27
-cover: "/images/aeropuertos/aeropuertos.webp"
-coverAlt: Ciudad de Seattle con Montaña de fondo
+cover: "/images/aeropuertos/aeropuertos de sudamerica.png"
+coverAlt: aeropuertos de sudamerica
 author: Mateo 
 ---
 

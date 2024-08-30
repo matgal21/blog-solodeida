@@ -10,7 +10,7 @@ tags:
   - Turismo
   - Viajes
 pubDate: 2024-08-27
-cover: "public/images/aeropuertos/aeropuertos de sudamerica.png"
+cover: "/images/aeropuertos/aeropuertos de sudamerica.png"
 coverAlt: aeropuertos de sudamerica
 author: Mateo 
 ---

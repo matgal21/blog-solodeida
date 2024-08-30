@@ -10,7 +10,7 @@ tags:
   - Turismo
   - Viajes
 pubDate: 2024-08-27
-cover: "/images/austria/viena.jpeg"
+cover: "/images/aeropuertos/aeropuertos.webp"
 coverAlt: Ciudad de Seattle con Montaña de fondo
 author: Mateo 
 ---

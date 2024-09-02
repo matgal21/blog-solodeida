@@ -14,16 +14,16 @@ const { post } = Astro.props;
 <div
 class="relative overflow-hidden bg-gray-300 transition-transform duration-500  dark:bg-neutral-900 border-4 border-b-orange-500"
 >
-<a href={`/posts/${post.slug}/`} class="block">
+<a href={`/posts/${post.slug}/`} class="block" title={post.data.slug}>
   <img src={post.data.cover} alt={post.data.coverAlt} class="hover:opacity-90 hover:scale-110"/>
   <div class=" bottom-0 end-0 start-0 p-5 md:p-6">
-      <a href=`/category/${post.data.category}/1/` class="font-bold text-xl bg-sky-600 rounded-full p-2 text-white">
+      <a href=`/category/${post.data.category}/1/` class="font-bold text-xl bg-sky-600 rounded-full p-2 text-white" title={post.data.category}>
         {post.data.category}
       </a>
       <div class="mt-4 flex items-center gap-4 text-xs text-black">
         <FormattedDate date={post.data.pubDate} />
       </div>
-      <a href={`/posts/${post.slug}/`} class="block">
+      <a href={`/posts/${post.slug}/`} class="block" title={post.data.title}>
       <h2 class="mt-2 text-xl font-bold text-black">{post.data.title}</h2>
       </a>
       <h4 class="mt-2 text-medium font-bold text-black">{post.data.description}</h4>

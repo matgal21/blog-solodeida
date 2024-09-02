@@ -36,6 +36,7 @@ const today = new Date();
                 target="_blank"
                 class="absolute inset-0 z-10 text-orange-600"
                 aria-label={link.label}
+                title={link.label}
               />
               <Icon name={link.icon} class="icon-base text-xl" />
             </button>
@@ -44,7 +45,7 @@ const today = new Date();
       </div>
 
       <div class="mt-2 sm:order-1 sm:mb-0">
-        <a class="flex-none text-lg text-neutral-100 font-bold  dark:text-neutral-500 dark:hover:text-neutral-200" href="/" aria-label="Brand"
+        <a class="flex-none text-lg text-neutral-100 font-bold  dark:text-neutral-500 dark:hover:text-neutral-200" href="/" aria-label="Brand" title={BRAND_NAME}
           >{BRAND_NAME} &copy; {today.getFullYear()}</a
         >
       </div>

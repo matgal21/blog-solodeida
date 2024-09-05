@@ -1,5 +1,5 @@
 ---
-title: qué hacer en... Amsterdam?
+title: qué hacer en... AMSTERDÁM?
 slug: que-hacer-en-amsterdam
 description: La capital de los países bajos.
 category:

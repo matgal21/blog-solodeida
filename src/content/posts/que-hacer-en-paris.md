@@ -1,7 +1,7 @@
 ---
 title: ¿Qué hacer en... PARIS?
 slug: que-hacer-en-paris
-description: Una de las ciudades mas fotogenicas del mundo
+description: Una de las ciudades mas fotogenicas del mundo.
 category:
   - Descubrir
 tags:

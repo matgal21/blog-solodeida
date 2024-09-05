@@ -1,5 +1,5 @@
 ---
-title: ¿Qué hacer en... Madrid?
+title: ¿Qué hacer en... MADRID?
 slug: madrid
 description: La capital española, llena de historia, arquitectura y una gran gastronomía.
 category:

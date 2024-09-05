@@ -1,5 +1,5 @@
 ---
-title: Vienna
+title: ¿Qué hacer en... VIENA?
 slug: que-hacer-en-vienna
 description: La muy interesante y atractiva capital austríaca.
 category:
@@ -42,6 +42,6 @@ El **Palacio Belvedere** es uno de los complejos palaciegos más hermosos de Vie
 
 **El Prater** es uno de los parques de atracciones más antiguos del mundo y un **lugar icónico en Viena**, famoso por su ambiente festivo y su **emblemática Noria Gigante** (Riesenrad). *Inaugurada en 1897*, **la Noria Gigante** es uno de los símbolos más reconocibles de Viena y ofrece vistas panorámicas espectaculares de la ciudad y el Danubio. Dar una vuelta en esta noria es una experiencia clásica vienesa que no te podés perder. Además de la noria, el Prater es un vasto parque que combina atracciones modernas con áreas verdes donde los visitantes pueden disfrutar de un picnic, pasear en bicicleta o simplemente relajarse. El parque también alberga numerosos restaurantes y cafés, así como un museo dedicado a la historia del Prater y su famosa noria. El Prater es un lugar donde la diversión y la historia se entrelazan, ofreciendo una experiencia para todas las edades y una oportunidad de disfrutar del encanto lúdico de Viena.
 
-Como conclusión...
+### Como conclusión...
 
 ### **Viena** es una ciudad que combina la majestuosidad de su pasado imperial con una vibrante vida cultural moderna. Ya sea que explores los fastuosos palacios de Schönbrunn y Belvedere, te maravilles con la imponente Catedral de San Esteban, disfrutes de una función en la renombrada Ópera Estatal, o te diviertas en el histórico Prater, cada experiencia en Viena será inolvidable. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que la elegante capital austríaca tiene para ofrecer!

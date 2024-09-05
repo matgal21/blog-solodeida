@@ -1,5 +1,5 @@
 ---
-title: Qué hacer en... Lisboa?
+title: Qué hacer en... LISBOA?
 slug: que-hacer-en-lisboa
 description: La capital portuguesa, una visita obligada.
 category:

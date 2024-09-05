@@ -1,7 +1,7 @@
 ---
-title: Sevilla
+title: ¿Qué hacer en... SEVILLA?
 slug: que-hacer-en-sevilla
-description: An intro to layouts, a type of Astro component that is shared between pages for common layouts.
+description: Conocida por el flamenco y las corridas de toros.
 category:
   - Descubrir
 tags:

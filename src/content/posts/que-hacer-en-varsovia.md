@@ -1,7 +1,7 @@
 ---
 title: ¿Qué hacer en... VARSOVIA?
 slug: que-hacer-en-varsovia
-description: Una ciudad que se reconstruyo y hoy es hermosa
+description: Una ciudad que se reconstruyo y hoy es hermosa.
 category:
   - One
 tags:

@@ -1,7 +1,7 @@
 ---
-title: Santiago de Compostela
+title: ¿Qué hacer en... SANTIAGO DE COMPOSTELA?
 slug: que-hacer-en-santiago
-description: An intro to layouts, a type of Astro component that is shared between pages for common layouts.
+description: Conocida por su catedral y las peregrinaciones.
 category:
   - Descubrir
 tags:

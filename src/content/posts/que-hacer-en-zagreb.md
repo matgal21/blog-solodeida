@@ -1,7 +1,7 @@
 ---
 title: ¿Qué hacer en... ZAGREB?
 slug: que-hacer-en-zagreb
-description: the basic building blocks of any Astro project
+description: La capital croata y sus atracciones.
 category:
   - Descubrir
 tags:

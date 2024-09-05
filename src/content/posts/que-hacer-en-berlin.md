@@ -1,5 +1,5 @@
 ---
-title: ¿Qué hacer en... BERLIN?
+title: ¿Qué hacer en... BERLÍN?
 slug: que-hacer-en-berlin
 description: La capital alemana, una ciudad cuna de hechos historicos.
 category:

@@ -1,7 +1,7 @@
 ---
-title: Qué hacen en... Praga?
+title: ¿Qué hacen en... PRAGA?
 slug: que-hacer-en-praga
-description: la Encantadora Capital de los Países Bajos
+description: El corazón de Europa, y una ciudad con muchas historias.
 category:
   - Descubrir
 tags:

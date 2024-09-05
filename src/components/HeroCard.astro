@@ -10,29 +10,6 @@ interface Props {
 
 const { post } = Astro.props;
 
-function truncateUTF8String(str: string, maxBytes: number) {
-  let byteCount = 0;
-  let index = 0;
-  while (index < str.length && byteCount < maxBytes) {
-    const char = str.charCodeAt(index);
-    if (char > 0x7ff) {
-      byteCount += 3;
-    } else if (char > 0x7f) {
-      byteCount += 2;
-    } else {
-      byteCount += 1;
-    }
-    if (byteCount <= maxBytes) index++;
-    else break;
-  }
-  return str.slice(0, index) + (index < str.length ? "..." : "");
-}
-
-const truncatedDescription = truncateUTF8String(post.data.description, 150);
-
-interface Props {
-  post: CollectionEntry<"posts">;
-}
 
 ---
 <style>
@@ -86,6 +63,7 @@ interface Props {
           </div>
         </div>
       </a>
+
       
       <a href={`/posts/${post.slug}/`} title="Lobos marinos en Puerto Madryn">
         <div class="carousel-item hover:scale-110">

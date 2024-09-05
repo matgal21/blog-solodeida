@@ -37,6 +37,7 @@ const basePath = "/page/";
     <div class="col-span-1 mb-4">
       {firstPagePosts.length > 0 && <HeroCard post={firstPagePosts[6]} />}
     </div>
+  
 
     <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
       {firstPagePosts.slice(0).map((post) => <Card post={post} />)}

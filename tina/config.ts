@@ -55,7 +55,7 @@ export default defineConfig({
           {
             type: "string",
             name: "category",
-            label: "category",
+            label: "Category",
             isBody: true,
           },
           {

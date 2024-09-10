@@ -6,7 +6,6 @@ import partytown from "@astrojs/partytown";
 import pagefind from "astro-pagefind";
 import icon from "astro-icon";
 import tailwind from "@astrojs/tailwind";
-import vercel from '@astrojs/vercel/serverless';
 
 
 
@@ -16,10 +15,6 @@ export default defineConfig({
   site: "https://solodeida.vercel.app/",
   trailingSlash: "always",
 
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: { enabled: true }
-  }),
 
   prefetch: {
     prefetchAll: true,

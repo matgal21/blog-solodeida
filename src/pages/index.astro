@@ -33,6 +33,13 @@ const basePath = "/page/";
     crossorigin="anonymous"></script>
     
 </head>
+<style>
+  h3{
+    font-family: Impact, sans-serif;
+    font-size: 2rem;
+    box-shadow: 2px #f17b19;
+    }
+</style>
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
 
@@ -86,5 +93,9 @@ const basePath = "/page/";
     basePath={basePath}
     maxDisplayedPages={50}
   />
+
+  <div class="mx-auto py-4 my-4 bg-black px-4 rounded-xl">
+    <h3 class="text-blue-600 px-4 mb-2 text-xl">MIS VIDEOS EN <a href="https://www.youtube.com/@solodeida" target="_blank" title="Mi canal de Youtube">YOUTUBE</a></h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WUL-jZ8bVm0pWl9L&amp;list=PL9QAhy87rnjRCZX6bprXP0tSPcUKZEyra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </BaseLayout>

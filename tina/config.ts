@@ -36,7 +36,7 @@ export default defineConfig({
           {
             type: "string",
             name: "title",
-            label: "Title",
+            label: "Titulo",
             isTitle: true,
             required: true,
           },
@@ -49,27 +49,37 @@ export default defineConfig({
           {
             type: "string",
             name: "description",
-            label: "Description",
+            label: "Descripción",
             isBody: true,
           },
           {
             type: "string",
             name: "category",
-            label: "Category",
+            label: "Categoria",
             isBody: true,
           },
           {
             type: "string",
             name: "tags",
             label: "tags",
-            isBody: true,
           },
           {
             type: "string",
             name: "author",
-            label: "Author",
+            label: "Autor",
             isBody: true,
-          }
+          },
+          {
+            type: "string",
+            name: "coverAlt",
+            label: "Resumen imagen",
+          },
+          {
+            type: "image",
+            name: "cover",
+            label: "Imagen de portada"
+          },
+          
         ],
       },
     ],

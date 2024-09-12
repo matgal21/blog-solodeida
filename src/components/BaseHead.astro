@@ -1,4 +1,6 @@
 ---
+import type { CollectionEntry } from "astro:content";
+
 interface Props {
   title: string;
   description: string;
@@ -7,7 +9,13 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, cover } = Astro.props;
-const coverURL = cover ? cover : `${Astro.site}/img/logos solo de ida/logo.png`;
+
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+const { post } = Astro.props;
+
+const coverURL = cover ? post.data.cover : `${Astro.site}/img/logos solo de ida/logo.png`;
 ---
 
 <!-- Global Metadata -->
@@ -32,11 +40,11 @@ const coverURL = cover ? cover : `${Astro.site}/img/logos solo de ida/logo.png`;
 <meta property="og:url" content={canonicalURL.href} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={coverURL} />
+<meta property="og:image" content={post.data.cover} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={canonicalURL.href} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={coverURL} />
+<meta property="twitter:image" content={post.data.cover} />

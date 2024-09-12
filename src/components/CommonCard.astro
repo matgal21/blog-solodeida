@@ -12,7 +12,7 @@ const { post } = Astro.props;
 ---
 
 <div
-class="relative overflow-hidden bg-gray-300 transition-transform duration-500  dark:bg-neutral-900 border-4 border-b-orange-500"
+class="relative overflow-hidden bg-gray-300 transition-transform duration-500  dark:bg-neutral-900 dark:text-white border-4 border-b-orange-500"
 >
 <a href={`/posts/${post.slug}/`} class="block" title=`Ir al post ${post.data.title}`>
   <img src={post.data.cover} alt={post.data.coverAlt} class="hover:opacity-90 hover:scale-110"/>

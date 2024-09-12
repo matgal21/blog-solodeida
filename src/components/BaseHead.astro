@@ -7,7 +7,7 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, cover } = Astro.props;
-const coverURL = cover ? new URL(cover, Astro.site).href : `${Astro.site}/img/logos solo de ida/logo.png`;
+const coverURL = cover ? cover : `${Astro.site}/img/logos solo de ida/logo.png`;
 ---
 
 <!-- Global Metadata -->

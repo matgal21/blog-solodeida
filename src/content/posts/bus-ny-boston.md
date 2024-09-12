@@ -20,7 +20,7 @@ Cuando se trata de viajar, siempre buscamos opciones asequibles para maximizar l
 
 La clave detrás de esta oferta sorprendente fue la compañía de autobuses "Budget Travel Express". A través de su estrategia de precios dinámicos, ofrecían un número limitado de boletos a precios extremadamente bajos para atraer a los viajeros a planificar con antelación.
 
-<img src="/images/usa/boston/flixbus.png" alt="Flixbus 1 euro">
+<img src="/images/usa/boston/flixbus.png" alt="Flixbus 1 euro" >
 Cuando se trata de viajar, siempre buscamos opciones asequibles para maximizar la experiencia sin vaciar nuestras billeteras. En mi búsqueda constante de ofertas de viaje, descubrí una oportunidad única: un pasaje de bus de Boston a Nueva York por tan solo 1 dólar. Aunque inicialmente me pareció increíble, resultó ser una experiencia completamente legítima.
 
 La clave detrás de esta oferta sorprendente fue la compañía de autobuses "Budget Travel Express". A través de su estrategia de precios dinámicos, ofrecían un número limitado de boletos a precios extremadamente bajos para atraer a los viajeros a planificar con antelación.

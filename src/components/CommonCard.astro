@@ -20,7 +20,7 @@ class="relative overflow-hidden bg-gray-300 transition-transform duration-500  d
       <a href=`/category/${post.data.category}/1/` class="font-bold text-xl bg-sky-600 rounded-full p-2 text-white" title="Category">
         {post.data.category}
       </a>
-      <div class="mt-4 flex items-center gap-4 text-xs text-black">
+      <div class="mt-4 flex items-center gap-4 text-xs text-black w-16">
         <FormattedDate date={post.data.pubDate} />
       </div>
       <a href={`/posts/${post.slug}/`} class="block" title={post.data.title}>

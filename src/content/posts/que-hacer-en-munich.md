@@ -1,7 +1,7 @@
 ---
 title: ¿Qué hacer en... MUNICH?
 slug: que-hacer-en-munich
-description: Descubrí el Corazón de Europa y sede del Parlamento de la Unión Europea.
+description: Descubrí el la capital Bávara, una ciudad de tradición y modernidad.
 
 category:
   - Descubrir
@@ -12,39 +12,39 @@ tags:
   - Turismo
 
 pubDate: 2024-09-16
-cover: "/images/belgica/bruselas/bruselas.jpeg"
-coverAlt: Bruselas
+cover: "/images/alemania/munich/munich.jpg"
+coverAlt: Ciudad de Munich
 author: Mateo 
 ---
 
-### **Bruselas**, la capital de Bélgica y sede de la Unión Europea, es una ciudad que combina a la perfección su **rica historia** con una vibrante **vida moderna**. Famosa por sus impresionantes **edificios góticos**, su deliciosa **gastronomía** (como el chocolate y los waffles), y su papel como **epicentro político de Europa**, Bruselas ofrece una experiencia cultural y cosmopolita inigualable. Desde la icónica Grand Place hasta el futurista Atomium, cada rincón de la ciudad tiene algo especial que ofrecer. En esta nota, exploraremos las mejores atracciones de Bruselas que no te podés perder. ¡Descubrí todo lo que hace de Bruselas un destino fascinante!
 
-## 1. Grand Place 
-<img src="/images/belgica/bruselas/grand-palace.jpg" alt="Gran Palacio">
+### **Múnich**, la capital de Baviera, es una ciudad vibrante que combina su rica historia con un espíritu moderno y cosmopolita. Famosa por sus cervecerías, sus impresionantes edificios históricos y el mundialmente conocido Oktoberfest, Múnich ofrece una experiencia única para sus visitantes. Desde sus imponentes plazas y palacios hasta sus museos de clase mundial, cada rincón de la ciudad refleja su legado cultural y su estilo de vida alegre. En esta nota, exploraremos las mejores atracciones de Múnich que no te podés perder. ¡Descubrí todo lo que hace de Múnich uno de los destinos más fascinantes de Alemania!
 
-La **Grand Place** es el corazón histórico y cultural de Bruselas, y una de las plazas más hermosas del mundo. Este majestuoso espacio, declarado **Patrimonio de la Humanidad por la UNESCO**, está rodeado por impresionantes edificios con *fachadas barrocas y góticas*, entre los que destacan el **Ayuntamiento** (Hôtel de Ville) y **la Casa del Rey** (Maison du Roi). Cada dos años, la plaza se cubre con una alfombra de flores que la transforma en un espectáculo visual impresionante. Pasear por la Grand Place es como retroceder en el tiempo, ya que la plaza ha sido testigo de importantes eventos a lo largo de los siglos. Además de su belleza arquitectónica, la Grand Place está rodeada de cafés, restaurantes y chocolaterías donde podés disfrutar de las delicias belgas mientras admirás el entorno. De día o de noche, la Grand Place te va a sorprender con su grandiosidad y su encanto único. Sin duda, es una visita imprescindible en Bruselas.
+## 1. Marienplatz y el Nuevo Ayuntamiento 
+<img src="/images/alemania/munich/ayuntamiento-munich.jpg" alt="Marienplatz y el Nuevo Ayuntamiento ">
 
-## 2. Atomium 
-<img src="/images/belgica/bruselas/Atomium_Style.html.jpg" alt="Atomium">
+**Marienplatz** es el corazón de Múnich y uno de los lugares más emblemáticos de la ciudad. Rodeada de edificios históricos, esta vibrante plaza ha sido el centro de la vida social y cultural de Múnich desde la Edad Media. El principal atractivo de Marienplatz es el imponente **Nuevo Ayuntamiento (Neues Rathaus)**, un majestuoso edificio neogótico que domina la plaza con su fachada ornamentada y su alta torre. Una de las principales atracciones es el famoso Glockenspiel, un carrillón que se activa todos los días a las 11 de la mañana (y a veces a las 12 y 5 de la tarde), donde figuras mecánicas recrean escenas históricas y de leyenda bávara. Si te animás, podés subir a la torre del Ayuntamiento y disfrutar de una vista espectacular de la ciudad, con los Alpes en el horizonte en los días despejados. Marienplatz es el lugar perfecto para comenzar tu exploración de Múnich y sentir el pulso de la ciudad.
 
-El **Atomium** es uno de los monumentos más **icónicos de Bruselas** y un símbolo de la **innovación y la modernidad** de la ciudad. Inaugurado en 1958 para la **Exposición Universal**, esta estructura futurista representa un átomo de hierro ampliado 165 mil millones de veces y está formada por nueve esferas conectadas por tubos. Aunque en principio iba a ser una instalación temporal, el Atomium se convirtió rápidamente en un símbolo de la ciudad. Dentro de sus esferas, podés explorar exposiciones interactivas sobre ciencia, diseño y tecnología, mientras que en la esfera superior, disfrutarás de una vista panorámica espectacular de Bruselas. El Atomium también alberga un restaurante donde podés degustar comida belga con una vista impresionante. Además, justo al lado del Atomium se encuentra el parque Mini-Europe, donde podés ver réplicas a escala de los monumentos más famosos de Europa. El Atomium es una combinación perfecta de ciencia, arte y diversión, y un destino imperdible para quienes visitan Bruselas.
+## 2. Englischer Garten 
+<img src="/images/alemania/munich/munich-parque.jpg" alt="Englischer Garten  ">
 
-## 3. Manneken Pis 
-<img src="/images/belgica/bruselas/manneken-pis.webp" alt="Manneken Pis">
+El **Englischer Garten (Jardín Inglés)** es uno de los parques urbanos más grandes del mundo, incluso **más extenso que el Central Park** de Nueva York. Este enorme oasis verde en el **corazón de Múnich** es el lugar perfecto para relajarse, pasear o disfrutar de un día al aire libre. El parque es famoso por sus jardines, lagos, y su icónica torre china (Chinesischer Turm), donde podés disfrutar de una auténtica experiencia bávara en una de las cervecerías al aire libre más populares de la ciudad. Además, en el río Eisbach, que atraviesa el parque, es común ver a surfistas locales desafiando las olas en pleno centro de Múnich, un espectáculo que no te podés perder. Ya sea que quieras hacer un picnic, alquilar una bicicleta o simplemente relajarte bajo el sol, el Englischer Garten es un lugar ideal para desconectar y disfrutar de la naturaleza en plena ciudad. Es uno de los espacios más queridos por locales y turistas por igual.
 
-**Manneken Pis** es una pequeña pero famosa **estatua de un niño orinando**, y aunque su tamaño es modesto, se ha convertido en uno de los símbolos más queridos de Bruselas. Esta peculiar fuente, ubicada a pocos pasos de la Grand Place, ha sido un ícono de la ciudad desde el siglo XVII y está rodeada de historias y leyendas. A lo largo del año, el Manneken Pis se viste con distintos trajes en ocasiones especiales, y hay más de 1,000 disfraces en su colección. Cada cambio de vestuario es un pequeño evento que atrae tanto a locales como a turistas. La fuente tiene varias réplicas por todo el mundo, pero la original sigue siendo uno de los lugares más visitados en Bruselas. Junto con sus contrapartes menos conocidas, Jeanneke Pis (una niña) y Zinneke Pis (un perro), el Manneken Pis es una visita divertida y peculiar que muestra el humor y el carácter lúdico de la ciudad.
+## 3. Palacio de Nymphenburg 
+<img src="/images/alemania/munich/palacio.png" alt="Palacio de Nymphenburg">
 
-## 4. Palacio Real de Bruselas 
-<img src="/images/belgica/bruselas/palacio-real-bruselas.jpeg" alt="Palacio Real de Bruselas ">
+El **Palacio de Nymphenburg** es una de las residencias reales más majestuosas de Europa y un verdadero tesoro de Múnich. Construido en el siglo XVII como residencia de verano para los gobernantes de Baviera, este impresionante palacio barroco está rodeado de hermosos jardines, estanques y fuentes que crean un entorno de ensueño. El palacio también alberga varios museos, incluyendo el Museo de los Coches de Carruajes, donde podés ver los carruajes reales y las extravagantes sillas de paseo utilizadas por la familia Wittelsbach. Los jardines del Palacio de Nymphenburg, diseñados al estilo francés e inglés, son perfectos para pasear y relajarse mientras admirás la arquitectura del palacio. El Palacio de Nymphenburg es una visita imprescindible para quienes desean experimentar el esplendor de la realeza bávara y la belleza histórica de Múnich.
 
-El **Palacio Real de Bruselas** es la residencia oficial del rey de Bélgica, aunque la familia real no vive aquí, sino que lo utiliza para funciones oficiales y ceremonias. Este majestuoso edificio, ubicado frente al **Parque de Bruselas**, es un ejemplo impresionante de la arquitectura neoclásica y un símbolo del poder y la historia de la monarquía belga. Durante el verano, algunas salas del palacio se abren al público, permitiendo a los visitantes recorrer sus lujosas estancias, salones de mármol y grandes galerías adornadas con obras de arte y mobiliario exquisito. Entre las salas más destacadas se encuentra la famosa Sala del Trono y la deslumbrante Sala de los Espejos, cuya decoración con alas de escarabajos es realmente única. El Palacio Real es también el escenario de importantes ceremonias estatales y eventos oficiales. Si tenés la suerte de estar en Bruselas durante la apertura al público, no te podés perder la oportunidad de visitar este ícono de la realeza belga.
+## 4. Museo BMW y el BMW Welt 
+<img src="/images/alemania/munich/bmw-museo.JPG" alt="Museo BMW y el BMW Welt ">
 
-## 5. Barrio Europeo 
-<img src="/images/belgica/bruselas/barrio-europeo.jpeg" alt="Barrio Europeo">
+Para los amantes de los autos y la tecnología, el **Museo BMW y el BMW Welt** son dos de las atracciones más emocionantes de Múnich. El Museo BMW, ubicado cerca del Parque Olímpico, te lleva en un viaje fascinante a través de la historia de la marca, desde sus inicios hasta sus modelos más icónicos. Aquí podrás ver una increíble colección de automóviles, motocicletas y motores, todo exhibido en un espacio de diseño futurista. A solo unos pasos, el BMW Welt es una experiencia interactiva donde los visitantes pueden conocer los últimos modelos de la marca, participar en simuladores de conducción y explorar la innovación de BMW en tecnología y diseño. Tanto el museo como el BMW Welt son visitas obligadas para los aficionados a los autos y para quienes desean descubrir una de las marcas más emblemáticas de Alemania en su ciudad natal.
 
-El **Barrio Europeo** es el **corazón político** de Bruselas y un área de gran importancia para la Unión Europea. Aquí se encuentran las principales instituciones de la UE, como la Comisión Europea y el Parlamento Europeo. El edificio del Parlamento Europeo, conocido como el "Edificio Paul-Henri Spaak", es uno de los más destacados y ofrece visitas guiadas gratuitas para conocer más sobre el funcionamiento de la Unión Europea y su impacto en la vida de los ciudadanos. También podés explorar el Parlamentarium, un centro de visitantes interactivo que te permite aprender sobre la historia y las decisiones clave de la Unión Europea. Además de su valor político, el Barrio Europeo es un área verde y tranquila, rodeada de parques como el Parque Leopold y el Parque del Cincuentenario, donde podés relajarte y disfrutar del entorno. Visitar el Barrio Europeo es una excelente oportunidad para entender el rol de Bruselas como capital política de Europa y descubrir cómo se toman las decisiones que afectan a todo el continente.
+## 5. Cervecería Hofbräuhaus 
+<img src="/images/alemania/munich/cerveceria.png" alt="Cervecería Hofbräuhaus ">
+
+No se puede hablar de Múnich sin mencionar su **tradición cervecera**, y la **Hofbräuhaus** es el lugar más icónico para disfrutar de una auténtica cerveza bávara. Fundada en 1589, esta **histórica cervecería** es uno de los lugares más famosos de Múnich y ha sido un punto de encuentro para locales y turistas durante siglos. El ambiente en la Hofbräuhaus es alegre y acogedor, con largas mesas de madera donde compartís espacio con otras personas, todo acompañado por música tradicional bávara en vivo. La cervecería tiene varios salones, pero el más famoso es el Salón Principal, con sus techos abovedados decorados con frescos y escudos de armas. Visitar la Hofbräuhaus es una experiencia única que te permitirá sumergirte en la cultura bávara, disfrutar de buena comida y, por supuesto, brindar con una excelente cerveza.
 
 ### Como conclusión... 
 
-### Bruselas es una ciudad que combina su rica historia con su papel como capital política de Europa. Ya sea que explores la impresionante Grand Place, te maravilles con el futurista Atomium, disfrutes del humor local con el Manneken Pis, descubras la elegancia del Palacio Real o te sumerjas en la importancia política del Barrio Europeo, cada rincón de Bruselas te va a sorprender. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que esta fascinante ciudad tiene para ofrecer, desde sus calles históricas hasta su vibrante vida moderna!
-
+### **Múnich** es una ciudad que combina tradición, historia y modernidad de una manera única. Ya sea que explores la vibrante Marienplatz, te relajes en el vasto Englischer Garten, visites el majestuoso Palacio de Nymphenburg, te sumerjas en el mundo de la automoción en el Museo BMW o disfrutes de una cerveza en la icónica Hofbräuhaus, cada rincón de Múnich te va a sorprender. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que la capital bávara tiene para ofrecer, desde su rica cultura hasta su encantador estilo de vida!

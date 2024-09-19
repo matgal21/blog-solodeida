@@ -40,4 +40,4 @@ El precio de andar por estas embarcaciones llamadas moliceiros o mercanteles ron
 
 ### Mi opinión...
 
-## Buen destino para ir si estas hospedado en Porto o Coimbra, pero como lugar para pasar mas de una noche queda grande, pero si destacar el encanto de las casas y los canales con los barcos pasando y haciendo el lugar muy ameno.
+### Buen destino para ir si estas hospedado en Porto o Coimbra, pero como lugar para pasar mas de una noche queda grande, pero si destacar el encanto de las casas y los canales con los barcos pasando y haciendo el lugar muy ameno.

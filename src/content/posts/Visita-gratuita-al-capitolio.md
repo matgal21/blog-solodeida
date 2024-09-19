@@ -20,7 +20,8 @@ author: Mateo
 ### **Washington D.C.**, con su *rica historia* y su papel central en la política de los Estados Unidos, es un destino obligado para cualquier amante de la *cultura* y la *historia*. Entre sus numerosos monumentos y edificios emblemáticos, el **Capitolio de los Estados Unidos** se destaca como un símbolo de la *democracia*. Lo mejor de todo es que puedes explorar este majestuoso edificio a través de una **visita guiada gratuita**.
 
 La **visita al Capitolio** es una experiencia educativa y fascinante que ofrece una visión única del funcionamiento del gobierno estadounidense. Desde el momento en que llegas al *Centro de Visitantes del Capitolio*, te das cuenta de la grandeza del lugar. Este moderno centro, inaugurado en *2008*, no solo es el punto de partida para la visita, sino que también alberga exposiciones que destacan la historia y el papel del **Congreso** en la vida nacional.
-<img src/images/usa/washington/IMG_7787.jpg">
+
+<img src="/images/usa/washington/IMG_7787.jpg">
 
 
 Las visitas guiadas gratuitas al Capitolio se realizan **todos los días**, excepto los *domingos y algunos días festivos*. Es recomendable **reservar con antelación** a través del **[sitio web oficial](https://www.visitthecapitol.gov/visit/book-a-tour)**

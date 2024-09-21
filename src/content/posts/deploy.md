@@ -19,7 +19,7 @@ author: Mateo
 ### **Barcelona**, la vibrante capital de Cataluña, es una ciudad que combina arte, arquitectura y una historia rica en cada rincón. Famosa por las obras maestras de Antoni Gaudí, sus playas mediterráneas, y su animada vida cultural, Barcelona ofrece una experiencia única. Desde la imponente Sagrada Familia hasta las estrechas calles del Barrio Gótico, la ciudad tiene algo para todos. Ya sea que busques disfrutar de la gastronomía local, sumergirte en su fascinante historia o relajarte junto al mar, Barcelona te sorprenderá en cada paso. En esta nota, te contamos cuáles son las mejores atracciones que no podés perderte en la Ciudad Condal.
 
 ## 1. La Sagrada Familia 
-<img src="/images/españa/barcelona/sagrada-familia.webp" alt="Sagrada Familia">
+<img src="/images/españa/barcelona/sagrada-familia2.jpg" alt="Sagrada Familia">
 
 La **Sagrada Familia** es el ícono más representativo de Barcelona y la obra maestra inacabada del arquitecto Antoni Gaudí. Este impresionante templo, cuya construcción comenzó en 1882 y aún continúa, es un símbolo del modernismo catalán y uno de los monumentos más visitados del mundo. Sus espectaculares fachadas y sus imponentes torres se destacan por su diseño único, que combina formas orgánicas con detalles arquitectónicos innovadores. El interior de la basílica es igualmente fascinante, con columnas que recuerdan a árboles y una explosión de luz multicolor que entra a través de los enormes vitrales. Aunque la obra no está terminada, la Sagrada Familia es Patrimonio de la Humanidad por la UNESCO, y se espera que su construcción finalice en las próximas décadas.
 

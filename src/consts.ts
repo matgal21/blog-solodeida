@@ -7,7 +7,7 @@ export const SITE_TITLE = "Solo de Ida | Blog de viajes";
 export const SITE_DESCRIPTION = "Blog de viajes y experiencas vividas. Desde noticias, experiencias de viajes y anécdotas.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "solo de ida | tags";
+export const Tags_TITLE = "Solo de Ida | TAGS";
 export const Tags_DESCRIPTION =
   "solo de ida - tags";
 
@@ -46,9 +46,9 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/@solodeida",
-    icon: "tabler:brand-twitter",
-    label: "Twitter",
+    href: "https://x.com/@solodeida",
+    icon: "tabler:brand-x",
+    label: "X",
   },
   {
     href: "https://youtube.com/@solodeida",

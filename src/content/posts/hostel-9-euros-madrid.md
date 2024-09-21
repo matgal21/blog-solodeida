@@ -8,7 +8,7 @@ tags:
   - Callao
   - Gran Via
 pubDate: 2023-12-07
-cover: "/img/plaza-callao.jpg"
+cover: "/images/españa/madrid/plaza-callao.jpeg"
 coverAlt: foto-plaza-callao
 title: Hostel en la gran vía por 9 euros la noche
 description: Dormir en el pleno centro de Madrid por menos de 10 euros.
@@ -19,7 +19,7 @@ Si te digo que dormir en el pleno centro de Madrid por 10 euros la noche, quizas
 ![](</img/hc hostel entrada.jpeg>)Al llegar de noche y un poco cansado después de viajar desde Barcelona, encontarlo no fue nada fácil, ya que se encuentra dentro de un edificio. Por lo que estuve dando vueltas un buen rato con las valijas y el peso se hizo un poco desgastante.
 
 Y mas aún al tener que subirlas por escaleras ya que el ascensor no estaba funcionando.
-
+<img src="/images/españa/madrid/pic-hc-hostel-callao-madrid-22.jpeg" alt="Entrada Hostel HC">
 Buscando en Booking un hostel cerca del centro, me encontré con HC Callao, buena ubicación y buenas instalaciones menos las camas... <br></br>
 Las cosas malas del hostel... los colchones inflables, una pequeña manta, la complejidad de encontrar el lugar ya que el frente del edificio estaba en obras y no se veía ningun cartel, no tenia edificio, pero e fin el precio inclinaba la balanza.
 

@@ -28,7 +28,7 @@ author: Mateo
 Fuera de la capital, podés visitar el misterioso monumento de Stonehenge, las pintorescas aldeas de los Cotswolds o las históricas ciudades de Oxford y Cambridge, conocidas por sus prestigiosas universidades. El norte de Inglaterra, con ciudades como Manchester y Liverpool, es famoso por su patrimonio industrial y musical, mientras que las zonas rurales, como el Parque Nacional de los Lagos, ofrecen paisajes impresionantes para quienes buscan la naturaleza.
 
 ## 2. Escocia: Tierra de Castillos, Leyendas y Paisajes Increíbles
-<img src="/images/uk/escocia.webpg" alt="Escocia">
+<img src="/images/uk/escocia.webp" alt="Escocia">
 
 **Escocia**, conocida por sus impresionantes paisajes y su profunda herencia cultural, es un país lleno de historia, desde sus antiguos castillos hasta las leyendas de los clanes. La capital, Edimburgo, es famosa por su imponente castillo, que domina la ciudad desde una colina volcánica, y por su ambiente medieval. Además, la ciudad alberga uno de los festivales de artes más grandes del mundo, el Edinburgh Festival Fringe.
 

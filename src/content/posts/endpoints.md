@@ -1,242 +1,54 @@
 ---
-title: Eendpoint
-slug: endpoint
-description: Learn how to create endpoints that serve any kind of data
+title: Países del Reino Unido y la diferencia con Gran Bretaña
+slug: paises-del-reino-unido
+description: Formado por 4 países lleno de historia, cultura y arquitectura.
 category:
   - General
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
-coverAlt: AstroVerse-Aliases
-author: VV
+  - Reino Unido
+  - Inglaterra
+  - Gáles
+  - Irlanda del Norte
+  - Escocia
+pubDate: 2024-09-12
+cover: "/images/uk/6308c1b909f2c.jpeg"
+coverAlt: Imagen Reino Unido
+author: Mateo
 ---
 
-Astro lets you create custom endpoints to serve any kind of data. You can use this to generate images, expose an RSS document, or use them as API Routes to build a full API for your site.
+### El **Reino Unido** es un país diverso, compuesto por **cuatro naciones** con sus propias tradiciones, paisajes y culturas únicas. Desde las majestuosas tierras altas de **Escocia** hasta los verdes valles de **Gales**, cada país del Reino Unido tiene su propia identidad que lo distingue.
 
-In statically-generated sites, your custom endpoints are called at build time to produce static files. If you opt in to [SSR](/en/guides/server-side-rendering/) mode, custom endpoints turn into live server endpoints that are called on request. Static and SSR endpoints are defined similarly, but SSR endpoints support additional features.
+### **Gran Bretaña es una isla que incluye a Inglaterra, Escocia y Gales**, mientras que el Reino Unido abarca Gran Bretaña e Irlanda del Norte. A continuación, te invitamos a descubrir lo mejor de cada uno de estos fascinantes destinos: Inglaterra, Escocia, Gales e Irlanda del Norte.
 
-## Static File Endpoints
+## 1. Inglaterra: Historia y Modernidad en el Corazón del Reino Unido
+<img src="/public/images/uk/inglaterra.jpg" alt="Inglaterra">
 
-To create a custom endpoint, add a `.js` or `.ts` file to the `/pages` directory. The `.js` or `.ts` extension will be removed during the build process, so the name of the file should include the extension of the data you want to create. For example, `src/pages/data.json.ts` will build a `/data.json` endpoint.
+**Inglaterra**, el país más grande del Reino Unido, es famoso por sus ciudades vibrantes, su rica historia y sus paisajes variados. Londres, la capital, es un epicentro de la cultura global, hogar del icónico Big Ben, el Palacio de Buckingham y el Museo Británico. La influencia de su pasado imperial y su papel en el desarrollo industrial y científico del mundo aún se sienten.
 
-Endpoints export a `GET` function (optionally `async`) that receives a [context object](/en/reference/api-reference/#endpoint-context) with properties similar to the `Astro` global. Here, it returns a Response object with a `name` and `url`, and Astro will call this at build time and use the contents of the body to generate the file.
+Fuera de la capital, podés visitar el misterioso monumento de Stonehenge, las pintorescas aldeas de los Cotswolds o las históricas ciudades de Oxford y Cambridge, conocidas por sus prestigiosas universidades. El norte de Inglaterra, con ciudades como Manchester y Liverpool, es famoso por su patrimonio industrial y musical, mientras que las zonas rurales, como el Parque Nacional de los Lagos, ofrecen paisajes impresionantes para quienes buscan la naturaleza.
 
-```ts
-// Example: src/pages/builtwith.json.ts
-// Outputs: /builtwith.json
-export async function GET({ params, request }) {
-  return new Response(
-    JSON.stringify({
-      name: "Astro",
-      url: "https://astro.build/",
-    }),
-  );
-}
-```
+## 2. Escocia: Tierra de Castillos, Leyendas y Paisajes Increíbles
+<img src="/public/images/uk/escocia.webpg" alt="Escocia">
 
-Since Astro v3.0, the returned `Response` object doesn't have to include the `encoding` property anymore. For example, to produce a binary png image:
+**Escocia**, conocida por sus impresionantes paisajes y su profunda herencia cultural, es un país lleno de historia, desde sus antiguos castillos hasta las leyendas de los clanes. La capital, Edimburgo, es famosa por su imponente castillo, que domina la ciudad desde una colina volcánica, y por su ambiente medieval. Además, la ciudad alberga uno de los festivales de artes más grandes del mundo, el Edinburgh Festival Fringe.
 
-```ts title="src/pages/astro-logo.png.ts" {3}
-export async function GET({ params, request }) {
-  const response = await fetch(
-    "https://docs.astro.build/assets/full-logo-light.png",
-  );
-  return new Response(await response.arrayBuffer());
-}
-```
+Las Tierras Altas de Escocia ofrecen algunos de los paisajes más dramáticos del Reino Unido, con montañas imponentes, lagos (lochs) tranquilos y castillos en ruinas que se asoman a los acantilados. El famoso Lago Ness, hogar del mítico monstruo Nessie, es una parada obligada para los aventureros. Además, Escocia es la cuna del whisky, y visitar una de sus destilerías tradicionales es una experiencia única para los amantes de esta bebida.
 
-You can also type your endpoint functions using the `APIRoute` type:
+## 3. Gales: Tierra de Castillos y Naturaleza Salvaje
+<img src="/public/images/uk/gales.avif" alt="Gales">
 
-```ts
-import type { APIRoute } from 'astro';
+**Gales** es conocido por sus espectaculares paisajes naturales y su rica herencia celta. Este pequeño país tiene más castillos por kilómetro cuadrado que cualquier otro país de Europa, siendo el Castillo de Caernarfon y el Castillo de Conwy algunos de los más impresionantes. La capital, Cardiff, es una ciudad vibrante con una mezcla de historia y modernidad, donde podés explorar el Castillo de Cardiff y disfrutar de su renovado paseo marítimo.
 
-export const GET: APIRoute = async ({ params, request }) => {...}
-```
+Para los amantes de la naturaleza, el Parque Nacional de Snowdonia es un verdadero paraíso. Hogar del monte Snowdon, la montaña más alta de Gales, este parque ofrece increíbles rutas de senderismo y paisajes que quitan el aliento. El idioma galés sigue siendo una parte integral de la vida en Gales, y escuchar a los locales hablar en galés añade un toque especial a la experiencia.
 
-### `params` and Dynamic routing
+## 4. Irlanda del Norte: Encanto, Cultura y Paisajes Míticos
+<img src="/public/images/uk/irlanda-del-norte.jpeg" alt="Irlanda del Norte">
 
-Endpoints support the same [dynamic routing](/en/core-concepts/routing/#dynamic-routes) features that pages do. Name your file with a bracketed parameter name and export a [`getStaticPaths()` function](/en/reference/api-reference/#getstaticpaths). Then, you can access the parameter using the `params` property passed to the endpoint function:
+**Irlanda del Norte**, la más pequeña de las naciones que conforman el Reino Unido, ofrece una combinación perfecta de paisajes espectaculares, historia fascinante y hospitalidad cálida. La capital, Belfast, ha florecido en las últimas décadas, con una revitalización cultural que se refleja en sus museos, como el Titanic Belfast, que cuenta la historia del famoso transatlántico construido en la ciudad.
 
-```ts title="src/pages/api/[id].json.ts"
-import type { APIRoute } from "astro";
+Uno de los paisajes más impresionantes de Irlanda del Norte es la Calzada del Gigante, una maravilla natural formada por columnas de basalto que se han convertido en Patrimonio de la Humanidad. Para los amantes de las series, un recorrido por las localizaciones de Game of Thrones es una excelente forma de descubrir los lugares más pintorescos de la región. No olvides visitar Derry/Londonderry, una ciudad histórica famosa por sus murallas bien conservadas y su papel clave en la historia de Irlanda.
 
-const usernames = ["Sarah", "Chris", "Yan", "Elian"];
+### Como conclusión...
 
-export const GET: APIRoute = ({ params, request }) => {
-  const id = params.id;
-  return new Response(
-    JSON.stringify({
-      name: usernames[id],
-    }),
-  );
-};
+### El Reino Unido es una tierra llena de contrastes y culturas que se entrelazan para formar una nación diversa y rica en historia. Cada país tiene su propio carácter, desde los castillos medievales de Escocia y Gales hasta las ciudades cosmopolitas de Inglaterra y los paisajes míticos de Irlanda del Norte. Sea cual sea tu estilo de viaje, el Reino Unido te promete una experiencia única e inolvidable. ¡Empezá a planear tu aventura y descubrí por vos mismo la magia de cada rincón del Reino Unido!
 
-export function getStaticPaths() {
-  return [
-    { params: { id: "0" } },
-    { params: { id: "1" } },
-    { params: { id: "2" } },
-    { params: { id: "3" } },
-  ];
-}
-```
-
-This will generate four JSON endpoints at build time: `/api/0.json`, `/api/1.json`, `/api/2.json` and `/api/3.json`. Dynamic routing with endpoints works the same as it does with pages, but because the endpoint is a function and not a component, [props](/en/reference/api-reference/#data-passing-with-props) aren't supported.
-
-### `request`
-
-All endpoints receive a `request` property, but in static mode, you only have access to `request.url`. This returns the full URL of the current endpoint and works the same as [Astro.request.url](/en/reference/api-reference/#astrorequest) does for pages.
-
-```ts title="src/pages/request-path.json.ts"
-import type { APIRoute } from "astro";
-
-export const GET: APIRoute = ({ params, request }) => {
-  return new Response(
-    JSON.stringify({
-      path: new URL(request.url).pathname,
-    }),
-  );
-};
-```
-
-## Server Endpoints (API Routes)
-
-Everything described in the static file endpoints section can also be used in SSR mode: files can export a `GET` function which receives a [context object](/en/reference/api-reference/#endpoint-context) with properties similar to the `Astro` global.
-
-But, unlike in `static` mode, when you configure `server` mode, the endpoints will be built when they are requested. This unlocks new features that are unavailable at build time, and allows you to build API routes that listen for requests and securely execute code on the server at runtime.
-
-<RecipeLinks slugs={["en/recipes/call-endpoints" ]}/>
-
-:::note
-Be sure to [enable SSR](/en/guides/server-side-rendering/) before trying these examples.
-:::
-
-Server endpoints can access `params` without exporting `getStaticPaths`, and they can return a [`Response`](https://developer.mozilla.org/en-US/docs/Web/API/Response) object, allowing you to set status codes and headers:
-
-```js title="src/pages/[id].json.js"
-import { getProduct } from "../db";
-
-export async function GET({ params }) {
-  const id = params.id;
-  const product = await getProduct(id);
-
-  if (!product) {
-    return new Response(null, {
-      status: 404,
-      statusText: "Not found",
-    });
-  }
-
-  return new Response(JSON.stringify(product), {
-    status: 200,
-    headers: {
-      "Content-Type": "application/json",
-    },
-  });
-}
-```
-
-This will respond to any request that matches the dynamic route. For example, if we navigate to `/helmet.json`, `params.id` will be set to `helmet`. If `helmet` exists in the mock product database, the endpoint will use create a `Response` object to respond with JSON and return a successful [HTTP status code](https://developer.mozilla.org/en-US/docs/Web/API/Response/status). If not, it will use a `Response` object to respond with a `404`.
-
-In SSR mode, certain providers require the `Content-Type` header to return an image. In this case, use a `Response` object to specify a `headers` property. For example, to produce a binary `.png` image:
-
-```ts title="src/pages/astro-logo.png.ts"
-export async function GET({ params, request }) {
-  const response = await fetch(
-    "https://docs.astro.build/assets/full-logo-light.png",
-  );
-  const buffer = Buffer.from(await response.arrayBuffer());
-  return new Response(buffer, {
-    headers: { "Content-Type": "image/png" },
-  });
-}
-```
-
-### HTTP methods
-
-In addition to the `GET` function, you can export a function with the name of any [HTTP method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods). When a request comes in, Astro will check the method and call the corresponding function.
-
-You can also export an `ALL` function to match any method that doesn't have a corresponding exported function. If there is a request with no matching method, it will redirect to your site's [404 page](/en/core-concepts/astro-pages/#custom-404-error-page).
-
-```ts title="src/pages/methods.json.ts"
-export const GET: APIRoute = ({ params, request }) => {
-  return new Response(
-    JSON.stringify({
-      message: "This was a GET!",
-    }),
-  );
-};
-
-export const POST: APIRoute = ({ request }) => {
-  return new Response(
-    JSON.stringify({
-      message: "This was a POST!",
-    }),
-  );
-};
-
-export const DELETE: APIRoute = ({ request }) => {
-  return new Response(
-    JSON.stringify({
-      message: "This was a DELETE!",
-    }),
-  );
-};
-
-export const ALL: APIRoute = ({ request }) => {
-  return new Response(
-    JSON.stringify({
-      message: `This was a ${request.method}!`,
-    }),
-  );
-};
-```
-
-<RecipeLinks slugs={["en/recipes/captcha", "en/recipes/build-forms-api" ]}/>
-
-### `request`
-
-In SSR mode, the `request` property returns a fully usable [`Request`](https://developer.mozilla.org/en-US/docs/Web/API/Request) object that refers to the current request. This allows you to accept data and check headers:
-
-```ts title="src/pages/test-post.json.ts"
-export const POST: APIRoute = async ({ request }) => {
-  if (request.headers.get("Content-Type") === "application/json") {
-    const body = await request.json();
-    const name = body.name;
-    return new Response(
-      JSON.stringify({
-        message: "Your name was: " + name,
-      }),
-      {
-        status: 200,
-      },
-    );
-  }
-  return new Response(null, { status: 400 });
-};
-```
-
-### Redirects
-
-The endpoint context exports a `redirect()` utility similar to `Astro.redirect`:
-
-```js title="src/pages/links/[id].js" {14}
-import { getLinkUrl } from "../db";
-
-export async function GET({ params, redirect }) {
-  const { id } = params;
-  const link = await getLinkUrl(id);
-
-  if (!link) {
-    return new Response(null, {
-      status: 404,
-      statusText: "Not found",
-    });
-  }
-
-  return redirect(link, 307);
-}
-```

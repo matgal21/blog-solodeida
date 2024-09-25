@@ -18,9 +18,9 @@ const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description}>
+<BaseLayout title=`${post.data.title} | Solo de Ida` description={post.data.description}>
   <main>
-    <article class="prose mx-auto  dark:prose-invert">
+    <article class="prose mx-auto dark:prose-invert">
       <img src={post.data.cover} alt={post.data.coverAlt}>
       <div class="prose-h1 text-center">
         <h1 class="underline decoration-blue-600">{post.data.title}</h1>

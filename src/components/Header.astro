@@ -1,29 +1,67 @@
 ---
-
+import Navbar from "./Navbar.astro";
 ---
 
 <style>
-  h2{
+  h2 {
     font-family: Impact, sans-serif;
     font-size: 3rem;
-    }
+    transition: font-size 0.3s ease; /* Animación de cambio de tamaño */
+  }
+
+  .sticky-header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Asegúrate de que el header quede por encima del contenido */
+    transition: padding 0.3s ease, height 0.3s ease, opacity 0.3s ease; /* Animación de cambio de tamaño y opacidad */
+  }
+
+  .bg-blue-600 {
+    background-color: #2563eb; /* Color de fondo */
+  }
+
+  .border-b-orange-400 {
+    border-color: #fb923c; /* Color del borde */
+  }
+
+  /* Establece la opacidad del header al 80% */
+  .reduced-opacity {
+    opacity: 0.85; /* Cambia la opacidad al 80% */
+  }
 </style>
+
 <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
 </head>
-<header class="flex-wrap bg-blue-600 text-white">
-  <nav class="relative w-full flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
-    <div class=" flex grow mx-16 align-center justify-center items-center content-center border-b-4 border-b-orange-400">
-        <a class="focus:outline-none focus:opacity-80" href="/" aria-label="Preline" title="Solo de ida">
-          <img src="/img/logos solo de ida/logo.png" alt="logo" width="200" height="200"/>  
-        </a>
-        <a href="/" title="Solo de ida">
-          <h2 class="mt-2 mx-4 my-2 align-center justify-center items-center content-center block">SOLO DE IDA</h2>
-        </a>
-      </div>
-    </nav>
-  </header>
-  
 
+<header id="main-header" class="sticky-header flex-wrap bg-blue-600 text-white">
+  <nav class="relative w-full flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
+    <div class="flex grow mx-16 align-center justify-center items-center content-center border-b-4 border-b-orange-400">
+      <a class="focus:outline-none focus:opacity-80" href="/" aria-label="Preline" title="Solo de ida">
+        <img src="/img/logos solo de ida/logo.png" alt="logo" width="150" height="150" />
+      </a>
+      <a href="/" title="Solo de ida">
+        <h2 class="mt-2 mx-4 my-2 align-center justify-center items-center content-center block">SOLO DE IDA</h2>
+      </a>
+    </div>
+  </nav>
+  <Navbar />
+</header>
+
+<script>
+  // Detectar el evento de scroll
+  window.addEventListener("scroll", function () {
+    const header = document.getElementById("main-header");
+    const scrollPos = window.scrollY;
+
+    // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
+    if (scrollPos > 2) {
+      header.classList.add("shrink-header", "hide-logo", "reduced-opacity");
+    } else {
+      header.classList.remove("shrink-header", "hide-logo", "reduced-opacity");
+    }
+  });
+</script>

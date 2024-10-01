@@ -1,47 +1,62 @@
 ---
 import {
-Astronav,
-MenuItems,
-MenuIcon,
-Dropdown,
-DropdownItems,
-DropdownSubmenu,
+  Astronav,
+  MenuItems,
+  MenuIcon,
+  Dropdown,
+  DropdownItems,
+  DropdownSubmenu,
 } from "astro-navbar";
 import Link from "@components/Links.astro";
 import { Icon } from "astro-icon/components";
 import { SITE_TITLE, HeaderLinks } from "@consts";
 ---
-<header class="lg:flex p-2 mx-0 w-full align-center justify-center items-center w-full bg-blue-700">
-   <Astronav closeOnClick>
-      <div class="flex w-full lg:w-auto align-center justify-center items-center">
-         <div class="block xl:hidden ">
-            <MenuIcon class="w-8 h-8 text-neutral-100 mr-64 my-1" />
-            <button type="button" class="mx-auto my-1 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium  transition disabled:opacity-50 disabled:pointer-events-none" onclick="window.location.href='/search/'">
-                <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center"/>
-                BUSCAR
-              </button>
-         </div>
+
+<style>
+  .sticky-header {
+    position: sticky;
+    bottom: 0;
+    z-index: 1000; /* Mantener el header sobre otros elementos */
+    background-color: #1d4ed8; /* Color de fondo azul */
+  }
+</style>
+
+<header class="sticky-header lg:flex p-2 mx-0 w-full align-center justify-center items-center bg-blue-700">
+  <Astronav closeOnClick>
+    <div class="flex w-full lg:w-auto align-center justify-center items-center">
+      <div class="block xl:hidden ">
+        <MenuIcon class="w-8 h-8 text-neutral-100 mr-64 my-1" />
+        <button
+          type="button"
+          class="mx-auto my-1 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium transition disabled:opacity-50 disabled:pointer-events-none"
+          onclick="window.location.href='/search/'"
+        >
+          <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center" />
+          BUSCAR
+        </button>
       </div>
-      <MenuItems class="hidden lg:flex">
-         <ul class="flex flex-col lg:flex-row lg:gap-5 text-xl">
-            {
-                HeaderLinks.map((link) => (
-                  <Link
-                    href={link.href}
-                    class="px-4 py-3 font-medium mx-auto text-white hover:border-b-4 hover:border-y-neutral-200 "
-                  >
-                    {link.title}
-                  </Link>
-                ))
-              }
-         </ul>
-         <div class="block flex ml-4">
-          <button type="button" class="mx-auto my-1 px-8 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium  transition disabled:opacity-50 disabled:pointer-events-none border-2 rounded-full border-slate-100/20  hover:border-white" onclick="window.location.href='/search/'">
-              <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center"/>
-              BUSCAR
-            </button>
-       </div>
-        </MenuItems>
-        
-   </Astronav>
+    </div>
+    <MenuItems class="hidden lg:flex">
+      <ul class="flex flex-col lg:flex-row lg:gap-5 text-xl">
+        {HeaderLinks.map((link) => (
+          <Link
+            href={link.href}
+            class="px-4 py-3 font-medium mx-auto text-white hover:border-b-4 hover:border-y-neutral-200 "
+          >
+            {link.title}
+          </Link>
+        ))}
+      </ul>
+      <div class="block flex ml-4">
+        <button
+          type="button"
+          class="mx-auto my-1 px-8 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium transition disabled:opacity-50 disabled:pointer-events-none border-2 rounded-full border-slate-100/20 hover:border-white"
+          onclick="window.location.href='/search/'"
+        >
+          <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center" />
+          BUSCAR
+        </button>
+      </div>
+    </MenuItems>
+  </Astronav>
 </header>

@@ -5,6 +5,7 @@ import HeroCard from "@components/HeroCard.astro";
 import Card from "@components/CommonCard.astro";
 import Pagination from "@components/Pagination.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "@consts";
+import PostsCronicas from "@components/PostsCronicas.astro";
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -99,8 +100,9 @@ const basePath = "/page/";
     maxDisplayedPages={50}
   />
 
-  <div class="mx-auto py-4 my-4 bg-black px-4 rounded-xl">
-    <h3 class="text-blue-600 px-4 mb-2 text-xl">MIS VIDEOS EN <a href="https://www.youtube.com/@solodeida" target="_blank" title="Mi canal de Youtube">YOUTUBE</a></h3>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WUL-jZ8bVm0pWl9L&amp;list=PL9QAhy87rnjRCZX6bprXP0tSPcUKZEyra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+  <div class="mx-auto py-4 my-4 bg-black px-4 rounded-xl">
+    <h3 class="text-white p-2 w-84 shadow-md shadow-white rounded-2xl bg-red-600 px-4 mb-2 text-xl">MIS VIDEOS EN <a href="https://www.youtube.com/@solodeida" target="_blank" title="Mi canal de Youtube">YOUTUBE</a></h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WUL-jZ8bVm0pWl9L&amp;list=PL9QAhy87rnjRCZX6bprXP0tSPcUKZEyra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h1 class="text-white">solo de ida | blog de viajes</h1>
 </BaseLayout>

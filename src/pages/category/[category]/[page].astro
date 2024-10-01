@@ -40,9 +40,13 @@ const params = Astro.params;
 const { page } = Astro.props;
 const { title, description } = getCategoryMetadata(params.category);
 ---
-
+<style>
+  h1{
+    font-family: sans-serif;
+    }
+</style>
 <BaseLayout title={title} description={description}>
-  <h1 class="text-4xl mt-4 mb-4 font-medium">Posts sobre <span class="text-sky-600 font-bold ">{params.category}</span>...</h1>
+  <h1 class="text-4xl mt-4 mb-4 font-light">Posts sobre <span class="text-sky-600 font-bold ">{params.category}</span>...</h1>
   <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
     {page.data.map((post) => <PostCard post={post} />)}
   </div>

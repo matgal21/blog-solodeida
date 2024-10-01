@@ -25,9 +25,14 @@ import Navbar from "./Navbar.astro";
     border-color: #fb923c; /* Color del borde */
   }
 
+
   /* Establece la opacidad del header al 80% */
   .reduced-opacity {
-    opacity: 0.85; /* Cambia la opacidad al 80% */
+    opacity: 0.80; /* Cambia la opacidad al 80% */
+  }
+  /* Establece la opacidad del header al 80% */
+  .reduced-opacity:hover {
+    opacity: 1; /* Cambia la opacidad al 80% */
   }
 </style>
 
@@ -55,13 +60,15 @@ import Navbar from "./Navbar.astro";
   // Detectar el evento de scroll
   window.addEventListener("scroll", function () {
     const header = document.getElementById("main-header");
-    const scrollPos = window.scrollY;
+    
+    // Verifica que el header no sea nulo
+    if (header) {
+      const scrollPos = window.scrollY;
 
-    // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
-    if (scrollPos > 2) {
-      header.classList.add("shrink-header", "hide-logo", "reduced-opacity");
-    } else {
-      header.classList.remove("shrink-header", "hide-logo", "reduced-opacity");
+      // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
+      if (scrollPos > 15) {
+        header.classList.add("shrink-header", "hide-logo", "reduced-opacity");
+      }
     }
   });
 </script>

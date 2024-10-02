@@ -24,8 +24,6 @@ import Navbar from "./Navbar.astro";
   .border-b-orange-400 {
     border-color: #fb923c; /* Color del borde */
   }
-
-
   /* Establece la opacidad del header al 80% */
   .reduced-opacity {
     opacity: 0.80; /* Cambia la opacidad al 80% */
@@ -66,7 +64,7 @@ import Navbar from "./Navbar.astro";
       const scrollPos = window.scrollY;
 
       // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
-      if (scrollPos > 15) {
+      if (scrollPos > 100) {
         header.classList.add("shrink-header", "hide-logo", "reduced-opacity");
       }
     }

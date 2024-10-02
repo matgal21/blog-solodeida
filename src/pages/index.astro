@@ -101,8 +101,69 @@ const basePath = "/page/";
   />
 
 
-  <div class="mx-auto py-4 my-4 bg-black px-4 rounded-xl">
-    <h3 class="text-white p-2 w-84 shadow-md shadow-white rounded-2xl bg-red-600 px-4 mb-2 text-xl">MIS VIDEOS EN <a href="https://www.youtube.com/@solodeida" target="_blank" title="Mi canal de Youtube">YOUTUBE</a></h3>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WUL-jZ8bVm0pWl9L&amp;list=PL9QAhy87rnjRCZX6bprXP0tSPcUKZEyra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h1 class="text-white">solo de ida | blog de viajes</h1>
+  <div class="container mx-auto py-4 my-4 bg-black px-4 rounded-xl">
+    <h3 class="text-white p-2 shadow-md shadow-white rounded-2xl bg-red-600 px-4 mb-2 text-xl">MIS VIDEOS EN <a href="https://www.youtube.com/@solodeida" target="_blank" title="Mi canal de Youtube">YOUTUBE</a></h3>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WUL-jZ8bVm0pWl9L&amp;list=PL9QAhy87rnjRCZX6bprXP0tSPcUKZEyra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <h1 class="text-white">solo de ida | blog de viajes</h1>
+</div>
+
+
 </BaseLayout>
+
+<style>
+    .container {
+        max-width: 720px;
+    }
+
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 ratio */
+        height: 0;
+        overflow: hidden;
+        max-width: 100%;
+        background-color: #000;
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    @media (max-width: 768px) {
+        .text-xl {
+            font-size: 1.25rem;
+        }
+
+        .shadow-md {
+            box-shadow: none;
+        }
+
+        .px-4 {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        .h1 {
+            font-size: 1.5rem;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .text-xl {
+            font-size: 1rem;
+        }
+
+        .p-2 {
+            padding: 0.5rem;
+        }
+
+        h1 {
+            font-size: 1.25rem;
+        }
+    }
+</style>

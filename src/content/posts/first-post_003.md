@@ -1,7 +1,7 @@
 ---
 title: Primer vez volando en Flybondy a Bariloche
 slug: primera-vez-fly-bondi
-description: Viajando desde Aeroparque a Barloche desde la low cost con mas crecimiento en el pais
+description: Viajando desde Aeroparque a Barloche desde la low cost con mas crecimiento en el pais.
 category:
   - Crónicas
 tags:
@@ -9,18 +9,31 @@ tags:
   - Lowcost
   - Flybondi
   - Bariloche
-pubDate: 2023-09-07
-cover: https://images.unsplash.com/photo-1720362570794-c9dd78232bdf?q=80&w=1583&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+pubDate: 2023-10-07
+cover: "/img/flybondi-737.png"
 coverAlt: Avion-flybondi
 author: Mateo
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Viajar por Argentina siempre es una experiencia única, y cuando se trata de volar a destinos como Bariloche, la emoción comienza desde el momento en que despega el avión. En esta ocasión, les cuento mi experiencia en un vuelo de Flybondi desde el Aeroparque Jorge Newbery en Buenos Aires hasta Bariloche, una de las joyas de la Patagonia. A pesar de que el día comenzó con una intensa lluvia, el clima mejoró justo a tiempo para mi vuelo. Aterrizar en Bariloche con vistas de montañas y lagos fue un espectáculo visual impresionante.
+<img src="/images/argentina/bariloche/ventana-aep.jpg" alt="Vista de ventana del pasillo" class="mx-auto">
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Check-in desde la app y equipaje de mano Una de las mejores decisiones que tomé para este viaje fue llevar solo equipaje de mano. Al no tener que despachar valijas, me ahorré bastante tiempo en el aeropuerto. Con Flybondi, el proceso fue muy sencillo: hice el check-in desde la app antes de llegar al Aeroparque y, gracias a esto, no fue necesario pasar por los mostradores. Llegué directo a la puerta de embarque, lo cual me dio más tiempo para relajarme antes del vuelo.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Este detalle hizo que todo el proceso fuera mucho más ágil y cómodo. Si estás pensando en hacer este trayecto, te recomiendo que lleves solo equipaje de mano si es posible; te permitirá ahorrar tiempo y evitar filas innecesarias.
+<img src="/images/argentina/bariloche/vista-aeroparque.jpg" alt="Vista de aviones" class="mx-auto">
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Ese día, Buenos Aires amaneció bajo una intensa lluvia, lo que generaba cierta preocupación por posibles retrasos. Sin embargo, por suerte, el mal clima se despejó justo a tiempo, y el vuelo despegó puntual a las 18:05. Mientras el avión ascendía, fue reconfortante ver cómo dejábamos atrás las últimas nubes grises que cubrían la ciudad.
+<img src="/images/argentina/bariloche/avion-lluvia.jpg" alt="Boeing 737 de Aerolineas Argentinas con lluvia" class="mx-auto">
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+El vuelo transcurrió sin mayores contratiempos. Con su enfoque simple y eficiente, fue una opción económica pero cómoda para este trayecto. A medida que nos acercábamos a Bariloche, el paisaje desde las ventanas se transformó de llanuras en un majestuoso mar de montañas y lagos, que anunciaban la llegada a la Patagonia.
+
+La aproximación al aeropuerto de Bariloche es, sin duda, una de las más impresionantes. Mientras el avión descendía, las montañas de los Andes, parcialmente cubiertas por nieve, contrastaban con el azul profundo del lago Nahuel Huapi. Las nubes parecían despejarse solo para regalarnos un atardecer increíble, reflejado en las aguas cristalinas del lago. Estas vistas eran un adelanto perfecto de lo que Bariloche tenía para ofrecer.
+<img src="/images/argentina/bariloche/ala-flybondi.jpg" alt="Vista de la ventada del avión" class="mx-auto">
+
+Después de aterrizar cerca de las 20:30, el aire fresco y limpio de la Patagonia me recibió en el aeropuerto. Tomé un taxi hacia mi alojamiento, el Hotel Tres Reyes, en pleno centro de Bariloche. El trayecto duró unos 30 minutos, y fue una primera oportunidad para apreciar el encanto de la ciudad.
+
+El taxista, muy simpático, me recomendó algunos de los imperdibles de la ciudad, como el Circuito Chico, el Cerro Campanario y, por supuesto, una visita a alguna de las chocolaterías locales.
+<img src="/images/argentina/bariloche/nubes-avion.jpg" alt="Muro de nubes desde el avión" class="mx-auto">
+
+Conclusión: Mi viaje desde Aeroparque a Bariloche con Flybondi fue una experiencia inolvidable. Llevar solo equipaje de mano y hacer el check-in desde la app fue clave para un proceso ágil y sin estrés. A pesar de que el día había comenzado lluvioso en Buenos Aires, la suerte estuvo de mi lado, y el vuelo se desarrolló sin problemas. Aterrizar en Bariloche con esas vistas espectaculares de montañas, lagos y cielos despejados fue la bienvenida perfecta a uno de los destinos más impresionantes de Argentina. Si estás planeando una escapada a Bariloche, este vuelo te dejará listo para empezar a disfrutar desde el primer minuto. ¡No te lo pierdas!

@@ -47,6 +47,30 @@ import Navbar from "./Navbar.astro";
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
+      <script>
+        // Variables para el scroll anterior y actual
+        let lastScrollPos = 0;
+      
+        window.addEventListener("scroll", function () {
+          const header = document.getElementById("main-header");
+      
+          // Verifica que el header no sea nulo
+          if (header) {
+            const currentScrollPos = window.scrollY;
+      
+            // Si el usuario está haciendo scroll hacia arriba (el valor del scroll actual es menor al anterior)
+            if (currentScrollPos < lastScrollPos) {
+              header.classList.add("sticky-header");
+            } else {
+              // Si el usuario hace scroll hacia abajo, quitamos la clase sticky
+              header.classList.remove("sticky-header");
+            }
+      
+            // Actualizamos la posición anterior del scroll para la próxima comparación
+            lastScrollPos = currentScrollPos;
+          }
+        });
+      </script>
 </head>
 
 <header id="main-header" class="sticky-header flex-wrap bg-blue-600 text-white">

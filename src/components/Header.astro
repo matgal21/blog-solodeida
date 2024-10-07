@@ -14,7 +14,7 @@ import Navbar from "./Navbar.astro";
     position: sticky;
     top: 0;
     z-index: 1000; /* Asegúrate de que el header quede por encima del contenido */
-    transition: padding 0.3s ease, height 0.3s ease, opacity 0.3s ease; /* Animación de cambio de tamaño y opacidad */
+    transition: padding 0.8s ease, height 0ms ease, opacity 0.8s ease; /* Animación de cambio de tamaño y opacidad */
   }
 
   .bg-blue-600 {
@@ -26,20 +26,20 @@ import Navbar from "./Navbar.astro";
   }
   /* Establece la opacidad del header al 80% */
   .reduced-opacity {
-    opacity: 0.95; /* Cambia la opacidad al 80% */
+    opacity: 0.80; /* Cambia la opacidad al 80% */
   }
   /* Establece la opacidad del header al 80% */
   .reduced-opacity:hover {
     opacity: 1; /* Cambia la opacidad al 80% */
   }
-        .mi-imagen {
-            width: 100px; /* Tamaño para computadoras */
-        }
+  .mi-imagen {
+      width: 125px; /* Tamaño para computadoras */
+  }
 
-        @media (max-width: 600px) {
-            .mi-imagen {
-                width: 150px; /* Tamaño para dispositivos móviles */
-            }
+  @media (max-width: 600px) {
+      .mi-imagen {
+        width: 150px; /* Tamaño para dispositivos móviles */
+      }
         }
 </style>
 
@@ -47,30 +47,6 @@ import Navbar from "./Navbar.astro";
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
-      <script>
-        // Variables para el scroll anterior y actual
-        let lastScrollPos = 0;
-      
-        window.addEventListener("scroll", function () {
-          const header = document.getElementById("main-header");
-      
-          // Verifica que el header no sea nulo
-          if (header) {
-            const currentScrollPos = window.scrollY;
-      
-            // Si el usuario está haciendo scroll hacia arriba (el valor del scroll actual es menor al anterior)
-            if (currentScrollPos < lastScrollPos) {
-              header.classList.add("sticky-header");
-            } else {
-              // Si el usuario hace scroll hacia abajo, quitamos la clase sticky
-              header.classList.remove("sticky-header");
-            }
-      
-            // Actualizamos la posición anterior del scroll para la próxima comparación
-            lastScrollPos = currentScrollPos;
-          }
-        });
-      </script>
 </head>
 
 <header id="main-header" class="sticky-header flex-wrap bg-blue-600 text-white">
@@ -98,7 +74,7 @@ import Navbar from "./Navbar.astro";
 
       // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
       if (scrollPos > 100) {
-        header.classList.add("shrink-header", "hide-logo", "reduced-opacity");
+        header.classList.add("shrink-header", "reduced-opacity");
       }
     }
   });

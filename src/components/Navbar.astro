@@ -11,24 +11,36 @@ import Link from "@components/Links.astro";
 import { Icon } from "astro-icon/components";
 import { SITE_TITLE, HeaderLinks } from "@consts";
 ---
-
 <style>
-  .sticky-header {
-    position: sticky;
-    bottom: 0;
-    z-index: 1000; /* Mantener el header sobre otros elementos */
-    background-color: #1d4ed8; /* Color de fondo azul */
+  h2 {
+    font-family: Impact, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1.5px;
   }
-</style>
 
-<header class="sticky-header lg:flex p-2 mx-0 w-full align-center justify-center items-center bg-blue-700">
-  <Astronav closeOnClick>
+  .mi-imagen {
+    width: 125px; /* Size for desktop */
+  }
+
+  @media (max-width: 600px) {
+    .mi-imagen {
+      display: inline;
+    }
+  }
+  
+</style>
+<header id="sticky-header" class="sticky top-0 lg:flex p-2 mx-0 w-full align-center items-center justify-center bg-blue-700 z-50 transition-all duration-300">
+  <a href="/">
+    <h2 id="scroll-h2" class=" mb-2 hidden text-white text-center justify-center start-0 text-4xl px-4 mx-2 pt-1">SOLO DE IDA
+      <img class="inline-block mx-2 mt-0 pt-1 rounded-full" src="/public/img/logos solo de ida/logo azul1.png" width="75px" height="75px">
+    </h2>
+  </a>
+  <Astronav closeOnClick class="justify-center">
     <div class="flex w-full lg:w-auto align-center justify-center items-center">
       <div class="flex xl:hidden ">
         <MenuIcon class="w-8 h-8 text-neutral-100 mr-64 my-1" />
         <button
           type="button"
-          class="mx-auto my-1 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium  disabled:opacity-50 disabled:pointer-events-none"
+          class="mx-auto my-1 text-neutral-100 align-center justify-center items-center gap-x-2 text-lg font-medium disabled:opacity-50 disabled:pointer-events-none"
           onclick="window.location.href='/search/'"
         >
           <Icon name="tabler:search" class="inline icon-base align-center justify-center items-center" />
@@ -41,7 +53,7 @@ import { SITE_TITLE, HeaderLinks } from "@consts";
         {HeaderLinks.map((link) => (
           <Link
             href={link.href}
-            class="px-4 py-3 font-medium mx-auto text-white hover:border-b-4 hover:border-y-neutral-200 "
+            class="px-4 py-3 font-medium mx-auto text-white hover:border-b-4 hover:border-y-neutral-200"
           >
             {link.title}
           </Link>
@@ -60,3 +72,36 @@ import { SITE_TITLE, HeaderLinks } from "@consts";
     </MenuItems>
   </Astronav>
 </header>
+
+
+<script>
+  // Ejecuta el script cuando el DOM esté listo
+  document.addEventListener('DOMContentLoaded', function() {
+    // Obtén los elementos del DOM
+    const header = document.getElementById('sticky-header');
+    const scrollH2 = document.getElementById('scroll-h2');
+
+    // Verifica que los elementos existen antes de manipularlos
+    if (header && scrollH2) {
+      // Agregar evento de scroll
+      window.addEventListener('scroll', function() {
+        // Asegurarse de que window.scrollY no sea null o undefined
+        const scrollPos = window.scrollY || 0;
+        
+        if (scrollPos > 50) {
+          // Mostrar el h2 cuando el scroll supere los 50px
+          scrollH2.classList.remove('hidden');
+          scrollH2.classList.add('block');
+        } else {
+          // Ocultar el h2 cuando se vuelve al principio
+          scrollH2.classList.remove('block');
+          scrollH2.classList.add('hidden');
+        }
+      });
+    } else {
+      console.error('Elementos no encontrados: #sticky-header o #scroll-h2');
+    }
+  });
+</script>
+
+

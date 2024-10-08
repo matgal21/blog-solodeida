@@ -21,22 +21,6 @@ import Navbar from "./Navbar.astro";
     }
   }
 
-  /* Sticky Header */
-  .sticky {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    transition: top 0.3s ease-in-out;
-  }
-
-  /* Hidden when scrolling down */
-  .hidden-header {
-    top: -150px; /* Moves the header out of view */
-    opacity: 0.6;
-  }
-  .hidden-header:hover {
-    opacity: 0.6;
-  }
 </style>
 
 <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
@@ -56,29 +40,5 @@ import Navbar from "./Navbar.astro";
       </a>
     </div> 
   </nav>
-  <Navbar />
+  <!-- <Navbar /> -->
 </header>
-
-<script>
-  let lastScrollTop = 0;
-  const header = document.getElementById("main-header");
-
-  // Asegúrate de que el header no sea null
-  if (header) {
-    window.addEventListener("scroll", function () {
-      let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
-      if (scrollTop > lastScrollTop) {
-        // Scrolling down - hide the header
-        header.classList.add("hidden-header");
-      } else {
-        // Scrolling up - show the header
-        header.classList.remove("hidden-header");
-      }
-
-      lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
-    });
-  } else {
-    console.error("El elemento 'header' no se encontró.");
-  }
-</script>

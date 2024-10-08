@@ -6,41 +6,38 @@ import Navbar from "./Navbar.astro";
   h2 {
     font-family: Impact, sans-serif;
     font-size: 3rem;
-    transition: font-size 0.3s ease; /* Animación de cambio de tamaño */
+  }
+  h2:hover {
+    scale: 1.1;
   }
 
-  .sticky-header {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    z-index: 1000; /* Asegúrate de que el header quede por encima del contenido */
-    transition: padding 0.8s ease, height 0ms ease, opacity 0.8s ease; /* Animación de cambio de tamaño y opacidad */
-  }
-
-  .bg-blue-600 {
-    background-color: #2563eb; /* Color de fondo */
-  }
-
-  .border-b-orange-400 {
-    border-color: #fb923c; /* Color del borde */
-  }
-  /* Establece la opacidad del header al 80% */
-  .reduced-opacity {
-    opacity: 0.80; /* Cambia la opacidad al 80% */
-  }
-  /* Establece la opacidad del header al 80% */
-  .reduced-opacity:hover {
-    opacity: 1; /* Cambia la opacidad al 80% */
-  }
   .mi-imagen {
-      width: 125px; /* Tamaño para computadoras */
+    width: 125px; /* Size for desktop */
   }
 
   @media (max-width: 600px) {
-      .mi-imagen {
-        width: 150px; /* Tamaño para dispositivos móviles */
-      }
-        }
+    .mi-imagen {
+      width: 150px; /* Size for mobile devices */
+    }
+  }
+
+  /* Sticky Header */
+  .sticky {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    transition: top 0.3s ease-in-out;
+  }
+
+  /* Hidden when scrolling down */
+  .hidden-header {
+    top: -100px; /* Moves the header out of view */
+    opacity: 0.6;
+  }
+  .hidden-header:hover {
+    top: -100px; /* Moves the header out of view */
+    opacity: 1;
+  }
 </style>
 
 <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
@@ -49,7 +46,7 @@ import Navbar from "./Navbar.astro";
       crossorigin="anonymous"></script>
 </head>
 
-<header id="main-header" class="sticky-header flex-wrap bg-blue-600 text-white">
+<header id="main-header" class="sticky-header flex-wrap bg-blue-600 text-white sticky">
   <nav class="relative w-full flex-wrap grid basis-full items-center justify-center mx-auto" aria-label="Global">
     <div class="flex grow mx-16 align-center justify-center items-center content-center border-b-4 border-b-orange-400">
       <a class="focus:outline-none focus:opacity-80" href="/" aria-label="Preline" title="Solo de ida">
@@ -64,18 +61,25 @@ import Navbar from "./Navbar.astro";
 </header>
 
 <script>
-  // Detectar el evento de scroll
-  window.addEventListener("scroll", function () {
-    const header = document.getElementById("main-header");
-    
-    // Verifica que el header no sea nulo
-    if (header) {
-      const scrollPos = window.scrollY;
+  let lastScrollTop = 0;
+  const header = document.getElementById("main-header");
 
-      // Si el scroll es mayor que 50 píxeles, reducimos el tamaño del header, ocultamos el logo y cambiamos la opacidad
-      if (scrollPos > 100) {
-        header.classList.add("shrink-header", "reduced-opacity");
+  // Asegúrate de que el header no sea null
+  if (header) {
+    window.addEventListener("scroll", function () {
+      let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+      if (scrollTop > lastScrollTop) {
+        // Scrolling down - hide the header
+        header.classList.add("hidden-header");
+      } else {
+        // Scrolling up - show the header
+        header.classList.remove("hidden-header");
       }
-    }
-  });
+
+      lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+    });
+  } else {
+    console.error("El elemento 'header' no se encontró.");
+  }
 </script>

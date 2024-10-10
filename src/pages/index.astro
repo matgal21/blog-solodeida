@@ -5,6 +5,7 @@ import HeroCard from "@components/HeroCard.astro";
 import Card from "@components/CommonCard.astro";
 import Pagination from "@components/Pagination.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "@consts";
+import Newsletter from "@components/Newsletter.astro";
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -108,7 +109,7 @@ const basePath = "/page/";
     <h1 class="text-white">solo de ida | blog de viajes</h1>
 </div>
 
-
+<Newsletter />
 </BaseLayout>
 
 <style>

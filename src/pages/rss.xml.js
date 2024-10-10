@@ -7,7 +7,7 @@ export async function GET(context) {
 
   posts = posts
     .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
-    .slice(0, 3);
+    .slice(0, 5);
 
   return rss({
     title: SITE_TITLE,

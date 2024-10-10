@@ -26,3 +26,4 @@ Desde escapadas de fin de semana hasta largas travesías por continentes lejanos
 
 ## Mis vuelos
 <a class="justify-center align-center items-center" target="_blank" href="https://my.flightradar24.com/MateoGal27"><img src="https://banners-my.flightradar24.com/MateoGal27.png" alt="Mi perfil de MyFlightRadar " /></a>
+

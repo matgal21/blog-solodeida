@@ -6,6 +6,7 @@ import FormattedDate from "@components/FormattedDate.astro";
 import OptimizedCover from "@components/OptimizedPicture.astro";
 import PostComments from "@components/PostComments.astro";
 import CommentsFacebook from "@components/CommentsFacebook.astro";
+import Newsletter from "@components/Newsletter.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts");
@@ -54,15 +55,18 @@ const { Content } = await post.render();
         <!-- <div class="bg-slate-400 px-2 pt-2 rounded mb-16">
           <CommentsFacebook />
         </div>  -->
+        <!-- <Newsletter /> -->
+        <Newsletter />
         <div class="bg-slate-600 px-2 pt-2 rounded">
           <PostComments />
         </div> 
-    </article>
-    <div class="mt-4">
-      <RelatedPostsCard
+      </article>
+      <div class="mt-4">
+        <RelatedPostsCard
         currentCategory={post.data.category[0]}
         currentSlug={post.slug}
-      />
-    </div>
+        />
+      </div>
+
   </main>
 </BaseLayout>

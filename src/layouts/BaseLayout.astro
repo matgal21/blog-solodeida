@@ -10,6 +10,7 @@ const { title, description } = Astro.props;
 <!doctype html>
 <html lang="es">
   <head>
+    
     <BaseHead title={title} description={description} />
     <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
     <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
@@ -22,6 +23,10 @@ const { title, description } = Astro.props;
   <body
     class="mx-auto w-full "
   >
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJBH7VXT"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <Header />
 
     <Navbar />

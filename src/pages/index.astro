@@ -30,6 +30,22 @@ const basePath = "/page/";
   <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
     crossorigin="anonymous"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z70LX1R9TK');
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KJBH7VXT');</script>
+  <!-- End Google Tag Manager -->
 </head>
 <style>
   h3{
@@ -43,7 +59,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
 
-
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJBH7VXT"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <!-- Carrusel de los últimos 4 posts -->
   <div id="carouselExample" class="carousel slide mb-4" data-bs-ride="carousel">
     <div class="carousel-indicators">
@@ -111,6 +131,8 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 
 <Newsletter />
 </BaseLayout>
+</body>
+  
 
 <style>
     .container {

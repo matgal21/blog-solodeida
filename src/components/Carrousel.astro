@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import Card from "@components/CommonCard.astro";
+
+
+const allPosts = await getCollection("posts");
+allPosts.sort(
+  (a, b) =>
+    new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
+);
+
+const postsPerPage = 16;
+const firstPagePosts = allPosts.slice(0, postsPerPage);
+const totalPages = Math.ceil(allPosts.length / postsPerPage);
+
+// Extraer los últimos 4 posts
+const latestPosts = allPosts.slice(0, 4);
+
+---
+<div id="carouselExample" class="carousel slide mb-4" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      {latestPosts.map((post, index) => (
+        <button
+          type="button"
+          data-bs-target="#carouselExample"
+          data-bs-slide-to={index}
+          class={index === 0 ? "active" : ""}
+          aria-current={index === 0 ? "true" : "false"}
+          aria-label={`Slide ${index + 1}`}
+        ></button>
+      ))}
+    </div>
+    <div class="carousel-inner">
+      {latestPosts.map((post, index) => (
+        <div class={`carousel-item ${index === 0 ? "active" : ""}`}>
+          <a href={`/posts/${post.slug}/`} title=`Ir al post ${post.data.title}` class="block" class="block">
+          <img src={post.data.cover} class="d-block w-100" alt={post.data.coverAlt || post.data.title} />
+          <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-30 rounded text-white">
+            <h2>{post.data.title}</h2>
+            <p>{post.data.description}</p>
+          </a>
+          </div>
+        </div>
+      ))}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Siguiente</span>
+    </button>
+  </div>
+  
+  <!-- Mostrar los posts restantes en tarjetas -->
+  <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
+    {firstPagePosts.slice(4).map((post) => <Card post={post} />)}
+  </div>

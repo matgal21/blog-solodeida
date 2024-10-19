@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import PostCard from "@components/CommonCard.astro";
 import Pagination from "@components/Pagination.astro";
+import Newsletter from "@components/Newsletter.astro";
+import YtCard from "@components/YtCard.astro";
 import { getCategoryMetadata } from "@consts";
 
 export async function getStaticPaths() {
@@ -63,4 +65,8 @@ const { title, description } = getCategoryMetadata(params.category);
     basePath={`/category/${params.category}`}
     maxDisplayedPages={5}
   />
+
+  <YtCard />
+  <Newsletter />
+
 </BaseLayout>

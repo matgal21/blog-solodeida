@@ -79,7 +79,11 @@ export default defineConfig({
             name: "cover",
             label: "Imagen de portada"
           },
-          
+          {
+            type: "datetime",
+            name: "pubDate",
+            label: "Date"
+          },
         ],
       },
     ],

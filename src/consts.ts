@@ -4,7 +4,7 @@
 // Base Page Metadata, src/layouts/BaseLayout.astro
 export const BRAND_NAME = "solo de ida | blog de viajes";
 export const SITE_TITLE = "Solo de Ida | Blog de viajes";
-export const SITE_DESCRIPTION = "En mi blog de viajes, como un viajero apasionante, comparto noticias de turismo, información clave para planificar viajes y mis experiencias recorriendo destinos impresionantes alrededor del mundo. Desde las maravillas de América Latina hasta las grandes capitales de Europa, encontrarás guías de viaje, recomendaciones de lugares turísticos, y consejos prácticos para que cada aventura sea única. Inspirado en mis raíces argentinas, mi blog ofrece una mirada cercana y auténtica para viajeros que buscan descubrir el mundo con pasión. ¡Sumate y comenzá a planear tu próximo viaje!";
+export const SITE_DESCRIPTION = "En mi blog de viajes, como viajero comparto noticias de turismo, información clave para planificar viajes y mis experiencias recorriendo destinos impresionantes alrededor del mundo ¡Sumate y comenzá a planear tu próximo viaje!";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "Solo de Ida | TAGS";

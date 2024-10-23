@@ -1,0 +1,50 @@
+---
+// Marquee.astro
+interface Props {
+  text: string;
+  speed?: number;
+}
+
+const { speed = 40 } = Astro.props;
+---
+
+<div class="marquee-container">
+  <div class="marquee-content" style={`animation-duration: ${speed}s;`}>
+    <span>MADRID, ESPAÑA 💃</span>
+    <span>BARCELONA, ESPAÑA 🇪🇸</span>
+    <span>PARIS, FRANCIA</span>
+    <span>LONDRES, INGLATERRA</span>
+    <span>BUDAPEST, HUNGRÍA</span>
+    <span>ROMA, ITALIA</span>
+  </div>
+</div>
+
+<style>
+  .marquee-container {
+    width: 100%;
+    overflow: hidden;
+    background-color: var(--color-primary);
+  }
+
+  .marquee-content {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee linear infinite;
+  }
+
+  .marquee-content span {
+    display: inline-block;
+    padding-right: 2rem;
+    color: var(--color-primary-foreground);
+    font-size: 1.125rem;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>

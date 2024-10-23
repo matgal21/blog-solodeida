@@ -1,6 +1,6 @@
 ---
 slug: mejores-apps-para-viajar
-pubDate: '2024-01-27T00:00:00.000Z'
+pubDate: 2024-01-27
 title: Apps indispensables para viajar
 description: Aplicaciones para que el viaje sea mas óptimo y se disfrute más.
 category: 
@@ -10,7 +10,7 @@ tags:
 author: Mateo
 coverAlt: Foto de aplicaciones
 cover: /images/apps-para-viajar.jpeg
-Date: 2024-10-23T03:00:00.000Z
+Date: 2024-10-23
 ---
 
 ### Viajar es una experiencia emocionante, pero también puede generar muchas dudas y preguntas sobre el destino que vamos a visitar. Afortunadamente, hoy en día, nuestros celulares se han convertido en herramientas indispensables para hacer que los viajes sean más fáciles y organizados. Existen numerosas aplicaciones que nos ayudan a planificar, diagramar y realizar viajes de manera más eficiente y sin complicaciones.

@@ -58,4 +58,14 @@ export default defineConfig({
     }),
     
   ],
+  
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          hoistTransitiveImports: false,
+        },
+      },
+    },
+  },
 });

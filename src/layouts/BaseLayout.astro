@@ -14,14 +14,31 @@ const { title, description } = Astro.props;
     <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
     <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK">
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-Z70LX1R9TK');
+<!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+    
+    var f = d.getElementsByTagName(s)[0];
+    var j = d.createElement('script');
+    var dl = l != 'dataLayer' ? '&l=' + l : '';
+    
+    j.async = true;
+    j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+  
+    if (f && f.parentNode) {
+      f.parentNode.insertBefore(j, f);
+    } else {
+      // Si `f` es null o no tiene un parentNode, podemos agregar el script al final del body como fallback
+      d.body.appendChild(j);
+    }
+  })(window, document, 'script', 'dataLayer', 'GTM-KJBH7VXT');
   </script>
-    <!-- Google tag (gtag.js) -->
+  <!-- End Google Tag Manager -->
+  
+  
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
     crossorigin="anonymous"></script>
@@ -29,6 +46,10 @@ const { title, description } = Astro.props;
   <body
     class="mx-auto w-full "
   >
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJBH7VXT"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <Header />
     <Navbar />
     <div class="mx-auto  w-full flex mt-8 min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900">

@@ -39,6 +39,10 @@ export default {
       ],
     },
     extend: {
+      colors: {
+        primary: "blue-600",
+        secondary: "orange-600",
+      },
       backgroundImage: {
         "gradient-to-t":
           "linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%)",

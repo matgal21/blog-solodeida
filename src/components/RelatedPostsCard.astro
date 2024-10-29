@@ -34,19 +34,21 @@ const relatedPosts = await getRelatedArticlesByCategory();
 </style>
 <div class="bg-gray-300 mx-auto p-4">
   <h2 class="font-bold text-xl p-2 mb-4 shadow-md bg-slate-400 rounded w-72">Posteos relacionados...   ↘️</h2>
-  <div class="grid grid-cols-1 gap-4 md:grid-cols-3">
+  <div class="grid grid-cols-1 gap-4 md:grid-cols-3 ">
     {
       relatedPosts.map((post) => (
-        <div class="relative mb-4 overflow-hidden bg-white transition-transform duration-500 hover:opacity-90 hover:text-white hover:-translate-y-1 hover:scale-105 dark:bg-neutral-900 dark:text-white">
+        <div class="relative mb-4 overflow-hidden bg-white transition-transform duration-500 hover:opacity-90 hover:text-white hover:-translate-y-1 hover:scale-105 dark:bg-neutral-900 dark:text-white border-4 border-b-orange-500">
           <a href={`/posts/${post.slug}/`} title={post.id} >
           <img src={post.data.cover} alt={post.data.coverAlt} />
-            <div class=" bottom-0 end-0 start-0 p-4 md:p-5 ">
+            <div class=" bottom-0 end-0 start-0 p-4 md:p-5 hover:text-white">
               <h2 class="mt-0 text-lg font-bold text-black hover:text-white">{post.data.title}</h2>
               <h4 class="mt-2 text-xs font-medium text-black hover:text-white">{post.data.description}</h4>
-              <div class="mt-4 flex items-center gap-4 text-xs text-orange-600 justify-end hover:text-white">
-                <span class="p-2 font-bold">{post.data.tags.join(" ")}</span>
+              <div class="mt-4 flex items-center text-xs text-blue-900 justify-end hover:text-white">
+                <span class="p-2 font-bold bottom-0">{post.data.tags.join(" ")}</span>
               </div>
-                <FormattedDate date={post.data.pubDate}/>
+            </div>
+            <div class="p-4 align-bottom justify-start mb-0">
+                <FormattedDate date={post.data.pubDate} />
             </div>
           </a>
         </div>

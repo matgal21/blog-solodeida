@@ -6,6 +6,7 @@ import partytown from "@astrojs/partytown";
 import pagefind from "astro-pagefind";
 import icon from "astro-icon";
 import tailwind from "@astrojs/tailwind";
+import react from '@astrojs/react';
 
 
 
@@ -39,6 +40,7 @@ export default defineConfig({
   },
 
   integrations: [
+    react(),
     mdx(),
     sitemap(),
     pagefind(),

@@ -1,0 +1,122 @@
+---
+---
+
+<div class="max-w-2xl mx-auto p-4">
+    <div class="flex space-x-2 mb-4">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Buscar en la página..."
+        class="flex-grow px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+      />
+      <button
+        id="searchButton"
+        class="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+      >
+        Buscar
+      </button>
+    </div>
+  
+    <div id="searchResults" class="mt-4 space-y-4"></div>
+  </div>
+  
+  <script>
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+    const searchButton = document.getElementById('searchButton');
+    const searchResults = document.getElementById('searchResults');
+  
+    searchButton.addEventListener('click', performSearch);
+    searchInput.addEventListener('keyup', (e) => {
+      if (e.key === 'Enter') {
+        performSearch();
+      }
+    });
+  
+    function performSearch() {
+      const searchTerm = searchInput.value.toLowerCase();
+      if (searchTerm.length < 3) {
+        searchResults.innerHTML = '<p class="text-red-500">Por favor, ingrese al menos 3 caracteres para buscar.</p>';
+        return;
+      }
+  
+      // Eliminar resaltados anteriores
+      document.querySelectorAll('.highlight').forEach((el) => {
+        el.outerHTML = el.innerHTML;
+      });
+  
+      const body = document.body;
+      const regex = new RegExp(searchTerm, 'gi');
+      const textNodes = [];
+  
+      function findTextNodes(node) {
+        if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
+          textNodes.push(node);
+        } else {
+          for (let i = 0; i < node.childNodes.length; i++) {
+            findTextNodes(node.childNodes[i]);
+          }
+        }
+      }
+  
+      findTextNodes(body);
+  
+      let matchCount = 0;
+      const matchingNodes = [];
+  
+      textNodes.forEach((node) => {
+        const matches = node.textContent.match(regex);
+        if (matches) {
+          matchCount += matches.length;
+          const newNode = document.createElement('span');
+          newNode.innerHTML = node.textContent.replace(regex, '<span class="highlight bg-yellow-200 font-bold">$&</span>');
+          node.parentNode.replaceChild(newNode, node);
+          matchingNodes.push(newNode);
+        }
+      });
+  
+      // Mostrar resultados
+      if (matchCount > 0) {
+        searchResults.innerHTML = `
+          <p class="text-green-600 font-semibold mb-2">Se encontraron ${matchCount} coincidencia(s) para "${searchTerm}".</p>
+          <ul class="space-y-4">
+            ${matchingNodes.map((node) => {
+              const context = getContext(node, 50);
+              return `
+                <li class="bg-gray-100 p-3 rounded-md">
+                  <p>...${context}...</p>
+                  
+                </li>
+              `;
+            }).join('')}
+          </ul>
+        `;
+        // Desplazarse al primer resultado
+        searchResults.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else {
+        searchResults.innerHTML = `<p class="text-red-500">No se encontraron coincidencias para "${searchTerm}".</p>`;
+      }
+    }
+  
+    function getContext(node, charCount) {
+      let context = node.textContent;
+      let parent = node.parentNode;
+      
+      while (parent && context.length < charCount * 2) {
+        let before = parent.textContent.substring(0, parent.textContent.indexOf(context));
+        let after = parent.textContent.substring(parent.textContent.indexOf(context) + context.length);
+        
+        context = before.slice(-charCount) + context + after.slice(0, charCount);
+        parent = parent.parentNode;
+      }
+  
+      return context.replace(/\s+/g, ' ').trim();
+    }
+  </script>
+  
+  <style>
+    /* Estilos adicionales si son necesarios */
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+  </style>

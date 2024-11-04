@@ -12,7 +12,7 @@ tags:
   - Pasajeros
 
 pubDate: 2024-10-28
-cover: "/images/aeropuertos/aerolineas/united.jpg"
+cover: "/images/aeropuertos/aerolineas/united2.png"
 coverAlt: Aeropuerto Aeroparque
 author: Mateo
 ---

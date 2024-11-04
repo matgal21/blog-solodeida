@@ -16,6 +16,25 @@ const { title, description } = Astro.props;
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
         crossorigin="anonymous"></script>
+        <script type="module">
+          import { onMount } from 'astro';
+        
+          let dataLayerInitialized = false;
+        
+          onMount(() => {
+            if (!dataLayerInitialized) {
+              window.dataLayer = window.dataLayer || [];
+              function gtag() { dataLayer.push(arguments); }
+              gtag('js', new Date());
+        
+              gtag('config', 'G-Z70LX1R9TK');
+        
+              dataLayerInitialized = true;
+            }
+          });
+        </script>
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK"></script>
     <GoogleAnalytics gaId="G-Z7OLX1R9TK" />
   </head>
   <body

@@ -1,7 +1,7 @@
 ---
-title: Datos de movimiento de pasajeros de Argentina en Septiembre
+title: La aerolínea con mayor ocupación de Septiembre fue United con 96%
 slug: datos-aeropuertos-argentina-septiembre
-description: La ANAC publicó los datos de la aviacion y transporte del mes pasado de Septiembre.
+description: La ANAC publicó los datos de la aviacion y transporte de Argentina del mes pasado de Septiembre.
 category:
   - General
 tags:
@@ -12,7 +12,7 @@ tags:
   - Pasajeros
 
 pubDate: 2024-10-28
-cover: "/images/anac/aep.jpg"
+cover: "/images/aeropuertos/aerolineas/united.jpg"
 coverAlt: Aeropuerto Aeroparque
 author: Mateo
 ---

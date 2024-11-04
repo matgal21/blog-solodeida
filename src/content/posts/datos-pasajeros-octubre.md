@@ -1,7 +1,7 @@
 ---
 title: Datos de movimiento de pasajeros de Argentina en Septiembre
 slug: datos-aeropuertos-argentina-septiembre
-description: ¿Qué hacer en la capital de Dinamarca?
+description: La ANAC publicó los datos de la aviacion y transporte del mes pasado de Septiembre.
 category:
   - General
 tags:

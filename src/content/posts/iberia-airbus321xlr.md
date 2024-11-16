@@ -1,7 +1,7 @@
 ---
-title: Madrid a Boston en Airbus A321 XLR  de Iberia
+title: Madrid a Boston en Airbus A321 XLR de Iberia
 slug: vuelo-iberia-madrid-boston-airbus321xlr
-description: Primera aerolinea en usar un avión de un fuselaje para un vuelo transoceánico.
+description: Primera aerolinea en usar este avión para un vuelo transoceánico.
 category:
   - General
 tags:
@@ -17,7 +17,7 @@ coverAlt: Boeing 737 american airlines
 author: Mateo 
 ---
 ## Iberia hizo historia
-El dia de hoy, 14 de noviembre del 2024 Iberia, la aerolínea bandera de España. Se transformó en la primera aerolinea del mundo en ofrecer un vuelo transoceanico en un avion de un fuselaje, de la capital de España, Madrid. Hacia la ciudad de Boston en Estados Unidos.
+El dia de hoy, 14 de noviembre del 2024 Iberia, la aerolínea bandera de España. Se transformó en la primera aerolinea del mundo en ofrecer un vuelo transoceanico en este avión, de la capital de España, Madrid. Hacia la ciudad de Boston en Estados Unidos.
 <img src="/images/iberia/iberia.jpg" alt="Despege en vivo del Airbus A321 XLR">
 
 
@@ -38,8 +38,8 @@ El Airbus A321XLR es una de las incorporaciones más avanzadas de la flota de Ib
 
 Asientos más cómodos y ergonómicos, pensados para vuelos de larga duración.
 Conectividad de entretenimiento a bordo y opciones de conexión Wi-Fi.
-Opciones de clase Business y Economy Premium, para quienes buscan mayor comodidad y servicios exclusivos durante el vuelo.
-A su vez todos los asientos de la clase economica cuentan con pantallas y cargadores.
+Opciones de clase Business y Economy, es decir no cuenta con premium economy, para quienes buscan mayor comodidad y servicios exclusivos durante el vuelo.
+A su vez todos los asientos de la clase económica cuentan con pantallas y cargadores.
 
 
 ### Como conclusión...

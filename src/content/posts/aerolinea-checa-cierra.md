@@ -14,7 +14,7 @@ tags:
   - Cierre
   - CDG
   - Airbus 320
-pubDate: 2023-11-16
+pubDate: 2024-11-16
 cover: "/images/czech airlines/avion-czech-airlines.webp"
 coverAlt: Airbus 320 Czech Airlines
 author: Mateo

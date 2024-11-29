@@ -1,0 +1,36 @@
+h5 {
+    font-family: Impact, "Bebas Neue", sans-serif;
+    font-size: 3rem;
+  }
+  h5:hover {
+    scale: 1.1;
+  }
+  .mi-imagen {
+    width: 125px; /* Size for desktop */
+  }
+
+  @media (max-width: 600px) {
+    .mi-imagen {
+      width: 150px; /* Size for mobile devices */
+    }
+    h5 {
+      font-size: 2.1rem;
+      font-family: "Bebas Neue", sans-serif;
+      font-weight: 800;
+      word-spacing: 5px;
+      align-content: center;
+      align-self: center;
+      align-items: center;
+      text-align: center;
+    }
+  }
+
+  @media (max-width: 450px) {
+    .mi-imagen {
+      width: 100px; /* Size for mobile devices */
+    }
+    h5 {
+      font-size: 2rem;
+      font-family: "Bebas Neue", sans-serif;
+    }
+  }

@@ -1,8 +1,8 @@
-h5 {
+.h2 {
     font-family: Impact, "Bebas Neue", sans-serif;
     font-size: 3rem;
   }
-  h5:hover {
+  .h2:hover {
     scale: 1.1;
   }
   .mi-imagen {
@@ -13,7 +13,7 @@ h5 {
     .mi-imagen {
       width: 150px; /* Size for mobile devices */
     }
-    h5 {
+    .h2 {
       font-size: 2.1rem;
       font-family: "Bebas Neue", sans-serif;
       font-weight: 800;
@@ -29,7 +29,7 @@ h5 {
     .mi-imagen {
       width: 100px; /* Size for mobile devices */
     }
-    h5 {
+    .h2 {
       font-size: 2rem;
       font-family: "Bebas Neue", sans-serif;
     }

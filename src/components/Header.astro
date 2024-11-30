@@ -1,10 +1,44 @@
----
-import Navbar from "./Navbar.astro";
----
 
+<style>
+.h2 {
+  font-family: Impact, "Bebas Neue", sans-serif;
+  font-size: 3rem;
+}
+.h2:hover {
+  scale: 1.1;
+}
+
+.mi-imagen {
+  width: 125px; /* Size for desktop */
+}
+
+@media (max-width: 600px) {
+  .mi-imagen {
+    width: 150px; /* Size for mobile devices */
+  }
+  .h2 {
+    font-size: 2.1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 800;
+    word-spacing: 5px;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 450px) {
+  .mi-imagen {
+    width: 100px; /* Size for mobile devices */
+  }
+  .h2 {
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+  }
+}</style>
 
 <head>
-  <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4044408479447590"
       crossorigin="anonymous"></script>
       <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +54,7 @@ import Navbar from "./Navbar.astro";
         <img src="/img/logos solo de ida/logo.png" class="mi-imagen" alt="logo" />
       </a>
       <a href="/" title="Solo de ida">
-        <h2 class="h2 mt-2 mx-4 my-2 align-center justify-center items-center content-center block">SOLO DE IDA</h2>
+        <h5 class="mt-2 mx-4 my-2 align-center justify-center items-center content-center block">SOLO DE IDA</h5>
       </a>
     </div> 
   </nav>

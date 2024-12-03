@@ -1,7 +1,7 @@
 ---
 slug: cumplir-sueño-partido-barcelona
 category:
-  - Two
+  - Viajes
 tags:
   - Barcelona
   - Futbol

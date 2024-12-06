@@ -1,20 +1,37 @@
 ---
+// Ruta: src/pages/search.astro
+
 import BaseLayout from "@layouts/BaseLayout.astro";
 import { SEARCH_PAGE_TITLE, SEARCH_PAGE_DESCRIPTION } from "@consts";
 import Pagefind from "astro-pagefind/components/Search";
 import SearchLayout from "@layouts/SearchLayout.astro";
 ---
 
-<SearchLayout title={SEARCH_PAGE_TITLE} description={SEARCH_PAGE_DESCRIPTION}>
+<SearchLayout client:idle title={SEARCH_PAGE_TITLE} description={SEARCH_PAGE_DESCRIPTION}>
   <main>
+    <!-- Contenedor principal con estilos responsivos -->
     <section class="mx-auto w-full max-w-screen-2xl px-4 md:px-6 text-white">
       <div class="min-h-[500px] flex flex-col items-center justify-start pt-6 text-white">
-        <img src="/img/logos solo de ida/logo blanco1.png" alt="Logo" class="mb-4 w-[100px]" />
+        <!-- Logo con carga diferida -->
+        <img
+          src="/img/logos solo de ida/logo blanco1.webp"
+          alt="Logo"
+          class="mb-4 w-[100px]"
+          loading="lazy"
+        />
+
+        <!-- Barra de búsqueda optimizada -->
         <div class="w-full max-w-[500px] h-[34px] md:w-[400px] lg:w-[500px] text-white">
           <Pagefind
             id="search"
             className="pagefind-ui w-full h-full"
-            uiOptions={{ showImages: true }}
+            uiOptions={{
+              showImages: true,
+              placeholder: "Busca destinos, consejos o experiencias...",
+              debounceTimeoutMs: 300, // Retraso para mejorar el rendimiento
+              noResultsMessage: "No se encontraron resultados para tu búsqueda.",
+              preload: false, // Carga diferida del índice
+            }}
           />
         </div>
       </div>
@@ -22,3 +39,65 @@ import SearchLayout from "@layouts/SearchLayout.astro";
   </main>
 </SearchLayout>
 
+<!-- Estilos embebidos -->
+<style>
+  /* Fondo general y diseño responsivo */
+  body {
+    background-color: #1e293b; /* Azul oscuro */
+    color: #ffffff; /* Texto blanco */
+  }
+
+  .pagefind-ui input {
+    border: 2px solid #ffffff;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 8px 12px;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 16px;
+  }
+
+  .pagefind-ui input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .pagefind-ui .highlight {
+    background-color: rgba(255, 255, 0, 0.2); /* Fondo amarillo claro */
+    font-weight: bold;
+  }
+
+  /* Ajustes para imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Resultados de búsqueda */
+  .pagefind-ui .result {
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin: 8px 0;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .pagefind-ui .result a {
+    text-decoration: none;
+    color: #00bcd4; /* Azul claro */
+  }
+
+  .pagefind-ui .result a:hover {
+    color: #03a9f4; /* Azul más claro */
+  }
+
+  /* Diseño móvil */
+  @media (max-width: 768px) {
+    .pagefind-ui input {
+      font-size: 14px;
+      padding: 6px 10px;
+    }
+
+    .pagefind-ui .result {
+      font-size: 14px;
+    }
+  }
+</style>

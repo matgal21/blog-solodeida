@@ -4,71 +4,21 @@ import { SEARCH_PAGE_TITLE, SEARCH_PAGE_DESCRIPTION } from "@consts";
 import Pagefind from "astro-pagefind/components/Search";
 import SearchLayout from "@layouts/SearchLayout.astro";
 ---
+
 <SearchLayout title={SEARCH_PAGE_TITLE} description={SEARCH_PAGE_DESCRIPTION}>
   <main>
     <section class="mx-auto w-full max-w-screen-2xl px-4 md:px-6 text-white">
-      <!-- Contenedor principal -->
-      <div class="min-h-[500px] flex flex-col items-center justify-start pt-6 text-white bg-gradient-to-b from-gray-800 to-gray-900 rounded-lg shadow-lg p-6">
-        <!-- Logo con animación -->
-        <img
-          src="/img/logos solo de ida/logo blanco1.png"
-          alt="Logo"
-          class="mb-6 w-28 opacity-90 transition-opacity duration-300 hover:opacity-100"
-          loading="lazy"
-        />
-
-        <!-- Barra de búsqueda estilizada -->
-        <div class="relative w-full max-w-lg">
+      <div class="min-h-[500px] flex flex-col items-center justify-start pt-6 text-white">
+        <img src="/img/logos solo de ida/logo blanco1.png" alt="Logo" class="mb-4 w-[100px]" />
+        <div class="w-full max-w-[500px] h-[34px] md:w-[400px] lg:w-[500px] text-white">
           <Pagefind
             id="search"
-            className="w-full h-full border-2 border-transparent focus:border-blue-400 focus:ring-2 focus:ring-blue-400 rounded-full bg-gray-700 text-white placeholder-gray-400 px-6 py-3 text-lg shadow-md"
-            uiOptions={{
-              showImages: true,
-              placeholder: "Busca destinos, consejos o experiencias...",
-            }}
+            className="pagefind-ui w-full h-full"
+            uiOptions={{ showImages: true }}
           />
-        </div>
-
-        <!-- Mensaje descriptivo -->
-        <div class="mt-8 text-gray-400 text-sm italic text-center">
-          Escribe algo para comenzar tu búsqueda de aventuras...
         </div>
       </div>
     </section>
   </main>
 </SearchLayout>
 
-<!-- Estilos adicionales para asegurar funcionalidad -->
-<style>
-  /* Garantizar que el input sea clickeable y funcional */
-  .pagefind-ui input {
-    all: unset; /* Resetea estilos problemáticos */
-    width: 100%; /* Asegura que ocupe todo el espacio disponible */
-    background-color: rgba(31, 41, 55, 1); /* Gris oscuro */
-    color: white;
-    font-size: 1rem;
-    padding: 0.75rem 1rem;
-    border-radius: 9999px; /* Borde redondeado */
-    border: 2px solid transparent;
-    transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-  }
-
-  .pagefind-ui input:focus {
-    outline: none;
-    border-color: rgba(59, 130, 246, 1); /* Azul claro */
-    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.5); /* Sombra de enfoque */
-  }
-
-  /* Placeholder con mejor visibilidad */
-  .pagefind-ui input::placeholder {
-    color: rgba(209, 213, 219, 1); /* Gris claro */
-  }
-
-  /* Diseño responsivo */
-  @media (max-width: 768px) {
-    .pagefind-ui input {
-      font-size: 0.875rem; /* Tamaño de fuente menor */
-      padding: 0.5rem 0.75rem;
-    }
-  }
-</style>

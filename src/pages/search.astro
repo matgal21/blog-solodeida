@@ -7,18 +7,30 @@ import SearchLayout from "@layouts/SearchLayout.astro";
 
 <SearchLayout title={SEARCH_PAGE_TITLE} description={SEARCH_PAGE_DESCRIPTION}>
   <main>
-    <section class="mx-auto w-full max-w-screen-2xl px-4 md:px-6 text-white">
-      <div class="min-h-[500px] flex flex-col items-center justify-start pt-6 text-white">
-        <img src="/img/logos solo de ida/logo blanco1.png" alt="Logo" class="mb-4 w-[100px]" />
-        <div class="w-full max-w-[500px] h-[34px] md:w-[400px] lg:w-[500px] text-white">
+    <section class="container mx-auto px-4 md:px-6">
+      <!-- Contenedor principal -->
+      <div class="min-h-[500px] flex flex-col items-center justify-center pt-6">
+        <!-- Logo -->
+        <img 
+          src="/img/logos solo de ida/logo blanco1.png" 
+          alt="Logo principal" 
+          class="mb-6 w-[120px] md:w-[150px]" 
+        />
+        <!-- Título (opcional) -->
+        <h1 class="text-2xl font-semibold mb-4 md:text-3xl">
+          Busca lo que necesitas
+        </h1>
+        <!-- Barra de búsqueda -->
+        <div class="w-full max-w-[500px]">
           <Pagefind
             id="search"
-            className="pagefind-ui w-full h-full"
+            className="pagefind-ui w-full h-full bg-gray-800 text-gray-300"
             uiOptions={{ showImages: true }}
           />
         </div>
       </div>
     </section>
   </main>
+  
 </SearchLayout>
 

@@ -1,6 +1,6 @@
 ---
-title: Los Mejores Aeropuertos del Mundo en 2024 
-description: Doha, Qatar el mejor aeropuerto del mundo según Skytrax.
+title: El aeropuerto de Doha (Qatar), el mejor del mundo en 2024
+description: Los mejores 10 aeropuertos según Skytrax
 category: 
     - General
 tags: 
@@ -14,7 +14,7 @@ tags:
     - Dubái
     - Múnich
     - Estambul
-    - Zurich
+    - Zúrich
 author: Mateo
 coverAlt: Reichstag de Berlin
 cover: "/images/aeropuertos/doha-ext.jpg"

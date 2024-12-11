@@ -16,7 +16,7 @@ tags:
     - Estambul
     - Zúrich
 author: Mateo
-coverAlt: Reichstag de Berlin
+coverAlt: RAeropuerto Doha, Qatar
 cover: "/images/aeropuertos/doha-ext.jpg"
 pubDate: 2024-12-09
 slug: mejores-aeropuertos-2024

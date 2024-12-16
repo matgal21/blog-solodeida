@@ -3,7 +3,7 @@ title: Cierra histórica aerolinea de mas de 100 años.
 slug: cierra-czech-airlines
 description: Adiós a Czech Airlines, la aerolínea más antigua de Europa cierra sus operaciones independientes 
 category:
-  - General
+  - Aviación
 tags:
   - Republica Checa
   - Viajes

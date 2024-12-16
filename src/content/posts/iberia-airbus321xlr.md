@@ -3,7 +3,7 @@ title: Madrid a Boston en Airbus A321 XLR de Iberia
 slug: vuelo-iberia-madrid-boston-airbus321xlr
 description: Primera aerolinea en usar este avión para un vuelo transoceánico.
 category:
-  - General
+  - Aviación
 tags:
   - Madrid
   - Boston

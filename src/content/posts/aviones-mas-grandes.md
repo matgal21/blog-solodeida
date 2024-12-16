@@ -3,7 +3,7 @@ title: Estos son los aviones mas grandes del mundo
 slug: aviones-comerciales-mas-grandes-del-mundo
 description: Los gigantes de los aires y su espectacular crecimiento.
 category:
-  - General
+  - Aviación
 tags:
   - Aviones
   - Viajes

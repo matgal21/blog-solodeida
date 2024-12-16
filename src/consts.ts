@@ -32,7 +32,7 @@ export const HeaderLinks = [
   { href: "/category/General/1/", title: "General" },
   { href: "/category/Viajes/1/", title: "Viajes" },
   { href: "/category/Crónicas/1/", title: "Crónicas" },
-  { href: "/tags/", title: "TAGS" },
+  { href: "/category/Aviación/1/", title: "Aviación" },
   { href: "/category/Descubrir/1/", title: "Descubrir destinos" },
 ];
 

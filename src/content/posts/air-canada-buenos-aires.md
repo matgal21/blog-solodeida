@@ -3,7 +3,7 @@ title: Vuelos diarios entre Buenos Aires y Toronto.
 slug: frecuencia-diaria-air-canada-a-buenos-aires
 description: El 10 de diciembre comienza la frecuencia diaria de Air Canada.
 category:
-  - General
+  - Aviación
 tags:
   - Vuelos
   - Viajes

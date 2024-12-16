@@ -3,7 +3,7 @@ title: Estos son los vuelos comerciales más largos del mundo
 slug: vuelos-comerciales-mas-largos-del-mundo
 description: Casi 19 horas en el aire el más largo del mundo
 category:
-  - General
+  - Aviación
 tags:
   - Aerolineas
   - Viajes

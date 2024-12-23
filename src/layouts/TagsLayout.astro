@@ -14,7 +14,15 @@ const { title, description } = Astro.props;
     <BaseHead title={title} description={description} />
     <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
     <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
-  
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z70LX1R9TK');
+</script>
   
   </head>
   <body>

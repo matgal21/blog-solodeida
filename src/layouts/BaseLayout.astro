@@ -4,7 +4,6 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Navbar from "@components/Navbar.astro";
 import { GoogleAnalytics } from '@next/third-parties/google'
-import CookiesBanner from "@components/CookiesBanner.astro";
 
 
 const { title, description } = Astro.props;
@@ -17,13 +16,20 @@ const { title, description } = Astro.props;
     <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger, Solo de ida">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK"></script>
     <GoogleAnalytics gaId="G-Z7OLX1R9TK" />
-  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z70LX1R9TK">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z70LX1R9TK');
+</script>
 </head>
   </head>
   <body
     class="mx-auto w-full "
     >
-  <!-- <CookiesBanner /> -->
     <Header />
     <Navbar />
     <div class="mx-auto  w-full flex mt-8 min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900">

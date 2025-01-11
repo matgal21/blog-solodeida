@@ -15,7 +15,7 @@ tags:
   - Bundestag
 
 pubDate: 2025-01-09
-cover: "/images/alemania/parlamento/bundestag.jpg"
+cover: "/images/alemania/parlamento/parlamento-interior.jpg"
 coverAlt: Parlamento Alemán
 author: Mateo 
 ---
@@ -23,7 +23,7 @@ author: Mateo
 
 El **Bundestag**, el icónico Parlamento alemán, es un testigo de la rica y turbulenta historia de Berlín. Hoy en día, es posible disfrutar de una visita guiada gratuita que permite explorar tanto su arquitectura como su relevancia histórica.
 
-<img src="/images/alemania/parlamento/parlamento-interior.jpg" alt="Parlamento Aleman">
+<img src="/images/alemania/parlamento/bundestag.jpg" alt="Parlamento Aleman">
 
 ## Cómo conseguir las entradas
 

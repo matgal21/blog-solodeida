@@ -19,6 +19,7 @@ cover: "/images/alemania/parlamento/parlamento-interior.jpg"
 coverAlt: Parlamento Alemán
 author: Mateo 
 ---
+
 ## Una visita guiada gratuita por el Parlamento Alemán: el Bundestag
 
 El **Bundestag**, el icónico Parlamento alemán, es un testigo de la rica y turbulenta historia de Berlín. Hoy en día, es posible disfrutar de una visita guiada gratuita que permite explorar tanto su arquitectura como su relevancia histórica.

@@ -1,5 +1,5 @@
 ---
-title: Me cancelaron un tren de Ámsterdam a Berlin
+title: Tren de Ámsterdam a Berlin CANCELADO
 slug: tren-cancelado-de-amsterdam-a-berlin
 description: Cómo fue la solución a esta cancelación.
 category:
@@ -12,27 +12,31 @@ tags:
   - Tren 
   - Alemania
   - Cancelado
-pubDate: 2024-01-09
-cover: "/public/images/trenes/ams-ber/tren-portada.jpg"
+pubDate: 2024-02-09
+cover: "/images/trenes/ams-ber/tren-portada.jpg"
 coverAlt: Tren alemán
 author: Mateo 
 ---
 
-El dia comenzaba a las 9.00 am en el andén 8b de la estación central de Ámsterdam con un viaje en tren entre Ámsterdam y Berlin en un tren que salía a las 10.00am. Duraba apróximadamente de 5 horas con DB(Deutche Bhan) conocida por su puntualidad y calidad.
-Cuando se aproximaba la hora la pantalla del andén donde supuestamente salía, marcaba **cancelado**. 
+El día comenzaba temprano en la **Estación Central de Ámsterdam**, con mi viaje en tren programado hacia Berlín. A las 10:00 am, debía abordar un tren de Deutsche Bahn (DB), conocido por su puntualidad y calidad.
+<img src="/images/trenes/ams-ber/anden-8a.jpg" alt="Pantalla del andén 8a">
+Con unas cinco horas de trayecto por delante, la expectativa era disfrutar de un viaje tranquilo, pero la realidad terminó siendo muy diferente.
 
-<img src="/public/images/trenes/ams-ber/estacion-ams.jpg" alt="Estación de Ámsterdam">
+## Una Sorpresa en el Andén: Tren Cancelado
+<img src="/images/trenes/ams-ber/estacion-ams.jpg" alt="Estación de Ámsterdam">
+Cuando se acercaba la hora de salida, revisé la pantalla del andén 8a y, para mi sorpresa, apareció la palabra “Cancelado”. Algo que, en teoría, no suele pasar con la Deutsche Bahn, estaba ocurriendo justo en mi viaje.
 
-Algo que no pasa nunca estaba pasando, por suerte un trabajador muy amable de la estacion de Ámsterdan Central, me ayudo a encontrar una solución, la cual era cambiar de andén y subirnos en un tren que iba con destino a Frankfurt y bajarnos en la ciudad de Fiusburg, y de ahí a los 15 minutos subirnos a uno que finalmente nos dejaba en la estación central de Berlin, destino final.
+Por suerte, un trabajador muy amable de la estación me ayudó a encontrar una alternativa para llegar a Berlín:
+Subir a un tren con destino a Frankfurt y bajar en Duisburg.
+Esperar 15 minutos y tomar otro tren que finalmente me llevaría a Berlín Hbf.
 
-<img src="/public/images/trenes/ams-ber/tren-interior.jpg" alt="Usando laptop en tren">
+## El Viaje Alternativo: De Duisburg a Berlín
+<img src="/images/trenes/ams-ber/tren-interior.jpg" alt="Usando laptop en tren">
+Al abordar el primer tren, noté que nadie estaba controlando los tickets. De hecho, muchas personas que se encontraban en la misma situación aprovecharon esta solución improvisada sin tener el boleto correcto para ese tren. Sin embargo, en el segundo tramo, antes de llegar a Berlín, sí hubo un control estricto de los pasajes.
 
+<img src="/public/images/trenes/ams-ber/pc-en-tren.jpg" alt="Usando laptop en tren">
+Contaba con enchufes en cada asiento, y wiFi de excelente calidad, lo suficientemente bueno como para ver un partido de la Premier League en vivo.
 
-Al momento de subir al tren nadie controló nada, y éramos muchas personas que no teniamos ese ticket de tren. Pero si lo controlaron en el segundo tren antes de llegar a la estación central de Berlin.
-
-<img src="/public/images/trenes/ams-ber/" alt="Usando laptop en tren">
-
-Ambos trenes tenían enchufes en cada asiento, también un wifi que andaba muy bien, tanto que me permitió mirar un partido de premier en vivo. 
-
-
+El viaje, aunque no fue el plan original, resultó ser cómodo y con varias facilidades para aprovechar el tiempo en ruta.
+A pesar del cambio de planes, llegué a Berlín sin mayores inconvenientes y con una anécdota más para contar.
 

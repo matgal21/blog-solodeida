@@ -7,6 +7,7 @@ import Newsletter from "@components/Newsletter.astro";
 import Carrousel from "@components/Carrousel.astro";
 import { GoogleAnalytics } from '@next/third-parties/google'
 import YtCard from "@components/YtCard.astro";
+import CookiesBanner from "@components/CookiesBanner.astro";
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -40,6 +41,8 @@ const basePath = "/page/";
 
   <Carrousel />
   
+  <CookiesBanner />
+
   <Pagination
     currentPage={1}
     lastPage={totalPages}

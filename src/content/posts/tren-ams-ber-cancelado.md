@@ -12,7 +12,7 @@ tags:
   - Tren 
   - Alemania
   - Cancelado
-pubDate: 2024-02-09
+pubDate: 2025-02-09
 cover: "/images/trenes/ams-ber/tren-portada.jpg"
 coverAlt: Tren alemán
 author: Mateo 
@@ -34,8 +34,12 @@ Esperar 15 minutos y tomar otro tren que finalmente me llevaría a Berlín Hbf.
 <img src="/images/trenes/ams-ber/tren-interior.jpg" alt="Usando laptop en tren">
 Al abordar el primer tren, noté que nadie estaba controlando los tickets. De hecho, muchas personas que se encontraban en la misma situación aprovecharon esta solución improvisada sin tener el boleto correcto para ese tren. Sin embargo, en el segundo tramo, antes de llegar a Berlín, sí hubo un control estricto de los pasajes.
 
+## Dentro del tren
 <img src="/public/images/trenes/ams-ber/pc-en-tren.jpg" alt="Usando laptop en tren">
 Contaba con enchufes en cada asiento, y wiFi de excelente calidad, lo suficientemente bueno como para ver un partido de la Premier League en vivo.
+
+Además el tren cuenta con un coche comedor con carta a elección.
+<img src="/images/trenes/ams-ber/carta-tren.jpg" alt="Carta del tren">
 
 El viaje, aunque no fue el plan original, resultó ser cómodo y con varias facilidades para aprovechar el tiempo en ruta.
 A pesar del cambio de planes, llegué a Berlín sin mayores inconvenientes y con una anécdota más para contar.

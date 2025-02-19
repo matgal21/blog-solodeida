@@ -35,7 +35,7 @@ Esperar 15 minutos y tomar otro tren que finalmente me llevaría a Berlín Hbf.
 Al abordar el primer tren, noté que nadie estaba controlando los tickets. De hecho, muchas personas que se encontraban en la misma situación aprovecharon esta solución improvisada sin tener el boleto correcto para ese tren. Sin embargo, en el segundo tramo, antes de llegar a Berlín, sí hubo un control estricto de los pasajes.
 
 ## Dentro del tren
-<img src="/public/images/trenes/ams-ber/pc-en-tren.jpg" alt="Usando laptop en tren">
+<img src="/images/trenes/ams-ber/pc-en-tren.jpg" alt="Usando laptop en tren">
 Contaba con enchufes en cada asiento, y wiFi de excelente calidad, lo suficientemente bueno como para ver un partido de la Premier League en vivo.
 
 Además el tren cuenta con un coche comedor con carta a elección.

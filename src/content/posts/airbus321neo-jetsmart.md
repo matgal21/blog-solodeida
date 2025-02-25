@@ -12,7 +12,7 @@ tags:
   - Buenos Aires
   - Airbus
   - Airbus 321 neo
-pubDate: 2025-10-02
+pubDate: 2025-02-10
 cover: "/images/jetsmart/jetsmart 2.jpg"
 coverAlt: Foto airbus 321 neo JetSmart
 author: Mateo
@@ -40,7 +40,7 @@ El Airbus A321neo es una versión mejorada y más moderna del A320, con varias v
 💰 Más Vuelos a Mejor Precio: Al mejorar la eficiencia operativa, la aerolínea puede mantener tarifas accesibles sin comprometer la calidad del servicio.
 
 ## ¿Cuándo Comienza a Operar?
-Los primeros Airbus A321neo de JetSMART Argentina estarán en operación a partir del primer trimestre de 2025, con base en el Aeroparque Jorge Newbery en Buenos Aires.
+Los primeros Airbus A321neo de JetSMART Argentina estarán en operación a partir del **primer trimestre de 2025**, con base en Aeroparque.
 
 Durante la presentación oficial, el CEO de JetSMART, Estuardo Ortiz, destacó la importancia de esta incorporación:
 

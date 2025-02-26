@@ -1,6 +1,6 @@
 ---
 slug: mirador-mas-alto-de-londres
-title:  El Mirador Gratuito Más Alto de Londres 
+title:  El mirador gratuito más alto de Londres 
 description: Las tremendas vistas desde el Horizon 22.
 
 category:

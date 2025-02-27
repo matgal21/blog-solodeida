@@ -1,5 +1,5 @@
 ---
-slug: mi-experiencia-en-berlin
+slug: viajes/mi-experiencia-en-berlin
 pubDate: 2025-02-15
 cover: "/images/alemania/viaje/puerta-brandemburgo2.jpg"
 coverAlt: Ciudad de Berlin
@@ -63,7 +63,7 @@ El Muro de Berlín es parte fundamental de la historia de la ciudad. Hoy en día
 El corazón de la Berlín moderna. Desde la Fernsehturm (Torre de TV), la más alta de Alemania, se pueden ver panorámicas increíbles de la ciudad.
 
 ### **Isla de los Museos**
-<img src="/public/images/alemania/viaje/catedral-berlin.jpg">
+<img src="/images/alemania/viaje/catedral-berlin.jpg">
 Si te gusta el arte y la historia, este es tu lugar. Alberga cinco museos de clase mundial, incluyendo el Museo de Pérgamo y el Museo de Pérgamo, donde se pueden ver piezas arqueológicas impresionantes.
 
 ### **Checkpoint Charlie**

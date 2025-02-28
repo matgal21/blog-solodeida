@@ -16,7 +16,7 @@ coverAlt: Barcelona Ciudad
 author: Mateo 
 ---
 
-### **Barcelona**, la vibrante capital de Cataluña, es una ciudad que combina arte, arquitectura y una historia rica en cada rincón. Famosa por las obras maestras de Antoni Gaudí, sus playas mediterráneas, y su animada vida cultural, Barcelona ofrece una experiencia única. Desde la imponente Sagrada Familia hasta las estrechas calles del Barrio Gótico, la ciudad tiene algo para todos. Ya sea que busques disfrutar de la gastronomía local, sumergirte en su fascinante historia o relajarte junto al mar, Barcelona te sorprenderá en cada paso. En esta nota, te contamos cuáles son las mejores atracciones que no podés perderte en la Ciudad Condal.
+**Barcelona**, la vibrante capital de Cataluña, es una ciudad que combina arte, arquitectura y una historia rica en cada rincón. Famosa por las obras maestras de Antoni Gaudí, sus playas mediterráneas, y su animada vida cultural, Barcelona ofrece una experiencia única. Desde la imponente Sagrada Familia hasta las estrechas calles del Barrio Gótico, la ciudad tiene algo para todos. Ya sea que busques disfrutar de la gastronomía local, sumergirte en su fascinante historia o relajarte junto al mar, Barcelona te sorprenderá en cada paso. En esta nota, te contamos cuáles son las mejores atracciones que no podés perderte en la Ciudad Condal.
 
 ## 1. La Sagrada Familia 
 <img src="/images/españa/barcelona/sagrada-familia2.jpg" alt="Sagrada Familia">

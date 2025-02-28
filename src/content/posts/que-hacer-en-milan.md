@@ -12,11 +12,11 @@ tags:
   - Moda
 pubDate: 2024-07-25
 cover: "/images/italia/milan/milan.jpg"
-coverAlt: Ciudad de Milano
+coverAlt: Ciudad de Milan
 author: Mateo
 ---
 
-### **Milán**, la capital mundial de la moda y el diseño, es una ciudad vibrante y elegante que combina su **rica historia** con una energía moderna e innovadora. Conocida por sus tiendas de alta costura, su arte renacentista y su vibrante escena cultural, Milán es mucho más que un destino de compras. Desde la imponente Catedral del Duomo hasta las obras maestras de Leonardo da Vinci, cada rincón de la ciudad cuenta una historia. En esta nota, exploraremos las mejores atracciones de Milán que no te podés perder. ¡Descubrí todo lo que hace de Milán una de las ciudades más fascinantes de Italia!
+**Milán**, la capital mundial de la moda y el diseño, es una ciudad vibrante y elegante que combina su **rica historia** con una energía moderna e innovadora. Conocida por sus tiendas de alta costura, su arte renacentista y su vibrante escena cultural, Milán es mucho más que un destino de compras. Desde la imponente Catedral del Duomo hasta las obras maestras de Leonardo da Vinci, cada rincón de la ciudad cuenta una historia. En esta nota, exploraremos las mejores atracciones de Milán que no te podés perder. ¡Descubrí todo lo que hace de Milán una de las ciudades más fascinantes de Italia!
 
 ## 1. Duomo de Milán 
 <img src="/images/italia/milan/duomo-milan.jpg" alt="Duomo de Milan">
@@ -45,4 +45,4 @@ El **Castillo Sforzesco** es uno de los monumentos históricos más importantes 
 
 ### Como conclusión... 
 
-### **Milán** es una ciudad que combina su rica historia renacentista con un estilo moderno y sofisticado. Ya sea que explores la imponente Catedral del Duomo, admires La Última Cena de Leonardo da Vinci, pasees por la elegante Galería Vittorio Emanuele II, disfrutes de una ópera en el legendario Teatro alla Scala, o te sumerjas en la historia del Castillo Sforzesco, cada experiencia en Milán te va a sorprender. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que la capital de la moda y el arte tiene para ofrecer!
+**Milán** es una ciudad que combina su rica historia renacentista con un estilo moderno y sofisticado. Ya sea que explores la imponente Catedral del Duomo, admires La Última Cena de Leonardo da Vinci, pasees por la elegante Galería Vittorio Emanuele II, disfrutes de una ópera en el legendario Teatro alla Scala, o te sumerjas en la historia del Castillo Sforzesco, cada experiencia en Milán te va a sorprender. ¡Empezá a planear tu viaje y descubrí por vos mismo todo lo que la capital de la moda y el arte tiene para ofrecer!

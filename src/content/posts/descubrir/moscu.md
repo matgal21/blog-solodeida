@@ -18,7 +18,7 @@ coverAlt: Moscu ciudad
 author: Mateo
 ---
 
-### **Moscú**, la capital de Rusia, es una ciudad que te deja sin aliento, llena de historia, cultura y una mezcla impresionante de lo antiguo y lo moderno. Desde la imponente Plaza Roja hasta las cúpulas coloridas de la Catedral de San Basilio, cada rincón de esta ciudad te cuenta una historia única. Con su arquitectura impactante, vastos parques y una vida cultural vibrante, Moscú es un destino que no podés dejar de visitar. En esta nota, vamos a recorrer las mejores atracciones de Moscú que no te podés perder. Venite a conocer lo que hace de Moscú una de las ciudades más fascinantes del mundo.
+**Moscú**, la capital de Rusia, es una ciudad que te deja sin aliento, llena de historia, cultura y una mezcla impresionante de lo antiguo y lo moderno. Desde la imponente Plaza Roja hasta las cúpulas coloridas de la Catedral de San Basilio, cada rincón de esta ciudad te cuenta una historia única. Con su arquitectura impactante, vastos parques y una vida cultural vibrante, Moscú es un destino que no podés dejar de visitar. En esta nota, vamos a recorrer las mejores atracciones de Moscú que no te podés perder. Venite a conocer lo que hace de Moscú una de las ciudades más fascinantes del mundo.
 
 
 ## 1. La Plaza Roja y el Kremlin 
@@ -48,5 +48,5 @@ El **Parque Gorki** es el lugar ideal para relajarte y disfrutar de la vida al a
 
 ### Como conclusión... 
 
-### Moscú es una ciudad que combina la grandeza de su historia imperial con una vibrante vida cultural moderna. Ya sea que recorras la histórica Plaza Roja y el Kremlin, te maravilles con la Catedral de San Basilio, disfrutes de una función en el legendario Teatro Bolshói, descubras el arte subterráneo del Metro de Moscú o te relajes en el dinámico Parque Gorki, cada experiencia en Moscú te va a dejar una impresión inolvidable. ¡Animate a planear tu viaje y descubrí por vos mismo todo lo que esta majestuosa capital tiene para ofrecer!
+**Moscú** es una ciudad que combina la grandeza de su historia imperial con una vibrante vida cultural moderna. Ya sea que recorras la histórica Plaza Roja y el Kremlin, te maravilles con la Catedral de San Basilio, disfrutes de una función en el legendario Teatro Bolshói, descubras el arte subterráneo del Metro de Moscú o te relajes en el dinámico Parque Gorki, cada experiencia en Moscú te va a dejar una impresión inolvidable. ¡Animate a planear tu viaje y descubrí por vos mismo todo lo que esta majestuosa capital tiene para ofrecer!
 

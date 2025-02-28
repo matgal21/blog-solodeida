@@ -16,6 +16,7 @@ cover: "/images/iberia/airbus 321 xlr.jpg"
 coverAlt: Boeing 737 american airlines
 author: Mateo 
 ---
+
 ## Iberia hizo historia
 El dia de hoy, 14 de noviembre del 2024 Iberia, la aerolínea bandera de España. Se transformó en la primera aerolinea del mundo en ofrecer un vuelo transoceanico en este avión, de la capital de España, Madrid. Hacia la ciudad de Boston en Estados Unidos.
 <img src="/images/iberia/iberia.jpg" alt="Despege en vivo del Airbus A321 XLR">

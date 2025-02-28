@@ -60,3 +60,15 @@ Algo que me llamó la atención es que apenas al salir del aeropuerto había uno
 <img src="/images/cronicas/zag-rom/bus-al-centro.jpg" alt="Bus al centro de Roma">
 
 Por último, el traslado al centro de la ciudad en bus privado, ya que el aeropuerto Fiumicino se encuentra a unos 30 km, poco más de media hora dependiendo del tráfico. También se puede en tren, el cual es más rápido (opción que usé para volver del centro hacia el aeropuerto).
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/laeNC2gYd-E" 
+    title="VUELO DE ZAGREB A ROMA CON RYANAIR" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>

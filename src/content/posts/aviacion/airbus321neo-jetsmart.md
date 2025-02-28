@@ -19,7 +19,7 @@ author: Mateo
 ---
 
 La aerolínea **JetSMART Argentina** sigue expandiéndose y modernizando su flota con la incorporación del **Airbus A321neo**, un avión que promete mayor capacidad, eficiencia y sostenibilidad para sus operaciones en el país y la región. Con este nuevo modelo, la aerolínea low-cost reafirma su compromiso con la conectividad aérea, ofreciendo más opciones de viaje a los pasajeros.
-<img src="/images/jetsmart/jetsmart3.jpg" alt="CEO de Jetsmart">
+<img src="/images/aviacion/jetsmart/jetsmart3.jpg" alt="CEO de Jetsmart">
 
 
 ## Un Avión Más Grande y Eficiente
@@ -30,7 +30,7 @@ El Airbus A321neo es una versión mejorada y más moderna del A320, con varias v
 * Menor consumo de combustible: Gracias a su tecnología avanzada, reduce el gasto de combustible hasta un 20% en comparación con modelos anteriores.
 * Menos emisiones: Un 50% menos de impacto acústico y una reducción significativa en la huella de carbono, alineándose con prácticas de aviación más sostenibles.
 * Más autonomía: Permite realizar vuelos más largos sin necesidad de escalas, abriendo la puerta a nuevas rutas en el futuro.
-<img src="/images/jetsmart/jetsmart-a321neo.jpg" alt="CEO de Jetsmart">
+<img src="/images/aviacion/jetsmart/jetsmart-a321neo.jpg" alt="CEO de Jetsmart">
 
 ## ¿Qué Significa para los Viajeros?
 💺 Más Espacio, Más Confort: Aunque sigue siendo una aerolínea low-cost, el A321neo ofrece mayor comodidad y modernidad en la cabina.
@@ -45,7 +45,7 @@ Los primeros Airbus A321neo de JetSMART Argentina estarán en operación a parti
 Durante la presentación oficial, el CEO de JetSMART, Estuardo Ortiz, destacó la importancia de esta incorporación:
 
 🗣️ "La llegada del A321neo nos permite fortalecer nuestra presencia en Argentina y ofrecer a nuestros pasajeros más opciones de destinos con la calidad y eficiencia que nos caracterizan."
-<img src="/images/jetsmart/jetsmart.jpg" alt="CEO de Jetsmart">
+<img src="/images/aviacion/jetsmart/jetsmart.jpg" alt="CEO de Jetsmart">
 
 
 Por su parte, **Airbus** también celebró esta alianza, reafirmando su compromiso con la innovación y sostenibilidad en la aviación comercial.

@@ -13,7 +13,7 @@ tags:
   - Airbus
   - Airbus 321 neo
 pubDate: 2025-02-10
-cover: "/images/jetsmart/jetsmart 2.jpg"
+cover: "/images/aviacion/jetsmart/jetsmart-2.jpg"
 coverAlt: Foto airbus 321 neo JetSmart
 author: Mateo
 ---

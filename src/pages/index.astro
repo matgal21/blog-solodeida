@@ -5,9 +5,9 @@ import Pagination from "@components/Pagination.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "@consts";
 import Newsletter from "@components/Newsletter.astro";
 import Carrousel from "@components/Carrousel.astro";
+import { GoogleAnalytics } from '@next/third-parties/google'
 import YtCard from "@components/YtCard.astro";
 import CookiesBanner from "@components/CookiesBanner.astro";
-import { GoogleAnalytics } from '@next/third-parties/google'
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -30,7 +30,8 @@ const basePath = "/page/";
   <meta charset="UTF-8" />
   <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger, Solo de ida, Solo de ida blog, Solo de ida blog de viajes">
   <meta name="google-site-verification" content="0ebKWyvQPqUxeWVfXYecrV-SEWi_Kg7xRZ4evZVbiIU" />
-  <GoogleAnalytics gaId="G-Z70LX1R9TK" />
+
+  <GoogleAnalytics gaId="G-Z7OLX1R9TK" />
 </head>
 
 

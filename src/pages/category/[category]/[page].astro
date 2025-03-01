@@ -48,7 +48,7 @@ const { title, description } = getCategoryMetadata(params.category);
     }
 </style>
 <BaseLayout title={title} description={description}>
-  <h2 class="text-4xl mt-4 mb-4 font-light">Posts sobre <span class="text-sky-600 font-bold ">{params.category}</span>...</h2>
+  <h1 class="text-4xl mt-4 mb-4 font-light">Posts sobre <span class="text-sky-600 font-bold ">{params.category}</span>...</h1>
   <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
     {page.data.map((post) => <PostCard post={post} />)}
   </div>

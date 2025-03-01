@@ -7,6 +7,7 @@ import Newsletter from "@components/Newsletter.astro";
 import Carrousel from "@components/Carrousel.astro";
 import YtCard from "@components/YtCard.astro";
 import CookiesBanner from "@components/CookiesBanner.astro";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -19,9 +20,25 @@ const totalPages = Math.ceil(allPosts.length / postsPerPage);
 
 const basePath = "/page/";
 ---
+<head>
+  <GoogleAnalytics gaId="G-Z70LX1R9TK" />
+  <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/styles/global.css" rel="stylesheet">
+  <meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8″ />
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger, Solo de ida, Solo de ida blog, Solo de ida blog de viajes">
+  <meta name="google-site-verification" content="0ebKWyvQPqUxeWVfXYecrV-SEWi_Kg7xRZ4evZVbiIU" />
+</head>
+
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+
+<body>
+
   <Carrousel />
+  
   <CookiesBanner />
 
   <Pagination
@@ -34,5 +51,7 @@ const basePath = "/page/";
   />
 
   <YtCard />
-  <Newsletter />
+<Newsletter />
 </BaseLayout>
+</body>
+  

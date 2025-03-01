@@ -13,7 +13,7 @@ tags:
   - Romano
   - Imperio Romano
 
-pubDate: 2021-02-28
+pubDate: 2025-02-28
 cover: "/images/viajes/coliseo/coliseo-noche2.jpg"
 coverAlt: Coliseo Romano
 author: Mateo 

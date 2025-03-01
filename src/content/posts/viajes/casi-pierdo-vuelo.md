@@ -3,7 +3,7 @@ title: El dia que casi pierdo un vuelo de Porto a Buenos Aires
 slug: el-dia-que-casi-pierdo-un-vuelo
 description: Por el retraso de la conexion a Madrid estuve a punto de perderlo.
 category:
-  - General 
+  - Viajes 
 tags:
   - AirEuropa
   - Porto

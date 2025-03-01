@@ -3,6 +3,7 @@ import BaseHead from "@components/BaseHead.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Navbar from "@components/Navbar.astro";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const { title, description } = Astro.props;
 ---
@@ -11,6 +12,7 @@ const { title, description } = Astro.props;
 <html lang="es">
   <head>
     <BaseHead title={title} description={description} />
+    <GoogleAnalytics gaId="G-Z70LX1R9TK" />
     <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
     <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
   
@@ -24,4 +26,3 @@ const { title, description } = Astro.props;
     <Footer />
   </body>
 </html>
-

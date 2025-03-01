@@ -1,27 +1,68 @@
 ---
-import BaseHead from "@components/BaseHead.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import Navbar from "@components/Navbar.astro";
+import { getCollection } from "astro:content";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import RelatedPostsCard from "@components/RelatedPostsCard.astro";
+import FormattedDate from "@components/FormattedDate.astro";
+import OptimizedCover from "@components/OptimizedPicture.astro";
+import PostComments from "@components/PostComments.astro";
+import CommentsFacebook from "@components/CommentsFacebook.astro";
+import Newsletter from "@components/Newsletter.astro";
 
-const { title, description } = Astro.props;
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+
+const post = Astro.props;
+const { Content } = await post.render();
 ---
 
-<!doctype html>
-<html lang="es">
-  <head>
-    <BaseHead title={title} description={description} />
-    <link rel="icon" type="image" href="/img/logos solo de ida/logo azul1.png" />
-    <meta name="keywords" content="Blog, Viajes, Turismo, Blog de viajes, Blogger">
-  
-  </head>
-  <body>
-    <Header />
-    <Navbar />
-    <div class="mx-auto flex min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900">
-      <slot />
-    </div>
-    <Footer />
-  </body>
-</html>
+<BaseLayout title=`${post.data.title} | Solo de Ida` description={post.data.description}>
+  <main>
+    <article class="prose mx-auto dark:prose-invert">
+      <img src={post.data.cover} alt={post.data.coverAlt}>
+      <div class="prose-h1 text-center">
+        <h1 class="underline decoration-blue-600">{post.data.title}</h1>
+      </div>
+      <div class="flex text-xl justify-between font-bold">
+        <small
+          >Publicado el <FormattedDate date={post.data.pubDate}/> por <b><u>{post.data.author}</u></b>
+          </small
+        >
+      </div>
+        <div class="prose-img:rounded-lg">
+          {
+            post.data.cover && (
+              <OptimizedCover src={post.data.cover} alt={post.data.coverAlt} />
+            )
+          }
+        </div>
+        <div>
+          <Content />
+        </div>
+        <div class="prose-a:no-underline">
+          {
+            post.data.tags.map((tag) => (
+              <span class="mb-2 mr-2 inline-block rounded-full bg-neutral-300 px-3 py-1 text-lg hover:bg-sky-500 ">
+                <a href={`/tags/${tag}/1/`}>{tag}</a>
+              </span>
+            ))
+          }
+        </div>
+        <Newsletter />
+        <div class="bg-slate-600 px-2 pt-2 rounded">
+          <PostComments />
+        </div> 
+      </article>
+      <div class="mt-4">
+        <RelatedPostsCard
+        currentCategory={post.data.category[0]}
+        currentSlug={post.slug}
+        />
+      </div>
 
+  </main>
+</BaseLayout>

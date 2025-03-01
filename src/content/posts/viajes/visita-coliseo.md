@@ -33,17 +33,11 @@ El acceso al subsuelo del Coliseo no está incluido en la entrada general, por l
 <img src="/images/viajes/coliseo/coliseo2.jpg" alt="Coliseo desde el exterior">
 
 ## Explorando el Subsuelo del Coliseo
-<div class="flex justify-center"> 
 <img src="/images/viajes/coliseo/interior3.jpg" alt="Vista desde los pasadizos">
-</div>
 Ingresar al subsuelo del Coliseo es una sensación única. Acompañado por una muy buena guía, recorrí los antiguos pasadizos donde gladiadores y animales salvajes esperaban su turno para entrar en combate.
 <img src="/images/viajes/coliseo/interior4.jpg" alt="Debajo de la Arena">
-
-
 Al ingresar al subsuelo del Coliseo muestran un breve video de la historia y la ubicacion geográfica. Luego se recorren distintos lugares donde exhiben armaduras y distintas armas de esa época.
-
 <img src="/images/viajes/coliseo/caballeros.jpg" alt="Armaduras de los caballeros">
-
 Estar en ese lugar, pisando las mismas piedras que hace más de 2.000 años pisaron gladiadores, animales y esclavos, fue un momento que quedará en mi mente por mucho tiempo.
 
 ## Como conclusión: ¿Vale la Pena el Tour?

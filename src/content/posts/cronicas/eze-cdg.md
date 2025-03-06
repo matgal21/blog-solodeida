@@ -1,6 +1,6 @@
 ---
 title: Vuelo de Ezeiza a Paris en un airbus 350
-slug: vuelo-ezeiza-barcelona-con-escala-en-paris
+slug: cronicas/vuelo-ezeiza-barcelona-con-escala-en-paris
 description: Mi primera vez volando en la aerolínea francesa.
 category:
   - Crónicas

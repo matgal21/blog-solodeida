@@ -1,6 +1,6 @@
 ---
 title: Crónica de vuelo de ZAGREB a ROMA
-slug: cronica-vuelo-zagreb-a-roma
+slug: cronicas/cronica-vuelo-zagreb-a-roma
 description: Vuelo corto con Ryanair operado por Lauda.
 category:
   - Crónicas

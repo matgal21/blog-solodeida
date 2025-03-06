@@ -1,6 +1,6 @@
 ---
 title: TREMENDA crónica de vuelo entre Londres y Ámsterdam con British
-slug: cronica-vuelo-londres-amsterdam
+slug: cronicas/cronica-vuelo-londres-amsterdam
 description: 2 aterrizajes fallidos, gente gritando y vomitando y mucha turbulencia.
 category:
   - Crónicas

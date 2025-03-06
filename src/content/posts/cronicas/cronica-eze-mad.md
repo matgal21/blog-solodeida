@@ -1,6 +1,6 @@
 ---
 title: Mi primera vez viajando con Iberia de Ezeiza a Madrid
-slug: cronica-de-vuelo-ezeiza-madrid-airbus-350
+slug: cronicas/cronica-de-vuelo-ezeiza-madrid-airbus-350
 description: Crónica de vuelo de una ruta muy usada por argentinos.
 category:
   - Crónicas

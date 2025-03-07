@@ -23,5 +23,5 @@ author: Mateo
 Desde palacios e iglesias que hacen recordar el pasado, todavía se puede apreciar lo que era una muralla que cubría esta ciudad.
 
 Esta ciudad tiene varias leyendas locales como la del Dragón de Wawel, que vivia a orillas del río Vístula, el cual bordea a la ciudad. Este dragón es una parte fundamental de la cultura de la ciudad.
-## Budapest la ciudad que superó todas mis expectativas 
+
 

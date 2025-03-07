@@ -14,7 +14,7 @@ tags:
   - Alemania
   - Hungría
 
-pubDate: 2024-03-02
+pubDate: 2025-03-02
 cover: "/images/viajes/auschwitz/puerta-tipica.jpg"
 coverAlt: Entrada al campo de concentración
 author: Mateo 

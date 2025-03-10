@@ -20,7 +20,8 @@ author: Mateo
 El dia comenzaba bien temprano a eso de las 5 de la mañana en la terminal 4 del aeropuerto Madrid-Barajas a la espera del vuelo IB105 con destino a Ezeiza. Este vuelo sale a las 8.45am y llega a Ezeiza estipulada de 17.25, es decir se vuela toda la mañana y la tarde, complicando las horas de sueño y haciendose largo.
 <img src="/images/cronicas/mad-eze/aeropuerto-barajas.jpg" alt="Aeropuerto da Barajas interior">
 
-Porqué tan temprano? Al ser el aeropuerto de salida de europa habia que hacer el tax-free por lo que mejor ir con tiempo. Además de tener que ir a la terminal 4S que si bien esta conectada por trenes automaticos por el aeopuerto se tarda un buen tiempo, ademas de seguridad y migraciones.
+Al ser un vuelo de salida de Europa, tenía que hacer el tax-free, así que era clave llegar con tiempo. Además, la terminal 4S, aunque está conectada por trenes automáticos, requiere un buen rato para llegar. Sumado a los controles de seguridad y migraciones, valía la pena estar con margen suficiente.
+
 <img src="/images/cronicas/mad-eze/traslado-terminal-4s.jpg" alt="Tren de traslado terminal 4">
 
 Antes de comenzar el embarque los trabajadores de iberia comunicaron que iban a pesar las valijas de mano, algo que nunca me habia pasado. Esta no podía pesar mas de 10.99 kg y habia que pesarla antes de entrar al avión.
@@ -29,7 +30,7 @@ Antes de comenzar el embarque los trabajadores de iberia comunicaron que iban a 
 Después de esperar bastante rato en la manga, ya sentado en el asiento 30A esperando que cierre el embarque. En cuanto a pasajeros, había varios lugares libres, incluso algunas filas de 3 vacías que luego fueron ocupadas por personas.
 <img src="/images/cronicas/mad-eze/asiento-30a.jpg" alt="Asiento 30A">
 
-A la hora y media en el aire la tripulacion nos entregó el desayuno. Un sandwich con una bebida a elección.
+A la hora y media en el aire la tripulación nos entregó el desayuno. Un sandwich con una bebida a elección.
 <img src="/images/cronicas/mad-eze/desayuno.jpg" alt="Desayuno">
 
 Después de unas 3/4 horas del desayuno entregaron el almuerzo, el cual eran dos opciones, el típico pollo o pasta.
@@ -38,7 +39,7 @@ Después de unas 3/4 horas del desayuno entregaron el almuerzo, el cual eran dos
 Llegando al norte de Brasil se sintieron unas fuertes turbulencias, de hecho se tuvo que desvíar para evitar mayores movimientos.
 <img src="/images/cronicas/mad-eze/cabina.jpg" alt="Cabina del avión">
 
-Al llegar a Ezeiza nos recibia el airbus A330 de Aerolíneas Argentinas brandeado de la Selección campeona del mundo.
+Al llegar a Ezeiza además del insoportable calor, nos recibía el airbus A330 de Aerolíneas Argentinas brandeado de la Selección campeona del mundo.
 <img src="/images/cronicas/mad-eze/avion-ar.jpg" alt="Airbus A330 Aerolineas Argentinas">
 
 ## Por ultimo la crónica en Youtube

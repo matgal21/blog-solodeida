@@ -11,7 +11,7 @@ tags:
   - Airbus 350
   - Iberia
 
-pubDate: 2024-03-03
+pubDate: 2025-03-03
 cover: "/images/cronicas/mad-eze/iberia-barajas.jpg"
 coverAlt: Airbus 350 Iberia
 author: Mateo

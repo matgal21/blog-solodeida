@@ -28,30 +28,28 @@ Desde el primer momento, Budapest me atrapó con su mezcla perfecta entre arquit
 
 
 ## Las Mejores Atracciones de Budapest
-* **Parlamento de Budapest**
 <img src="/images/viajes/budapest/parlamento-noche2.jpg" alt="Parlamento húngaro de noche">
 
+* **Parlamento de Budapest**
 Uno de los edificios más impresionantes que vi en mi viaje. Su arquitectura gótica a orillas del Danubio lo convierte en una postal de la ciudad. Se puede hacer una visita guiada por su interior, donde se encuentran las joyas de la corona húngara.
-
-* **Bastión de los Pescadores**
 <img src="/images/viajes/budapest/bastion-pescadores.jpg" alt="Bastión de los pescadores">
 
+* **Bastión de los Pescadores**
 Ubicado en la colina de Buda, este mirador es uno de los lugares con mejores vistas de Budapest. Desde ahí se puede ver todo el Danubio, el Parlamento y gran parte de la ciudad. Además, su diseño parece sacado de un cuento de hadas.
 
-
-* **Puente de las Cadenas**
 <img src="/images/viajes/budapest/parlamento-hungaro2.jpg" alt="Puente de las cadenas">
 
+* **Puente de las Cadenas**
 Uno de los símbolos de la ciudad, especialmente de noche cuando se ilumina. Es perfecto para cruzar caminando de Buda a Pest o simplemente para disfrutar de las vistas del río.
 
-* **El parque de la Ciudad: Városliget**
 <img src="/images/viajes/budapest/parque-budapes.jpg" alt="Parque de la ciudad">
 
+* **El parque de la Ciudad: Városliget**
 Lo mejor que se puede hacer en este enorme parque en el centro de la ciudad, aparte de pasear, es alquilar un barco y remar en el lago Városliget. También se puede patinar en el estanque en invierno, cuando se convierte en la pista de hielo más popular de la ciudad.  
 
-* **La Plaza de los Héroes**
 <img src="/images/viajes/budapest/monumento.jpg" alt="Plaza de los Héroes">
 
+* **La Plaza de los Héroes**
 Es un hermoso monumento construido para conmemorar a los líderes húngaros. La Plaza de los Héroes conecta convenientemente la Avenida Andrássy con el Parque de la Ciudad, por lo que es un complemento perfecto para un paseo en cualquier dirección.
 
 ## ¿Qué Me Pareció Budapest?

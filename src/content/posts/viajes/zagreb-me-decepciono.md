@@ -18,3 +18,5 @@ cover: "/images/alemania/parlamento/parlamento-interior.jpg"
 coverAlt: Catedral de Cracovia
 author: Mateo 
 ---
+
+Cuando agregé a Zagreb al itinerario de viaje, pensaba en una ciudad muy distinta a la que terminó siendo. 

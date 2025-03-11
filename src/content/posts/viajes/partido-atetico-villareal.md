@@ -13,7 +13,7 @@ tags:
   - Fútbol
   - Liga española
 
-pubDate: 2024-03-07
+pubDate: 2024-03-06
 cover: "/images/viajes/partido-atleti/Atletico.jpg"
 coverAlt: Estadio del Atletico de Madrid
 author: Mateo 
@@ -49,4 +49,9 @@ Realmente se nota que se un estadio moderno y nuevo.
 El partido fue por la fecha 21 de la liga española, contra el **Villareal** y terminó en **empate 1-1**. Haber podido ver un partido de este calibre además de ver a **Julián Álvarez** en vivo fue un gran momento de mi viaje.
 
 <img src="/images/viajes/partido-atleti/subte-post-partido.jpg" alt="Subte de Madrid post partido del aleti"> 
-Por último la salida del estadio se dió con mucho orden y tranquilidad, tanto que hasta el subte tiene una organizacion especial post partido para que se pueda usar de manera civilizada. Había policías ordenando y gestionando el ingreso a los vagones del subte para que no colapsaran y se pueda ingresar.
+Por último la salida del estadio se dió con mucho orden y tranquilidad, tanto que hasta el subte tiene una organizacion especial post partido para que se pueda usar de manera civilizada. Había policías y personal del metro ordenando y gestionando el ingreso a los vagones del subte para que no colapsaran y se pueda ingresar.
+
+## Por último el video en Youtube
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/iEEr10RKoBE" title="PARTIDO ATLÉTICO DE MADRID CONTRA VILLAREAL POR LIGA ESPAÑOLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>

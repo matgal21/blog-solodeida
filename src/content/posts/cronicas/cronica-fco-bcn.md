@@ -20,6 +20,7 @@ coverAlt: Airbus 321neo ITA Airways
 author: Mateo
 ---
 
+
 Este vuelo comenzó en el enorme y tremendo Aeropuerto de Roma Fiumicino, al cual se puede llegar desde el centro de Roma en tren de una manera bastante rápida y a buen precio.
 <img src="/images/cronicas/fco-bcn/fco-dentro.jpg" alt="Aeropuerto Roma-Fiumicino por dentro">
 

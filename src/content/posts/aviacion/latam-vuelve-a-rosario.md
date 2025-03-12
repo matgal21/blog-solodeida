@@ -1,6 +1,6 @@
 ---
 title: LATAM vuelve a Rosario después de 5 años
-slug: latam-vuelve-a-rosario
+slug: aviacion/latam-vuelve-a-rosario
 description: LATAM Airlines vuelve a conectar Rosario con Lima.
 category:
   - General

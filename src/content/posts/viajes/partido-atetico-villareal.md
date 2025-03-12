@@ -13,7 +13,7 @@ tags:
   - Fútbol
   - Liga española
 
-pubDate: 2024-03-06
+pubDate: 2024-03-14
 cover: "/images/viajes/partido-atleti/Atletico.jpg"
 coverAlt: Estadio del Atletico de Madrid
 author: Mateo 

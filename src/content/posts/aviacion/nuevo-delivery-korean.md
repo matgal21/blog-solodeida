@@ -21,13 +21,13 @@ author: Mateo
 ## Detalles del Nuevo Diseño
 <img src="/images/aviacion/delivery-korean/korean.jpeg" alt="Nuevo avión Korean Airlines">
 
-**Paleta de Colores**: La nueva librea mantiene el característico azul claro en el fuselaje, pero incorpora un efecto metálico que le otorga un aspecto más moderno y elegante. 
+**Paleta de Colores**: el nuevo delivery mantiene el característico azul claro en el fuselaje, pero incorpora un efecto metálico que le otorga un aspecto más moderno y elegante. 
 
 
-**Tipografía**: La palabra "Korean" se presenta en una fuente azul oscuro modernizada, aportando una imagen más contemporánea a la marca. 
+**Tipografía**: la palabra "Korean" se presenta en una fuente azul oscuro modernizada, aportando una imagen más contemporánea a la marca. 
 
 
-**Símbolo Taeguk**: El tradicional símbolo taeguk en la cola del avión ha sido simplificado y estilizado en azul oscuro, eliminando el color rojo que anteriormente formaba parte del diseño. 
+**Símbolo Taeguk**: el tradicional símbolo taeguk en la cola del avión ha sido simplificado y estilizado en azul oscuro, eliminando el color rojo que anteriormente formaba parte del diseño. 
 
 
 ## Reacciones y Opiniones

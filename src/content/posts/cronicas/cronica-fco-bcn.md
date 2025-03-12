@@ -14,7 +14,7 @@ tags:
   - Roma
   - Barcelona
 
-pubDate: 2024-03-08
+pubDate: 2024-03-15
 cover: "/images/cronicas/fco-bcn/ita-airways.jpg"
 coverAlt: Airbus 321neo ITA Airways
 author: Mateo

@@ -23,24 +23,19 @@ author: Mateo
 
 **Paleta de Colores**: el nuevo livery mantiene el característico azul claro en el fuselaje, pero incorpora un efecto metálico que le otorga un aspecto más moderno y elegante. 
 
-
 **Tipografía**: la palabra "Korean" se presenta en una fuente azul oscuro modernizada, aportando una imagen más contemporánea a la marca. 
 
-
 **Símbolo Taeguk**: el tradicional símbolo taeguk en la cola del avión ha sido simplificado y estilizado en azul oscuro, eliminando el color rojo que anteriormente formaba parte del diseño. 
-
 
 ## Reacciones y Opiniones
 <img src="/images/aviacion/delivery-korean/korean-avion3.jpg" alt="Presentación del avión Korean Airlines">
 
 La comunidad de la aviación ha mostrado opiniones divididas respecto a este cambio. Mientras algunos elogian la modernización y el enfoque minimalista del nuevo diseño, otros consideran que se ha perdido parte de la identidad coreana que caracterizaba a la aerolínea. Comentarios en redes sociales reflejan esta diversidad de opiniones, desde apreciaciones positivas hasta críticas que señalan una pérdida de esencia en la nueva imagen. 
 
-
 ## Contexto de la Renovación
 <img src="/images/aviacion/delivery-korean/korean3.jpeg" alt="Nuevo avión Korean Air en el aire">
 
 Este rediseño se enmarca en la reciente adquisición de Asiana Airlines por parte de Korean Air, una operación valorada en 1.300 millones de dólares. La fusión posiciona a Korean Air como una de las aerolíneas más grandes de Asia, representando más de la mitad de la capacidad de pasajeros de Corea del Sur y situándose como la duodécima a nivel mundial en capacidad internacional. 
-
 
 ## Implementación Progresiva
 <img src="/images/aviacion/delivery-korean/korean4.jpeg" alt="Diferencias entre el nuevo livery y el antiguo">

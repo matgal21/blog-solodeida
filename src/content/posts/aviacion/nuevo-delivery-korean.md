@@ -9,6 +9,7 @@ tags:
   - Korean Air
   - Vuelos 
   - Aviones
+  - Livery
 pubDate: 2025-03-12
 cover: "/images/aviacion/delivery-korean/portada-korean.jpg"
 coverAlt: Avión Korean Airlines

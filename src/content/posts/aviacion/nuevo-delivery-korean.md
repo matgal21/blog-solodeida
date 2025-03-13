@@ -10,7 +10,7 @@ tags:
   - Vuelos 
   - Aviones
 pubDate: 2025-03-12
-cover: "/images/aviacion/livery-korean/portada-korean.jpg"
+cover: "/images/aviacion/delivery-korean/portada-korean.jpg"
 coverAlt: Avión Korean Airlines
 author: Mateo 
 ---

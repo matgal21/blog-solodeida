@@ -18,7 +18,6 @@ author: Mateo
 
 **Korean Air** ha presentado recientemente una renovación completa de su imagen corporativa, incluyendo un nuevo diseño para sus aviones, como parte de su proceso de fusión con **Asiana Airlines**. 
 
-
 ## Detalles del Nuevo Diseño
 <img src="/images/aviacion/delivery-korean/korean.jpeg" alt="Nuevo avión Korean Airlines">
 

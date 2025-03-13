@@ -3,7 +3,7 @@ title: Nuevo livery en los aviones de Korean Air
 slug: aviacion/nuevo-livery-de-korean-air
 description: La aerolínea sur coreana cambia el diseño de su flota.
 category:
-  - Aviacación
+  - Aviación
 tags:
   - Corea del Sur
   - Korean Air

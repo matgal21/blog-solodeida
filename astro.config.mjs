@@ -67,6 +67,7 @@ export default defineConfig({
         output: {
           hoistTransitiveImports: false,
         },
+        external: ['zwitch'], // Añadir zwitch a la lista de dependencias externas si sigues teniendo problemas.
       },
     },
   },

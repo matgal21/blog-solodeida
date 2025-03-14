@@ -58,7 +58,6 @@ export default defineConfig({
         output: {
           hoistTransitiveImports: false,
         },
-        external: ['zwitch'], // Mantén esto si sigues teniendo problemas con zwitch.
       },
     },
   },

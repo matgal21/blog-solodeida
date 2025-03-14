@@ -8,22 +8,14 @@ import icon from "astro-icon";
 import tailwind from "@astrojs/tailwind";
 import react from '@astrojs/react';
 
-
-
-
 // https://astro.build/config
 export default defineConfig({
   site: "https://solodeida.com/",
   trailingSlash: "always",
 
-
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport',
-  },
-
-  experimental: {
-    contentCollectionCache: true,
   },
 
   image: {
@@ -58,16 +50,15 @@ export default defineConfig({
         tabler: ["*"],
       },
     }),
-    
   ],
-  
+
   vite: {
     build: {
       rollupOptions: {
         output: {
           hoistTransitiveImports: false,
         },
-        external: ['zwitch'], // Añadir zwitch a la lista de dependencias externas si sigues teniendo problemas.
+        external: ['zwitch'], // Mantén esto si sigues teniendo problemas con zwitch.
       },
     },
   },

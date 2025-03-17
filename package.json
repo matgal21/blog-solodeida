@@ -1,6 +1,6 @@
 {
   "name": "blog-solodeida",
-  "type": "commonjs",
+  "type": "module",
   "version": "4.8.0",
   "scripts": {
     "dev": "astro dev",

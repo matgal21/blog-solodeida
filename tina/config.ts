@@ -1,5 +1,7 @@
 import { defineConfig } from "tinacms";
 
+const NEXT_PUBLIC_TINA_CLIENT_ID = "ee9f497e-8ac0-4ec5-a301-ea3eac105a23";
+const TINA_TOKEN = "ea27bce51aea9718fba25b74617e97e1188de9d5";
 // Your hosting provider likely exposes this as an environment variable
 const branch =
   process.env.GITHUB_BRANCH ||

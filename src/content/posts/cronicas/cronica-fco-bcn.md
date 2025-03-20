@@ -14,12 +14,13 @@ tags:
   - Roma
   - Barcelona
 
-pubDate: 2025-03-17
+pubDate: 2025-03-18
 cover: "/images/cronicas/fco-bcn/ita-airways.jpg"
 coverAlt: Airbus 321neo ITA Airways
 author: Mateo
 ---
 
+## Primera vez volando con ITA Airways
 
 Este vuelo comenzó en el enorme y tremendo Aeropuerto de Roma Fiumicino, al cual se puede llegar desde el centro de Roma en tren de una manera bastante rápida y a buen precio.
 <img src="/images/cronicas/fco-bcn/fco-dentro.jpg" alt="Aeropuerto Roma-Fiumicino por dentro">

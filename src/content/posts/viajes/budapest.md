@@ -18,6 +18,7 @@ cover: "/images/viajes/budapest/parlamento-hungaro.jpg"
 coverAlt: Parlamento Budapest
 author: Mateo 
 ---
+
 ## Budapest la ciudad que superó todas mis expectativas 
 
 Cuando planeaba mi viaje por Europa, **Budapest** era uno de esos destinos que tenía ganas de conocer, pero no imaginaba lo increíble que podía ser hasta que estuve ahí. Después de recorrer sus calles, conocer su historia y vivir su ambiente, puedo decir que Budapest es una de las ciudades que más me sorprendió.

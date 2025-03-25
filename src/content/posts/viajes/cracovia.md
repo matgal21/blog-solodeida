@@ -13,7 +13,7 @@ tags:
   - Castillo de Babel
   - Catedral
 
-pubDate: 2024-03-25
+pubDate: 2025-03-25
 cover: "/images/viajes/cracovia/catedral-cracovia.jpg"
 coverAlt: Catedral de Cracovia
 author: Mateo 

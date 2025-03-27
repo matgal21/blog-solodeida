@@ -12,22 +12,22 @@ tags:
   - Antártida
 
 pubDate: 2024-11-28
-cover: "/images/armada argentina/armada-2.png"
+cover: "/images/aviacion/armada argentina/armada-2.png"
 coverAlt: Foto de avión B200
 author: Mateo
 ---
 
 ## Un hito histórico: la Armada Argentina vuelve a la Antártida tras 51 años
 
-<img src="/images/armada argentina/armada3.png" alt="">
+<img src="/images/aviacion/armada argentina/armada3.png" alt="">
 
 La **Armada Argentina** acaba de escribir un nuevo capítulo en la historia de su vinculación con la **Antártida**. Después de 51 años, un **avión B200** completó con éxito un vuelo desde la **Base Aeronaval Río Grande** hasta la **Base Antártica Petrel**, con el apoyo estratégico de un avión **P3C Orión**. Este logro representa un avance significativo en los esfuerzos logísticos y operativos de nuestro país en el continente blanco.
 
-<img src="/images/armada argentina/armada4.png" alt="">
+<img src="/images/aviacion/armada argentina/armada4.png" alt="">
 
 El regreso de las operaciones aéreas argentinas a la Antártida no solo reafirma el compromiso con la **presencia soberana** en esta región, sino que también destaca la capacidad de superar **desafíos técnicos, climáticos y logísticos**. Este vuelo simboliza un puente entre el pasado y el futuro, reconociendo el trabajo de las generaciones previas que forjaron la historia antártica argentina y allanando el camino para nuevas oportunidades de exploración y cooperación científica
 
-<img src="/images/armada argentina/armada-antartida.jpg" alt="">
+<img src="/images/aviacion/armada argentina/armada-antartida.jpg" alt="">
 
 La **Base Petrel**, además de su importancia estratégica, forma parte de las iniciativas para revitalizar la infraestructura en el continente antártico, contribuyendo a las investigaciones y al sostenimiento de la actividad argentina en la zona.
 

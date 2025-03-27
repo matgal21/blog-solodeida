@@ -1,6 +1,6 @@
 ---
 title: Visita guiada al Parlamento alemán
-slug: visita-guiada-al-parlamento-aleman
+slug: viajes/visita-guiada-al-parlamento-aleman
 description: Este histórico edificio es una visita obligada en Berlin.
 category:
   - Viajes

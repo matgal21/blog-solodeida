@@ -5,14 +5,14 @@ description: La aerolínea colombiana anunció vuelos diarios a partir del 16 de
 category:
   - General
 tags:
-  - Corea del Sur
+  - Colombia
   - Korean Air
   - Vuelos 
   - Aviones
   - Livery
-pubDate: 2025-03-12
+pubDate: 2024-04-02
 cover: "/images/aviacion/delivery-korean/portada-korean.jpg"
-coverAlt: Avión Korean Airlines
+coverAlt: Airbus 320
 author: Mateo 
 ---
 

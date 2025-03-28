@@ -32,7 +32,7 @@ Moderna, amigable y con una historia impresionante, la capital de Polonia tiene 
 Mi viaje comenzó en Berlín, donde tomé un tren polaco de larga distancia rumbo a Varsovia. El trayecto fue cómodo y bastante puntual, con vagones modernos y buen espacio para viajar relajado.
 <img src="/images/viajes/varsovia/estacion-trenes.jpg" alt="Estación Central de Varsovia">
 
-Al llegar, me encontré con la Estación Central de Varsovia (Warszawa Centralna), que me sorprendió por su tamaño y modernidad. Es un punto clave de transporte en Polonia, con conexiones a otras ciudades del país y de Europa.
+Al llegar a la Estación Central de Varsovia (Warszawa Centralna), me sorprendió por su tamaño y modernidad. Es un punto clave de transporte en Polonia, con conexiones a otras ciudades del país y de Europa.
 
 ## Descubriendo el Casco Antiguo y su Historia
 <img src="/images/viajes/varsovia/palacio-de-cultura.jpg" alt="Palacio de Ciencia y Cultura">

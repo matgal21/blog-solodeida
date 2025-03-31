@@ -1,5 +1,5 @@
 ---
-title: SWISS Recibe su Primer Airbus A350
+title: SWISS recibe su primer Airbus A350
 slug: aviación/swiss-recibe-su-primer-airbus-350
 description: La aerolíea de Suiza recibió su primer Airbus A350.
 category:
@@ -11,7 +11,8 @@ tags:
   - Airbus
   - Airbus 350
   - Livery
-
+  - Aerolíneas
+  
 pubDate: 2025-03-21
 cover: "/images/aviacion/airbus-350-swiss/A350_Rendering_3.jpg"
 coverAlt: Airbus A350 de Swiss

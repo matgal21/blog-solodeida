@@ -12,7 +12,7 @@ tags:
   - Segunda Guerra Mundial
   - Palacio de Cultura y Ciencia
 
-pubDate: 2024-03-29
+pubDate: 2025-03-31
 cover: "/images/viajes/varsovia/centro-historico.jpg"
 coverAlt: Parlamento Alemán
 author: Mateo 

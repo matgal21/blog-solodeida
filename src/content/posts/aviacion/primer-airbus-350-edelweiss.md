@@ -1,5 +1,5 @@
 ---
-title: EDELWEISS recibió su primer airbus 350.
+title: EDELWEISS recibió su primer airbus 350
 slug: aviacion/edelweiss-recibio-su-primer-airbus
 description: La aerolínea de suiza recibió este moderno avión.
 category:
@@ -9,9 +9,10 @@ tags:
   - Viajes
   - General
   - Turismo
-  - Aerolineas 
+  - Aerolíneas 
   - Edelweiss
   - Airbus 350
+  
 pubDate: 2025-03-28
 cover: "/images/aviacion/primer-airbus-edelweiss/edelweiss1.jpeg"
 coverAlt: Airbus 350 Edelweiss

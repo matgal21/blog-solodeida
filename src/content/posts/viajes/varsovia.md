@@ -14,7 +14,7 @@ tags:
 
 pubDate: 2025-03-31
 cover: "/images/viajes/varsovia/centro-historico.jpg"
-coverAlt: Parlamento Alemán
+coverAlt: Centro de la ciudad de Varsovia
 author: Mateo 
 ---
 
@@ -23,7 +23,7 @@ author: Mateo
 Cuando planeé mi viaje, Varsovia era una de esas ciudades a las que tenía muchas ganas de ir. Y con solo dos días, logró sorprenderme y dejarme con ganas de quedarme más tiempo.
 <img src="/images/viajes/varsovia/mirador-downtown.jpg" alt="Vista del mirador de Palacio de Ciencia y Cultura">
 
-Moderna, amigable y con una historia impresionante, la capital de Polonia tiene una energía única que mezcla su pasado con su presente. Si bien dos días alcanzaron para ver lo esencial, sin dudas me hubiera gustado tener más tiempo para explorarla a fondo.
+Una ciudad moderna, amigable y con una historia impresionante, la capital de Polonia tiene una energía única que mezcla su pasado con su presente. Si bien dos días alcanzaron para ver lo esencial, sin dudas me hubiera gustado tener más tiempo para explorarla a fondo.
 <img src="/images/viajes/varsovia/varsovia-noche.jpg" alt="Centro histórico de noche">
 
 

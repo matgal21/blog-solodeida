@@ -14,7 +14,7 @@ tags:
   - Livery
   - Atlanta
   - Airbus 350
-pubDate: 2024-04-16
+pubDate: 2024-04-08
 cover: "/images/aviacion/100-años-delta/delta3.jpeg"
 coverAlt: Airbus 350 livery 100 años Delta
 author: Mateo

@@ -13,7 +13,7 @@ tags:
   - Argentina 
   - Bogotá
 
-pubDate: 2024-04-07
+pubDate: 2024-04-03
 cover: "/images/general/avianca-cordoba/airbus-320.png"
 coverAlt: Airbus 320 de Avianca
 author: Mateo 

@@ -12,7 +12,7 @@ tags:
   - Mirador
   - Palacio de Cultura y Ciencia
 
-pubDate: 2024-03-31
+pubDate: 2025-04-03
 cover: "/images/viajes/varsovia/mirador-noche.jpg"
 coverAlt: Palacio de Ciencia y Cultura
 author: Mateo 

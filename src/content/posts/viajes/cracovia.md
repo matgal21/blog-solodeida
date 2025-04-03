@@ -27,14 +27,14 @@ author: Mateo
 Desde palacios e iglesias que hacen recordar el pasado, todavía se puede apreciar lo que era una muralla que cubría esta ciudad.
 
 
-## Mi Viaje a Cracovia: Una Ciudad de Cuento Bajo la Nieve 
+## Una Ciudad de cuento bajo la nieve 
 <img src="/images/viajes/cracovia/centro-historico.jpg" alt="Centro histórico de Cracovia noche">
 Cracovia fue una de esas ciudades que me sorprendió desde el primer momento. Con su historia, su arquitectura medieval y su ambiente encantador, es el destino perfecto para recorrer caminando y perderse en sus calles llenas de historia.
 
 <img src="/images/viajes/cracovia/cielo-hermoso.jpg" alt="Hermoso cielo en Cracovia">
 Pero lo que hizo que mi experiencia fuera aún más especial (y desafiante) fue el clima: nevó todos los días y fue probablemente uno de los lugares más fríos en los que estuve. A pesar del frío intenso, la nieve le dio a la ciudad un aire mágico, como sacado de un cuento de hadas.
 
-## Un Centro Histórico Perfecto para Recorrer a Pie 
+## Un centro histórico perfecto para recorrer a pie 
 <img src="/images/viajes/cracovia/castillo-wawel.jpg" alt="Castillo de Wawel en Cracovia">
 Si hay algo que hace especial a Cracovia es su casco histórico, que es uno de los mejores conservados de Europa y ha sido declarado Patrimonio de la Humanidad por la UNESCO.
 
@@ -44,13 +44,13 @@ Si hay algo que hace especial a Cracovia es su casco histórico, que es uno de l
 
 *  **Las calles del casco antiguo**: Caminar por Cracovia es un placer, incluso con el frío. Sus calles adoquinadas, los cafés con aroma a chocolate caliente y la arquitectura medieval hacen que cada rincón tenga un encanto único.
 
-## Frío Extremo y Nieve Todos los Días 🌨️🥶
+## Frío extremo y nieve todos los días 
 <img src="/images/viajes/cracovia/plaza-nevada.jpg" alt="Plaza Nevada en Cracovia">
 Si bien ya había estado en otros destinos fríos, Cracovia fue, sin dudas, uno de los lugares más helados que visité. La temperatura estuvo siempre en negativo, y con la nieve constante, la sensación térmica bajaba aún más.
 
 Caminar bajo la nieve fue una experiencia increíble, aunque había momentos en los que el frío se volvía desafiante. Cada parada en un café era una salvación para entrar en calor.
 
-## Conclusión: Una Ciudad Que Superó Mis Expectativas
+## Conclusión: una ciudad Que superó mis expectativas
 <img src="/images/viajes/cracovia/rio-vistula.jpg" alt="Rio Vistula nevado desde el Castillo de Wawel en Cracovia">
 Cracovia me pareció una ciudad hermosa, vibrante y perfecta para recorrer caminando. A pesar del frío extremo, la nieve le dio un toque especial y transformó la experiencia en algo único. Es un destino que recomendaría sin dudar, tanto por su historia como por su belleza.
 

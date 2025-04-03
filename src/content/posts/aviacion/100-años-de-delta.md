@@ -1,5 +1,4 @@
 ---
-
 title: Delta celebra su centenario con un livery especial
 slug: aviacion/delta-celebra-se-centenario-con-un-livery-especial
 description: Un airbus A350 con un diseño por los 100 años.

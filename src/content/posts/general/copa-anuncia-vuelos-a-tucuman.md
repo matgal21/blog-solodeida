@@ -5,13 +5,15 @@ description: COPA volará a ambas ciudades del interior del país.
 category:
   - General
 tags:
-  - Colombia
-  - Avianca
+  - COPA 
+  - Panamá
   - Vuelos 
   - Aviones
-  - Córdoba
+  - Salta
   - Argentina 
-  - Bogotá
+  - Tucumán
+  - Boeing 737-800
+  
 
 pubDate: 2025-04-04
 cover: "/images/general/panama-copa/portada-copa.jpg"

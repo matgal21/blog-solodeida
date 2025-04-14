@@ -1,7 +1,7 @@
 ---
 title: Subir al mirador del Palacio de Ciencia y Cultura
 slug: viajes/subir-al-mirador-del-palacio-de-ciencia-y-cultura
-description: Hermosas vistass 360 de la ciudad de Varsovia.
+description: Hermosas vistas 360 de la ciudad de Varsovia.
 category:
   - Viajes
 tags:

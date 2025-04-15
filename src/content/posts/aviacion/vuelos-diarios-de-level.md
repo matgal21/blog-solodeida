@@ -13,15 +13,15 @@ tags:
   - Vuelos
   - Aerolíneas
   
-pubDate: 2024-04-15
-cover: "/public/images/aviacion/level/level2.jpg"
+pubDate: 2024-04-17
+cover: "/images/aviacion/level/level2.jpg"
 coverAlt: Airbus A350 de Swiss
 author: Mateo
 ---
 
 ## LEVEL incrementa sus vuelos entre Barcelona y Buenos Aires
 La aerolínea de bajo costo **LEVEL**, perteneciente al grupo IAG, anunció un importante aumento de frecuencias en su ruta directa entre **Barcelona** y **Buenos Aires**, consolidándose como una de las opciones más accesibles y cómodas para volar entre Europa y Sudamérica.
-<img src="/public/images/aviacion/level/level.jpg" alt="">
+<img src="/images/aviacion/level/level.jpg" alt="">
 
 ## Más vuelos a partir de octubre 2025
 A partir del 26 de octubre de 2025, LEVEL operará hasta 11 vuelos semanales en la ruta Barcelona – Buenos Aires, con el siguiente esquema:
@@ -36,7 +36,7 @@ Este aumento responde a la alta demanda en la ruta y coincide con el verano arge
 
 ## Una conexión clave entre Argentina y Europa
 Con base en el Aeropuerto El Prat de Barcelona, LEVEL ofrece una alternativa low-cost de largo recorrido, permitiendo viajar entre Argentina y Europa con tarifas más accesibles y un modelo flexible, donde cada pasajero elige qué servicios incluir en su vuelo.
-<img src="/public/images/aviacion/level/level3.jpg" alt="">
+<img src="/images/aviacion/level/level3.jpg" alt="">
 
 Este refuerzo en la ruta consolida la posición de LEVEL como una de las pocas aerolíneas que ofrece vuelos directos entre Barcelona y Buenos Aires, facilitando los viajes tanto de turismo como de negocios entre ambos continentes.
 

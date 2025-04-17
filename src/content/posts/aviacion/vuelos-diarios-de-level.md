@@ -1,5 +1,5 @@
 ---
-title: LEVEL tendrá vuelos diarios entre Barcelona y Buenos Aires.
+title: LEVEL tendrá vuelos diarios entre Barcelona y Buenos Aires
 slug: aviación/level-tendra-vuelos-diarios-entre-barcelona-y-buenos-aires
 description: Hasta 11 frecuencias semanales a partir de octubre.
 category:

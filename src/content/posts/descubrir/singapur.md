@@ -1,6 +1,6 @@
 ---
 title: La ciudad-estado del futuro que ya es una realidad
-slug: descubrir/shenzhen-la-increible-ciudad-china
+slug: descubrir/singapur-y-su-futurismo
 description: Una mezcla de futurismo con tecnologia que parece una pelicula.
 category:
   - Descubrir

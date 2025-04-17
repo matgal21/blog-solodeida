@@ -13,9 +13,9 @@ tags:
   - Vuelos
   - Aerolíneas
   
-pubDate: 2024-04-17
+pubDate: 2025-04-17
 cover: "/images/aviacion/level/level2.jpg"
-coverAlt: Airbus A350 de Swiss
+coverAlt: Airbus A330 de Level
 author: Mateo
 ---
 

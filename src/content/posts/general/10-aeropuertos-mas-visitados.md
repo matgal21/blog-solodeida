@@ -9,10 +9,18 @@ tags:
   - Viajes
   - General
   - Turismo
-  - Rumania 
-  - Bulgaria
-  - Espacio Schengen
-pubDate: 2024-04-18
+  - Atlanta 
+  - Dubái
+  - Dallas
+  - Tokio
+  - Londres
+  - Denver
+  - Estambul
+  - Nueva Delhi
+  - Chicago
+  - Shanghai
+
+pubDate: 2025-04-21
 cover: "/images/aeropuertos/atlanta.jpg"
 coverAlt: Aeropuerto de Atlanta
 author: Mateo

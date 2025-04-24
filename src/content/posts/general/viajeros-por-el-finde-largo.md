@@ -56,5 +56,7 @@ Además, refuerza el rol del turismo interno como uno de los sectores más diná
 Para quienes aman viajar por Argentina, este tipo de fechas son una gran oportunidad para conocer nuevos destinos o volver a esos lugares que siempre enamoran.
 Y si bien los precios siguen siendo un tema importante, la demanda demuestra que el deseo de viajar sigue más vivo que nunca.
 
+<img src="/images/general/finde largo/rafting_mendoza_2025.jpg" alt="Rafting en la ciudad de Mendoza">
+
  ¿A dónde te escapaste en esta Semana Santa?
 ¿Preferís la montaña, el mar o alguna ciudad con historia? ¡Te leo en los comentarios!

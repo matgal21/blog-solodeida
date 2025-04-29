@@ -15,8 +15,8 @@ tags:
   - Tarjeta
 
 pubDate: 2024-04-30
-cover: "/public/images/general/finde largo/"
-coverAlt: Hace falta el uso de efectivo al viajar?
+cover: "/images/general/contactless/contactless2.jpg"
+coverAlt: En 2025, hace falta el uso de efectivo al viajar?
 author: Mateo 
 ---
 
@@ -66,5 +66,5 @@ Para viajar sin efectivo, te recomiendo:
 La tecnología cambió la forma de viajar, y el efectivo ya no es imprescindible, al menos en Europa y muchos otros destinos.
 Viajar solo con el celular y una buena tarjeta es posible, más liviano y más seguro.
 
- ¿Vos ya viajaste sin usar efectivo? ¿O te sentís más cómodo teniendo algo en billetes? Contame tu experiencia en los comentarios.
+¿Vos ya viajaste sin usar efectivo? ¿O te sentís más cómodo teniendo algo en billetes? Contame tu experiencia en los comentarios.
 

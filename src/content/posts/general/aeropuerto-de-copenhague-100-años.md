@@ -5,16 +5,16 @@ description: El Aeropuerto de Copenhague (CPH) vivió en abril de 2025 uno de lo
 category:
   - General
 tags:
-  - Ciudades
+  - Copenhague
+  - Aeropuerto
+  - CPH
   - Viajes
   - General
   - Turismo
-  - Estambul 
-  - Londres
-  - Dubái
-pubDate: 2024-05-08
+
+pubDate: 2025-05-08
 cover: "/images/general/aeropuerto-cph/airport-cph2.jpg"
-coverAlt: Foto de Estambul
+coverAlt: Foto aeropuerto de Copenhague
 author: Mateo
 ---
 

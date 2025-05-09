@@ -1,5 +1,5 @@
 ---
-title: LATAM vuela directo entre Buenos Aires y Miami.
+title: LATAM vuela directo entre Buenos Aires y Miami
 slug: aviacion/latam-vuelo-directo-entre-buenos-aires-y-miami
 description: A partir del 1 de diciembre vuelve la ruta Ezeiza-Miami.
 category:

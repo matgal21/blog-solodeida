@@ -11,14 +11,16 @@ tags:
   - Vuelos
   - Premios
 
-pubDate: 2024-05-13
-cover: "/images/general/espacio-iberia/espacio-iberia-5.jpeg"
+pubDate: 2024-05-15
+cover: "/images/aviacion/latam/b787-9.jpg"
 coverAlt: Espacio Iberia en Buenos Aires
 author: Mateo
 ---
 
 ## LATAM gana cuatro premios internacionales y se consolida como líder en Sudamérica
 La aerolínea **LATAM Airlines** fue reconocida recientemente con **cuatro importantes premios** en los PAX International Awards 2025, destacándose como una de las **mejores aerolíneas de Sudamérica** en experiencia a bordo.
+
+<img src="/images/aviacion/latam/premio-latam-pax-internacional.jpg" src="Premios entregados a Latam" >
 
 ## Los premios obtenidos
 * Mejor servicio de comida en Sudamérica

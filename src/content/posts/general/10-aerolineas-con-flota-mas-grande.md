@@ -21,14 +21,14 @@ tags:
   - AirFrance
 
 pubDate: 2025-05-13
-cover: "/public/images/aeropuertos/aerolineas/American_Airlines_787-9_(2-1_crop).jpg"
+cover: "/images/aeropuertos/aerolineas/american.jpg"
 coverAlt: Top 2 American Airlines
 author: Mateo
 ---
 
-## Top 10 Aerolíneas por Tamaño de Flota (2025)
+## Las 10 Aerolíneas con la flota más grande del mundo (2025)
 
-<img src="/public/images/aeropuertos/aerolineas/united2.png" alt="Top 1 United Airlines">
+<img src="/images/aeropuertos/aerolineas/united2.png" alt="Top 1 United Airlines">
 
 ## 1. United Airlines – 1.309 aviones
 Con la entrega de su avión número 1.000 en enero de 2025, United se posiciona como la aerolínea con la flota más grande del mundo.

@@ -1,7 +1,7 @@
 ---
 title: Top 10 aerolíneas con la flota más grande del mundo
-slug: general/10-aerolineas-con-la-flota-mas-grande
-description: Tres aerolineas de Estados Unidos en el top 3.
+slug: general/10-aerolíneas-con-la-flota-mas-grande
+description: Tres aerolíneas de Estados Unidos en el top 3.
 category:
   - General
 tags:

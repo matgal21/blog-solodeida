@@ -14,7 +14,7 @@ tags:
   - Nueva York
   - Glasgow
 
-pubDate: 2024-05-22
+pubDate: 2025-05-22
 cover: "/images/aviacion/global-airlines/global5.jpeg"
 coverAlt: Airbus 380 Global Airlines
 author: Mateo

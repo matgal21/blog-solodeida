@@ -1,5 +1,5 @@
 ---
-title: Global Airlines debuta con su primer vuelo en un Aribus 380
+title: Global Airlines debuta con su primer vuelo en un Airbus 380
 slug: aviacion/global-airlines-debuta-con-su-primer-vuelo-en-un-airbus-380
 description: La ruta inagural que conectó Glasgow con Nueva York.
 category:

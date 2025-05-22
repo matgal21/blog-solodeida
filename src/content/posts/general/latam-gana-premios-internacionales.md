@@ -11,9 +11,9 @@ tags:
   - Vuelos
   - Premios
 
-pubDate: 2024-05-15
+pubDate: 2025-05-26
 cover: "/images/aviacion/latam/b787-9.jpg"
-coverAlt: Espacio Iberia en Buenos Aires
+coverAlt: Latam gana premio
 author: Mateo
 ---
 

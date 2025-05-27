@@ -11,7 +11,7 @@ tags:
   - Vuelos
   - Premios
 
-pubDate: 2024-05-26
+pubDate: 2025-05-27
 cover: "/images/aviacion/latam/b787-9.jpg"
 coverAlt: Latam gana premio
 author: Mateo

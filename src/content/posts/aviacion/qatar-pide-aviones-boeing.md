@@ -1,7 +1,7 @@
 ---
-title: Qatar Airways firma un acuerdo histórico de nuevos aviones
-slug: aviacion/incidente-entre-dos-aviones-de-united
-description: La aerolínea qatari incorporará hasta 100 aviones Boeing's.
+title: Qatar Airways firma un acuerdo histórico de nuevos aviones con Boeing
+slug: aviacion/qatar-airways-firma-un-acuerdo-histórico-de-nuevos-aviones
+description: La aerolínea qatari incorporará hasta 100 aviones Boeing.
 category:
   - Aviación
 tags:
@@ -12,14 +12,15 @@ tags:
   - Estados Unidos
   - Vuelos
 
-pubDate: 2024-11-15
-cover: "/images/iberia/airbus 321 xlr.jpg"
-coverAlt: Boeing 737 american airlines
+pubDate: 2024-06-02
+cover: "/public/images/aeropuertos/aerolineas/qatar.jpg"
+coverAlt: Qatar Airways
 author: Mateo 
 ---
 
 ## Qatar Airways firma un megaacuerdo con Boeing durante la visita de Trump
 Durante una visita oficial del expresidente de Estados Unidos Donald Trump, Qatar Airways anunció un histórico pedido de aviones Boeing, consolidando una de las compras más importantes del año para la industria aeronáutica. La aerolínea catarí, conocida por su servicio premium y moderna flota, dio un nuevo paso en su plan de expansión global con la incorporación de hasta 100 nuevas aeronaves.
+
 
 ## Una firma con fuerte carga política y comercial
 El anuncio fue realizado en Washington D.C., como parte de una visita institucional en la que Trump elogió el acuerdo como una muestra del “compromiso con la creación de empleos estadounidenses y el fortalecimiento de la relación con Qatar”.

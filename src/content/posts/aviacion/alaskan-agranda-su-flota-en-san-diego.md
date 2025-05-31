@@ -1,5 +1,5 @@
 ---
-title: Domus Airways nueva aerolínea disponible en Argentina
+title: Alaskan agranda su flota en San Diego
 slug: aviacion/alaskan-airlines-agranda-su-flota-en-san-diego
 description: El gobierno argentino autorizó a operar a esta aerolínea.
 category:
@@ -14,7 +14,7 @@ tags:
   - Nueva York
   - Glasgow
 
-pubDate: 2025-05-22
+pubDate: 2024-05-22
 cover: "/images/aviacion/domus-airways/domus2.jpg"
 coverAlt: Avión Domus Airways
 author: Mateo

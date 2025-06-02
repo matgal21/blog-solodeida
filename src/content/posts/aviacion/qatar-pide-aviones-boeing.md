@@ -13,21 +13,21 @@ tags:
   - Vuelos
 
 pubDate: 2025-06-02
-cover: "/public/images/aeropuertos/aerolineas/qatar.jpg"
+cover: "/images/aeropuertos/aerolineas/qatar.jpg"
 coverAlt: Qatar Airways
 author: Mateo 
 ---
 
 ## Qatar Airways firma un megaacuerdo con Boeing durante la visita de Trump
 Durante una visita oficial del presidente de Estados Unidos Donald Trump, Qatar Airways anunció un histórico pedido de aviones Boeing, consolidando una de las compras más importantes del año para la industria aeronáutica. La aerolínea catarí, conocida por su servicio premium y moderna flota, dio un nuevo paso en su plan de expansión global con la incorporación de hasta 100 nuevas aeronaves.
-<img src="/public/images/aviacion/qatar/trump-qatar.webp" src="Trump y Emir de Qatar">
+<img src="/images/aviacion/qatar/trump-qatar.webp" src="Trump y Emir de Qatar">
 
 ## Una firma con fuerte carga política y comercial
 El anuncio fue realizado en Washington D.C., como parte de una visita institucional en la que Trump elogió el acuerdo como una muestra del “compromiso con la creación de empleos estadounidenses y el fortalecimiento de la relación con Qatar”.
 El contrato contempla la compra de Boeing 737 MAX, 787 Dreamliner y 777X, cubriendo tanto aviones de corto, medio como largo alcance.
 
 Este acuerdo no solo fortalece la relación bilateral entre ambos países, sino que posiciona a Boeing en una etapa clave, mientras enfrenta una intensa competencia con Airbus y busca reforzar la confianza de sus clientes globales.
-<img src="/public/images/aviacion/qatar/Boeing_Official_Signing_Photo.jpg" src="Trump y Emir de Qatar">
+<img src="/images/aviacion/qatar/Boeing_Official_Signing_Photo.jpg" src="Trump y Emir de Qatar">
 
 
 ## ¿Qué modelos compró Qatar Airways?
@@ -40,7 +40,7 @@ Según los primeros reportes, el pedido incluye:
 **Boeing 787-9 Dreamliner**: aeronave de largo recorrido con gran eficiencia de combustible y confort superior.
 
 Estos nuevos aviones comenzarán a incorporarse a partir de 2026 y renovarán parte de la flota actual, al tiempo que se espera amplíen la red global de rutas de Qatar Airways.
-<img src="/public/images/aviacion/qatar/Boeing_QTR_widebodies_in_flight.jpg" src="Trump y Emir de Qatar">
+<img src="/images/aviacion/qatar/Boeing_QTR_widebodies_in_flight.jpg" src="Trump y Emir de Qatar">
 
 ## ¿Qué significa este acuerdo para la aviación global?
 Este pedido tiene un impacto directo en múltiples niveles:

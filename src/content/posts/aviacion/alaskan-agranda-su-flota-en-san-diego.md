@@ -14,9 +14,9 @@ tags:
   - Nueva York
   - Glasgow
 
-pubDate: 2024-05-22
+pubDate: 2024-06-03
 cover: "/images/aviacion/domus-airways/domus2.jpg"
-coverAlt: Avión Domus Airways
+coverAlt: Avión Alaskan Airlines
 author: Mateo
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Alaskan agranda su flota en San Diego
+title: Alaskan expande sus vuelos en San Diego
 slug: aviacion/alaskan-airlines-agranda-su-flota-en-san-diego
-description: El gobierno argentino autorizó a operar a esta aerolínea.
+description: San Diego un centro clave para la aerolínea de norteamérica.
 category:
   - Aviación
 tags:
@@ -15,7 +15,7 @@ tags:
   - Glasgow
 
 pubDate: 2024-06-03
-cover: "/images/aviacion/domus-airways/domus2.jpg"
+cover: "/public/images/aviacion/alaskan/alaska-airlines-737-taxi-san-diego-international-airport-terminal-2.jpg"
 coverAlt: Avión Alaskan Airlines
 author: Mateo
 ---

@@ -14,7 +14,7 @@ tags:
 
 
 pubDate: 2025-06-05
-cover: "/public/images/general/argentina/feriados/casa-rosada.jpg"
+cover: "/images/general/argentina/feriados/casa-rosada.jpg"
 coverAlt: Casa Rosada
 author: Mateo
 ---

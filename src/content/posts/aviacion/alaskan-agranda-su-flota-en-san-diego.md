@@ -8,20 +8,22 @@ tags:
   - Aviones
   - Viajes
   - General
-  - Domus Airways
-  - Buenos Aires
+  - San Diego
+  - Alaska Airlines
+  - Vuelos
   - Aerolinea
-  - Nueva York
-  - Glasgow
+  - Boeing 737
 
-pubDate: 2024-06-03
-cover: "/public/images/aviacion/alaskan/alaska-airlines-737-taxi-san-diego-international-airport-terminal-2.jpg"
+pubDate: 2025-06-10
+cover: "/images/aviacion/alaskan/alaska-airlines-737-taxi-san-diego-international-airport-terminal-2.jpg"
 coverAlt: Avión Alaskan Airlines
 author: Mateo
 ---
 
 ## Alaska Airlines se expande en San Diego: más vuelos y nuevos destinos sin escalas
-Alaska Airlines continúa consolidando su crecimiento en California con una fuerte apuesta por el Aeropuerto Internacional de San Diego. La aerolínea anunció un incremento del 30% en su operación desde esta ciudad y la incorporación de tres nuevos vuelos directos a destinos estratégicos de Estados Unidos.
+**Alaska Airlines** continúa consolidando su crecimiento en California con una fuerte apuesta por el Aeropuerto Internacional de San Diego. La aerolínea anunció un incremento del 30% en su operación desde esta ciudad y la incorporación de **tres nuevos vuelos** directos a destinos estratégicos de Estados Unidos.
+<img src="/images/aviacion/alaskan/MKT_041825_SAN-New-Routes-Announcement_Route-Maps_Comms-2900x1460-1.webp" alt="Anuncio nuevas rutas Alaskan">
+
 
 ## San Diego, una base cada vez más fuerte
 A partir del invierno 2024-2025, Alaska Airlines operará más de 50 vuelos diarios desde San Diego, convirtiéndose en una de sus principales bases de operaciones fuera del noroeste del Pacífico. Esta expansión refleja el compromiso de la compañía por seguir conectando el sur de California con el resto del país.
@@ -36,6 +38,7 @@ Desde San Diego, ahora podrás volar directamente a:
 * **Tampa, Florida** – Un destino turístico creciente, con playas, parques temáticos y clima cálido todo el año.
 
 Estos nuevos servicios se suman a la red de rutas que Alaska ya opera desde San Diego, incluyendo ciudades clave como Seattle, Portland, San Francisco, Las Vegas, Nueva York y más.
+<img src="/images/aviacion/alaskan/san-diego.webp" alt="Ciudad de San Diego">
 
 ## Compromiso con el crecimiento sostenible
 Además del aumento de frecuencias y rutas, la aerolínea también destacó su enfoque en la sostenibilidad y la experiencia del pasajero. Alaska Airlines ha sido reconocida por su eficiencia ambiental y por ofrecer una de las mejores experiencias de vuelo en Norteamérica.

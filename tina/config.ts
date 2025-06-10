@@ -43,38 +43,38 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
+            type: "string",
+            name: "slug",
+            label: "Slug",
           },
           {
             type: "string",
             name: "description",
             label: "Descripción",
-            isBody: true,
           },
           {
             type: "string",
             name: "category",
             label: "Categoria",
-            isBody: true,
+            options: [
+              { label: "Selecciona una categoría", value: "" }, // Opción por defecto (opcional)
+              { label: "Aviación", value: "- Aviacion" }, // El 'value' es lo que se guarda
+              { label: "Viajes", value: "- Viajes" },
+              { label: "General", value: "- General" },
+              { label: "Descubrir", value: "- Descubrir" }
+              // Puedes añadir más opciones de categoría aquí
+            ],
           },
           {
             type: "string",
             name: "tags",
-            label: "tags",
+            label: "Tags",
+            list: true,
           },
           {
-            type: "string",
-            name: "author",
-            label: "Autor",
-            isBody: true,
-          },
-          {
-            type: "string",
-            name: "coverAlt",
-            label: "Resumen imagen",
+            type: "datetime",
+            name: "pubDate",
+            label: "Date"
           },
           {
             type: "image",
@@ -82,10 +82,22 @@ export default defineConfig({
             label: "Imagen de portada"
           },
           {
-            type: "datetime",
-            name: "pubDate",
-            label: "Date"
+            type: "string",
+            name: "coverAlt",
+            label: "Resumen imagen",
           },
+          {
+            type: "string",
+            name: "author",
+            label: "Autor",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+          
         ],
       },
     ],

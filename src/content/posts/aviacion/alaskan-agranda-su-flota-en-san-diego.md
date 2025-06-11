@@ -1,6 +1,6 @@
 ---
-title: Alaskan expande sus vuelos en San Diego
-slug: aviacion/alaskan-airlines-agranda-su-flota-en-san-diego
+title: Alaska expande sus vuelos en San Diego
+slug: aviacion/alaska-airlines-agranda-su-flota-en-san-diego
 description: San Diego un centro clave para la aerolínea de norteamérica.
 category:
   - Aviación

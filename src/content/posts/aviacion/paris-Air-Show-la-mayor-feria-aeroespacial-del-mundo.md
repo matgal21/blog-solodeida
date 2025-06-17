@@ -1,11 +1,11 @@
 ---
 title: Paris Air Show, la mayor feria aeroespacial del mundo
-slug: paris-air-show-la-mayor-feria-aeroespacial-del-mundo
+slug: aviacion/paris-air-show-la-mayor-feria-aeroespacial-del-mundo
 description: 
   Innovación, grandes acuerdos y tensiones en el evento más importante de la
   aviación mundial.
 category: 
-- Aviacion
+- Aviación
 tags:
   - Feria 
   - Paris Air Show

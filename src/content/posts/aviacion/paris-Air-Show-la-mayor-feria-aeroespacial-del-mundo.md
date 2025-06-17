@@ -22,6 +22,7 @@ author: Mateo
 Del **16 al 22 de junio**, la ciudad de **París** es el centro de la aviación global gracias al regreso del **Paris Air Show**, la feria aérea más importante del mundo. Celebrado en Le Bourget, este evento reúne a más de 2.500 expositores, 210 aeronaves y 300 startups, convirtiéndose en el punto de encuentro clave para fabricantes, aerolíneas, proveedores, fuerzas armadas y medios especializados.
 
 <img src="/public/images/aviacion/paris-air-show/paris-air-show1.jpg" alt="">
+
 ***
 
 ## Un evento cargado de novedades tecnológicas

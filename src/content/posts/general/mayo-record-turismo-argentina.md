@@ -1,5 +1,5 @@
 ---
-title: Mayo rompe récords y consolida el crecimiento del sector aerocomercial enArgentina
+title: Mayo rompe récords y consolida el crecimiento del sector aerocomercial en Argentina
 slug: general/mayo-rompe-records-y-consolida-el-crecimiento-del-sector-aerocomercial-en-argentina
 description: La ANAC confirmó más de 3.5 millones de pasajeros en mayo.
 category: 

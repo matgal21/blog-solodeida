@@ -21,7 +21,7 @@ author: Mateo
 
 La **aerolínea low cost** dominicana **Arajet** anunció oficialmente una nueva ruta directa entre **Punta Cana** (República Dominicana) y **Córdoba** (Argentina), marcando un paso clave en la conectividad internacional de la capital mediterránea. Esta conexión permitirá a los cordobeses viajar al Caribe sin escalas, con precios accesibles y en vuelos modernos.
 
-<img src="/public/images/aviacion/arajet/cordoba/arajet-cordoba.jpg" alt="Conferencia de prensa del anuncio">
+<img src="/images/aviacion/arajet/cordoba/arajet-cordoba.jpg" alt="Conferencia de prensa del anuncio">
 
 ***
 
@@ -31,7 +31,7 @@ La **aerolínea low cost** dominicana **Arajet** anunció oficialmente una nueva
 * **Frecuencia**: aún por confirmar, pero se espera que opere al menos 2 veces por semana. 
 * **Inicio estimado**: segunda mitad de 2025 
 * **Tipo de avión**: Boeing 737 MAX 8 con capacidad para 185 pasajeros 
-<img src="/public/images/aviacion/arajet/cordoba/avion-arajet.jpg" alt="Boeing 737 max Arajet">
+<img src="/images/aviacion/arajet/cordoba/avion-arajet.jpg" alt="Boeing 737 max Arajet">
 
 ***
 
@@ -47,7 +47,7 @@ Esta incorporación se suma a la reciente expansión del Aeropuerto Internaciona
 * **Madrid** (Air Europa) 
 
 La llegada de Arajet refuerza aún más el perfil internacional de Córdoba y la posiciona como la segunda ciudad más conectada del país después de Buenos Aires.
-<img src="/public/images/aviacion/arajet/cordoba/arajet-cordoba4.jpg" alt="Conferencia de prensa del anuncio">
+<img src="/images/aviacion/arajet/cordoba/arajet-cordoba4.jpg" alt="Conferencia de prensa del anuncio">
 
 ## ¿Por qué es clave esta nueva ruta?
 

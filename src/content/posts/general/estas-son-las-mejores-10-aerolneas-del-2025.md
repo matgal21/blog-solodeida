@@ -17,7 +17,7 @@ tags:
   - Swiss
   - Korean Air
   - Qatar Airways
-pubDate: 2024-06-20
+pubDate: 2025-06-30
 cover: "/images/aviacion/qatar/qatar-skytrax.jpg"
 coverAlt: Airbus 350 Qatar Airways
 author: Mateo

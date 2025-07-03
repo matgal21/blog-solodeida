@@ -10,7 +10,11 @@ tags:
   - Italia
   - Roma
   - Madrid
-pubDate: 2024-06-26
+  - Venecia
+  - Barcelona
+  - Turistas
+  - Protestas
+pubDate: 2025-07-03
 cover: "/images/españa/esp y rom.png"
 coverAlt: Madrid y Roma
 author: Mateo
@@ -18,7 +22,9 @@ author: Mateo
 
 ## Sobreturismo en Europa: cómo España e Italia intentan frenar la saturación de sus ciudades más visitadas
 
-En los últimos años, muchas ciudades europeas han alcanzado su punto límite en cuanto a cantidad de visitantes. El fenómeno del sobreturismo —cuando la afluencia de turistas supera la capacidad de carga de un destino— ya no es solo una preocupación ambiental o urbana: es una emergencia social y política.
+En los últimos años, muchas ciudades europeas han alcanzado su punto límite en cuanto a cantidad de visitantes. El fenómeno del sobreturismo —cuando la afluencia de turistas supera la capacidad de carga de un destino— ya no es solo una preocupación ambiental o urbana: es una emergencia social.
+
+<img src="/images/españa/protestas-bcn2.webp" alt="Protestas en la ciudad de Barcelona">
 
 Ciudades como Barcelona, Venecia, Roma y Málaga comenzaron a tomar medidas concretas en 2025 para reducir el impacto del turismo masivo y proteger la calidad de vida local. Esta transformación afecta directamente a quienes planean visitar Europa en los próximos meses.
 
@@ -34,6 +40,7 @@ El sobreturismo ocurre cuando los visitantes:
 * Transforman barrios enteros en zonas exclusivamente para turistas. 
 
 El problema no es el turismo en sí, sino la falta de regulación y planificación que lo convierten en invasivo.
+<img src="/images/españa/en-europa-los-residentes-las-grandes-ciudades-estan-hartos-del-turismo-masas-y-espana-esta-es-una-tendencia-cada-vez-mas-comun.webp" alt="Carteles de Turistas vuelvan a casa">
 
 ***
 
@@ -52,6 +59,9 @@ En junio de 2025 hubo manifestaciones coordinadas en varias ciudades de España,
 
 Ciudades como Sevilla y Palma de Mallorca aplican nuevas tasas de alojamiento para desincentivar el turismo barato y financiar infraestructura.
 
+<img src="/images/españa/protestas-contra-el-turismo-masas-tenerife-las-islas-canarias.webp" alt="Protestas en la Isla de Canarias">
+
+
 ***
 
 ## ¿Y qué pasa en Italia?
@@ -65,6 +75,8 @@ Desde abril, Venecia cobra una tarifa de ingreso de 5 euros a turistas que no se
 * La ciudad también impuso límites de acceso a lugares como el Puente de Rialto y controla el flujo con sensores. 
 * En Cinque Terre, se estudia implementar cupos máximos diarios para preservar el equilibrio del ecosistema. 
 
+<img src="/images/españa/protestas-en-venecia.avif" alt="Protestas en la ciudad de Venecia">
+
 ***
 
 ## ¿Cómo afecta esto a tu próximo viaje?
@@ -76,8 +88,10 @@ Si planeás viajar a Europa:
 * Considerá visitar ciudades menos conocidas, que también tienen encanto pero menos saturación. 
 * Practicá un turismo responsable: respetá las normas locales, cuidá los espacios y sé consciente del entorno. 
 
+<img src="/images/españa/protestas-bcn.avif" alt="Protestas en la ciudad de Barcelona">
+
 ***
 
 ## Reflexión final
 
-El turismo debe ser una experiencia enriquecedora tanto para el visitante como para el destino. Lo que está pasando en España e Italia nos recuerda que viajar también implica responsabilidad. El futuro del turismo será más consciente, sostenible y regulado, y todos tenemos un rol en esa transformación.
+El turismo debe ser una experiencia enriquecedora tanto para el visitante como para el destino. Lo que está pasando en España e Italia nos recuerda que viajar también implica responsabilidad. El futuro del turismo será más consciente, sostenible, y todos tenemos un rol en esa transformación.

@@ -11,7 +11,7 @@ tags:
   - Manchester
   - Ámsterdam
   - Bombay
-pubDate: 2024-07-07
+pubDate: 2025-07-07
 cover: "/images/aviacion/indigo/indigocover.jpg"
 coverAlt: Boeing 787-9 Dreamliner IndiGo
 author: Mateo

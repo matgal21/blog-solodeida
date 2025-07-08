@@ -20,7 +20,7 @@ author: Mateo
 
 ***
 
-La aerolínea del Estado Mexicano, que recientemente volvió a los cielos, ha anunciado una importante adquisición que marcará un antes y un después en su capacidad operativa y expansión de rutas. 
+La aerolínea del Estado Mexicano, ha anunciado una importante adquisición para su flota que mejorará en su capacidad operativa y expansión de rutas. 
 <img src="/images/aviacion/mexicana/mexicana7.avif" alt="Embraer E2 Mexicana de Aviación">
 Mexicana de Aviación ha firmado un acuerdo para la compra de 20 aviones Embraer E2, divididos en 10 E190-E2 y 10 E195-E2. Esta es la primera vez que la aerolínea integra aviones de Embraer a su flota, marcando un hito significativo.
 
@@ -57,4 +57,3 @@ La decisión de Mexicana de Aviación de incorporar los E2 de Embraer no es casu
 
 Esta adquisición de 20 aviones Embraer E2 es un paso crucial en la estrategia de expansión y consolidación de Mexicana de Aviación. No solo aumentará significativamente su capacidad de asientos, sino que también le permitirá modernizar su flota y competir de manera más efectiva en el mercado aéreo nacional e internacional.
 
-Para los viajeros, esto significa más opciones de vuelos, rutas potencialmente nuevas y una experiencia de viaje mejorada en aeronaves de vanguardia. La llegada de los E2 a la flota de Mexicana es una clara señal del compromiso de la aerolínea con el crecimiento y la modernización del transporte aéreo en México.

@@ -57,10 +57,10 @@ export default defineConfig({
             name: "category",
             label: "Categoria",
             options: [
-              { label: "Selecciona una categoría", value: "" }, // Opción por defecto (opcional)
-              { label: "Aviación", value: "- Aviacin" }, // El 'value' es lo que se guarda
-              { label: "Viajes", value: "- Viajes" },
               { label: "General", value: "- General" },
+              { label: "Viajes", value: "- Viajes" },
+              { label: "Crónicas", value: "- Crónicas" }, 
+              { label: "Aviación", value: "- Aviación" }, // El 'value' es lo que se guarda
               { label: "Descubrir", value: "- Descubrir" }
               // Puedes añadir más opciones de categoría aquí
             ],

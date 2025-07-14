@@ -46,6 +46,7 @@ Para 2025, la lista de los 10 principales aeropuertos nos muestra una predominan
 6. **Hong Kong International Airport (HKG)**: Destaca por sus modernas instalaciones y su amplia gama de opciones de compras y entretenimiento, manteniendo su posición como un centro neurálgico en Asia.![Aeropuerto de Hong Kong](/images/aeropuertos/hong-kong.webp)
 
 7. **Paris Charles de Gaulle Airport (CDG)**: El aeropuerto internacional más grande de Francia, conocido por su tamaño, sus múltiples conexiones y una oferta de servicios que ha mejorado constantemente.![Aeropuerto de París](/images/aeropuertos/cdg.jpg)
+npx tinacms dev -c "astro dev --port 8080"
 
 8. **Rome Fiumicino Airport (FCO)**: Un aeropuerto internacional que sirve a Roma, reconocido por sus notables mejoras recientes en la eficiencia y la calidad de sus servicios al pasajero.![Aeropuerto de Roma](/images/aeropuertos/fco-airport.jpeg)
 

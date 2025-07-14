@@ -1,6 +1,15 @@
 ---
-title: de berlin a varsovia en tren polaco
+title: De berlin a varsovia en tren polaco
 slug: viajes/de-berlin-a-varsovia-en-tren-polaco
+description: Linda experiencia entre estas dos hermosas ciudades.
+category:
+  - Viajes
+tags:
+  - Tren
+pubDate: 2024-06-05
+cover: "/images/viajes/tren-berlin-varsovia/pkp-intercity-train.jpg"
+coverAlt: Tren Polaco de Berlin a Varsovia
+author: Mateo 
 ---
 
 ## Experiencia de viaje: De Berlín a Varsovia en tren con PKP Intercity

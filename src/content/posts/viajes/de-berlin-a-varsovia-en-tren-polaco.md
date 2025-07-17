@@ -6,7 +6,7 @@ category:
   - Viajes
 tags:
   - Tren
-pubDate: 2024-06-05
+pubDate: 2024-07-18
 cover: "/images/viajes/tren-berlin-varsovia/pkp-intercity-train.jpg"
 coverAlt: Tren Polaco de Berlin a Varsovia
 author: Mateo 

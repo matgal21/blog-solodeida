@@ -24,7 +24,7 @@ author: Mateo
 
 <img src="/images/aviacion/luxair/avion-luxair2.jpeg" alt="Avión ATR de Luxair">
 
-La aerolínea de Luxemburgo , **Luxair**, la aerolínea de bandera de Luxemburgo, ha anunciado un ambicioso plan de expansión de su red para 2026, añadiendo **ocho nuevas rutas** directas que conectarán la pequeña pero estratégica capital europea con destinos variados, desde playas paradisíacas hasta ciudades históricas y culturales. Esta expansión fortalece el rol de Luxemburgo como un hub cada vez más interesante.
+**Luxair**, la aerolínea de bandera de Luxemburgo, ha anunciado un ambicioso plan de expansión de su red para 2026, añadiendo **ocho nuevas rutas** directas que conectarán la pequeña pero estratégica capital europea con destinos variados, desde playas paradisíacas hasta ciudades históricas y culturales. Esta expansión fortalece el rol de Luxemburgo como un hub cada vez más interesante.
 
 ***
 

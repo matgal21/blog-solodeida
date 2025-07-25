@@ -12,7 +12,7 @@ tags:
 author: Mateo 
 coverAlt: Ciudad de Ucrania Kiev
 cover: "/images/ucrania/lugares-seguros-visitar-ucrania.jpg.webp"
-pubDate: 2024-07-24
+pubDate: 2024-07-28
 ---
 
 ## ¿Es posible el turismo durante una guerra?

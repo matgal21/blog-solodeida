@@ -9,7 +9,7 @@ tags:
   - Arajet
   - República Dominicana
   - Buenos Aires
-pubDate: 2025-07-31
+pubDate: 2025-07-28
 cover: "/images/aviacion/arajet/arajet-fuera.jpg"
 coverAlt: Boeing 737 Max Arajet
 author: Mateo
@@ -17,7 +17,7 @@ author: Mateo
 
 ## Arajet: el puente de bajo costo que conecta Argentina con el Caribe y el sueño Americano
 
-![](/images/aviacion/arajet/interior-arajet.jpg)
+![Interior de avión Arajet](/images/aviacion/arajet/interior-arajet.jpg)
 
 ***
 
@@ -25,7 +25,7 @@ En el competitivo mercado de la aviación regional, Arajet, la aerolínea domini
 
 ### Arajet y su conectividad con Estados Unidos
 
-![](/images/aviacion/arajet/ala-arajet.jpg)
+![Vista ala avión](/images/aviacion/arajet/ala-arajet.jpg)
 
 Arajet ha enfocado una parte significativa de su estrategia de crecimiento en el mercado estadounidense. Actualmente, la aerolínea opera vuelos directos desde sus bases en Santo Domingo (SDQ) y Punta Cana (PUJ) hacia diversas ciudades en Estados Unidos, incluyendo:
 
@@ -54,7 +54,7 @@ Esta potencial expansión transformaría la red de Arajet, ofreciendo una mayor 
 
 ### Conectividad con Argentina
 
-![](/images/aviacion/arajet/cordoba/arajet-cordoba3.jpg)
+![Córdoba y República Dominicana](/images/aviacion/arajet/cordoba/arajet-cordoba3.jpg)
 
 Para el mercado argentino, Arajet ya ha establecido su presencia con vuelos directos desde:
 
@@ -65,7 +65,7 @@ Desde estos puntos en la República Dominicana, los pasajeros argentinos pueden 
 
 ### Ciudades Argentinas con potencial de integración en la red de Arajet
 
-![](/images/aviacion/arajet/manga-arajet.jpg)
+![Vista del avión desde la manga](/images/aviacion/arajet/manga-arajet.jpg)
 
 Arajet ha expresado interés en la expansión dentro del mercado sudamericano. Además de sus operaciones actuales en Buenos Aires y Córdoba, la aerolínea ha considerado la posibilidad de sumar nuevas ciudades argentinas a su red.
 
@@ -78,6 +78,6 @@ La adición de estas ciudades fortalecería la red de Arajet en Argentina, ofrec
 
 ### Implicaciones para el Viajero
 
-![](/images/aviacion/arajet/info-lectura.jpg)
+![Información de lectura](/images/aviacion/arajet/info-lectura.jpg)
 
 La estrategia de Arajet y su modelo de bajo costo buscan ofrecer tarifas competitivas y nuevas alternativas de conectividad. Este crecimiento de las rutas aumenta las opciones y permite elegir entre más opciones un viaje hacia el Caribe y Estados Unidos, facilitando el acceso a destinos que antes podían requerir múltiples escalas o tarifas más elevadas.

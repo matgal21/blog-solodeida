@@ -53,4 +53,3 @@ En Ucrania, la respuesta es sí, pero con consciencia, respeto y empatía. Porqu
 
 ---
 
-¿Te interesaría conocer destinos alternativos dentro de Ucrania o cómo colaborar como turista responsable? Dejá tu comentario o escribime, y lo charlamos.

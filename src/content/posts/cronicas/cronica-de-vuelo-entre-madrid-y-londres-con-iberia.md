@@ -12,7 +12,7 @@ tags:
   - Londres
   - Heathrow
   - Barajas
-pubDate: 2024-07-29
+pubDate: 2024-08-01
 cover: "/images/cronicas/mad-lhr/PXL_20241227_122459698.MP.jpg"
 coverAlt: Airbus 320 neo Iberia
 author: Mateo

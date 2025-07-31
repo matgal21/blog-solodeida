@@ -21,7 +21,7 @@ author: Mateo
 ## Crónica de vuelo entre Madrid y Londres con Iberia
 
 ***
-Este es un relato de mi vuelo IB717 de Iberia desde Madrid (MAD) a Londres (LHR). Este vuelo se dio después de mi viaje de Buenos Aires a Madrid (crónica publicada en el blog). El vuelo tuvo una demora importante en la salida, algo que nunca me había pasado tener que esperar más de una hora dentro del avíon, resultando en un aterrizaje con una hora y media de retraso sobre el horario previsto. El tiempo total de vuelo fue de aproximadamente tres horas.
+Después de mi vuelo de Buenos Aires a Madrid (*crónica publicada en el* <a href="https://solodeida.com/posts/cronicas/cronica-de-vuelo-ezeiza-madrid-airbus-350/" target="_blank">**blog**</a>) tenía una conexión para llegar al destino final desde **Madrid**  a **Londres**. El vuelo tuvo una **demora importante** en la salida, algo que nunca me había pasado tener que esperar más de una hora dentro del avíon, resultando en un aterrizaje con una hora y media de retraso sobre el horario previsto. El tiempo total de vuelo fue de aproximadamente tres horas.
 
 ![Resumen vuelo con demora](/images/cronicas/mad-lhr/vuelo-ib717.png "Resumen vuelo con demora")
 
@@ -29,7 +29,7 @@ Este es un relato de mi vuelo IB717 de Iberia desde Madrid (MAD) a Londres (LHR)
 
 ### Detalles de la demora: niebla en Londres
 
-El IB717 de Iberia estaba programado para salir de  Madrid a las 2:05 PM  en un Airbus A320neo. La salida se retrasó casi una hora.
+El **IB717 de Iberia** estaba programado para salir de  Madrid a las 2:05 PM  en un Airbus A320neo. La salida se retrasó casi una hora.
 <img src="/images/cronicas/mad-lhr/mapa-vuelo-ib717.png" alt="Mapa de ruta del vuelo" />
 
 
@@ -45,5 +45,5 @@ Una vez que finalmente despegamos, la situación en Londres no había cambiado l
 
 Finalmente, el aterrizaje se realizó en el Terminal 5. La hora de llegada oficial fue 4:25 PM , lo que significó un retraso total acumulado de una hora y media respecto a la hora de llegada programada.
 <img src="/images/cronicas/mad-lhr/london-eye-niebla.jpg" alt="London Eye con niebla">
-Al llegar al centro de Londres así se encontraba el London Eye, con una niebla increíble que no se llegaba a ver el final de esta construcción
+Al otro día al llegar al centro de Londres así se encontraba el London Eye, con una niebla increíble que no se llegaba a ver el final de este edificio, realmente no se veía nada.
 

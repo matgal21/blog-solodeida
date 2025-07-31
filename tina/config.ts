@@ -39,16 +39,20 @@ export default defineConfig({
             label: "Titulo",
             isTitle: true,
             required: true,
+            searchable: true, // ¡Añadido! Este campo será buscable
           },
           {
             type: "string",
             name: "slug",
             label: "Slug",
+            // No suele ser necesario que el slug sea directamente buscable,
+            // pero podrías añadir searchable: true si lo necesitas.
           },
           {
             type: "string",
             name: "description",
             label: "Descripción",
+            searchable: true, // ¡Añadido! Este campo será buscable
           },
           {
             type: "string",
@@ -63,22 +67,26 @@ export default defineConfig({
               { label: "Descubrir", value: "Descubrir" },
               // Puedes añadir más opciones de categoría aquí
             ],
+            searchable: true, // ¡Añadido! Las categorías serán buscables
           },
           {
             type: "string",
             name: "tags",
             label: "Tags",
             list: true,
+            searchable: true, // ¡Añadido! Los tags serán buscables
           },
           {
             type: "datetime",
             name: "pubDate",
-            label: "Date"
+            label: "Date",
+            // Las fechas no suelen ser directamente buscables por texto,
+            // pero puedes manejarlas con filtros en tus consultas si lo necesitas.
           },
           {
             type: "image",
             name: "cover",
-            label: "Imagen de portada"
+            label: "Imagen de portada",
           },
           {
             type: "string",
@@ -96,9 +104,17 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
-          
         ],
       },
     ],
   },
+  search: {
+    tina: {
+      indexerToken: "<fcc58c7154760f970e44d158a156230f00732d1b>",
+      stopwordLanguages: ["spa"],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
+  },
+  
 });

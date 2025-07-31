@@ -1,6 +1,6 @@
 ---
 title: Vuelos directos de Buenos Aires a Punta del Este con aerolínea brasilera
-slug: general/vuelos-directos-de-buenos-aires-a-punta del este con aerolinea brasilera
+slug: general/vuelos-directos-de-buenos-aires-a-punta-del-este-con-aerolinea-brasilera
 description: GOL Linhas Aéreas tendrá vuelos directos en temporada alta.
 category:
   - General

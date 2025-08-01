@@ -14,7 +14,7 @@ tags:
   - Uruguay
   - Temporada alta
   - Verano
-pubDate: 2025-07-31
+pubDate: 2025-08-01
 cover: "/images/aviacion/gol-linhas-aereas/boeing-737-gol.jpg"
 coverAlt: Boeing 737 GOL
 author: Mateo
@@ -24,7 +24,7 @@ author: Mateo
 
 ***
 
-La aerolínea brasileña GOL Linhas Aéreas ha anunciado el lanzamiento de **vuelos directos** entre** Buenos Aires** (Aeroparque, AEP) y **Punta del Este** (PDP), una ruta que se reactiva para la temporada alta de **verano 2025-2026**. Este movimiento estratégico busca reforzar la conectividad entre Argentina y el popular balneario uruguayo.
+La aerolínea brasileña GOL Linhas Aéreas ha anunciado el lanzamiento de **vuelos directos** entre **Buenos Aires** (Aeroparque, AEP) y **Punta del Este** (PDP), una ruta que se reactiva para la temporada alta de **verano 2025-2026**. Este movimiento estratégico busca reforzar la conectividad entre Argentina y el popular balneario uruguayo.
 <img src="/images/aviacion/gol-linhas-aereas/737-gol.avif" alt="Boeing 737 GOL">
 
 Los vuelos comenzarán a operar a partir del 21 de diciembre de 2025 y se extenderán hasta el 23 de febrero de 2026. La frecuencia inicial será de dos vuelos semanales, los jueves y domingos.

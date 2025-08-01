@@ -12,7 +12,7 @@ tags:
   - Londres
   - Heathrow
   - Barajas
-pubDate: 2024-08-01
+pubDate: 2025-08-01
 cover: "/images/cronicas/mad-lhr/PXL_20241227_122459698.MP.jpg"
 coverAlt: Airbus 320 neo Iberia
 author: Mateo
@@ -21,7 +21,7 @@ author: Mateo
 ## Crónica de vuelo entre Madrid y Londres con Iberia
 
 ***
-Después de mi vuelo de Buenos Aires a Madrid (*crónica publicada en el* <a href="https://solodeida.com/posts/cronicas/cronica-de-vuelo-ezeiza-madrid-airbus-350/" target="_blank">**blog**</a>) tenía una conexión para llegar al destino final desde **Madrid**  a **Londres**. El vuelo tuvo una **demora importante** en la salida, algo que nunca me había pasado tener que esperar más de una hora dentro del avíon, resultando en un aterrizaje con una hora y media de retraso sobre el horario previsto. El tiempo total de vuelo fue de aproximadamente tres horas.
+Después de mi vuelo de Buenos Aires a Madrid (*crónica publicada en el* <a href="https://solodeida.com/posts/cronicas/cronica-de-vuelo-ezeiza-madrid-airbus-350/" target="_blank">**blog**</a>) tenía una conexión para llegar al destino final desde **Madrid**  a **Londres**. El vuelo tuvo una **demora importante** en la salida. Algo que nunca me había pasado tener que esperar **más de una hora dentro del avíon**, resultando en un aterrizaje con una hora y media de retraso sobre el horario previsto. El tiempo total de vuelo fue de aproximadamente tres horas.
 
 ![Resumen vuelo con demora](/images/cronicas/mad-lhr/vuelo-ib717.png "Resumen vuelo con demora")
 

@@ -7,8 +7,15 @@ category:
 tags:
   - Turismo
   - Argentina
-pubDate: 2024-08-03
-cover: "/images/general/argentina/ezeiza.avif"
+  - Turismo internacional
+  - Ezeiza 
+  - INDEC
+  - Turistas
+  - Brasil
+  - Chile
+  - Europa
+pubDate: 2025-08-04
+cover: "/images/general/turistas-arg-junio/bandera arg.jpg"
 coverAlt: Ezeiza
 author: Mateo
 ---
@@ -26,7 +33,6 @@ Durante junio de 2025, el total de **turistas que ingresaron al país fue de 318
 Estos datos indican una tendencia donde más residentes argentinos están eligiendo viajar al exterior en comparación con la cantidad de turistas extranjeros que ingresan al país.
 
 ### Vías de acceso y egreso
-
 El informe del INDEC también detalla las vías de acceso y egreso utilizadas por los turistas internacionales:
 
 **Vía Aérea**:

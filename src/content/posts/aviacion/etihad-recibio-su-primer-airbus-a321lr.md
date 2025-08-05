@@ -25,6 +25,9 @@ author: Mateo
 
  Este evento marca un avance en la estrategia de la aerolínea de Emiratos Árabes Unidos, incorporando un avión de pasillo único con capacidades y comodidades que hasta ahora eran exclusivas de aeronaves de fuselaje ancho.
 
+ El vuelo inaugural de esta aeronave se llevó a cabo el 1 de agosto, conectando la capital de EAU, **Abu Dhabi**, con la paradisíaca isla de **Phuket** en Tailandia.
+ <img src="/images/general/etihad-airways/vuelo-etihad-phuket.png" alt="Primer vuelo Abu Dhabi a Pukhet">
+
 ### El A321LR: Un avión versátil y eficiente
 
 ![Asiento de Primera Clase del avión Airbus A321LR](/images/aviacion/etihad/airbus321lr2.jpeg)

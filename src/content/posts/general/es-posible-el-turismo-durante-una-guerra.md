@@ -1,6 +1,7 @@
 ---
 title: ¿Es posible el turismo durante una guerra?
 description: Cómo se vive el turismo actual de Ucrania
+slug: general/es-posible-el-turismo-durante-una-guerra
 category: 
 - General
 tags:

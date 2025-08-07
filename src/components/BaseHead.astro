@@ -2,12 +2,11 @@
 interface Props {
   title: string;
   description: string;
-  cover?: string;
+  cover: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, cover } = Astro.props;
-const defaultCover = new URL('/img/logos solo de ida/logo.png', Astro.site);
 
 ---
 
@@ -28,11 +27,11 @@ const defaultCover = new URL('/img/logos solo de ida/logo.png', Astro.site);
 <meta property="og:url" content={canonicalURL.href} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={cover ? new URL(cover, Astro.site).href : defaultCover.href} />
+<meta property="og:image" content={cover} />
 <meta property="og:image:alt" content={title} />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={canonicalURL.href} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={cover ? new URL(cover, Astro.site).href : defaultCover.href} />
+<meta property="twitter:image" content={cover} />

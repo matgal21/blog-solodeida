@@ -10,9 +10,22 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, cover, coverAlt } = Astro.props;
 
 // Usa la imagen de portada del post o una por defecto. La ruta debe ser relativa a la carpeta `public`.
-// Estoy usando el favicon del sitio como alternativa, pero podrías crear una imagen específica para compartir en redes.
-const imagePath = cover || '/img/logos solo de ida/logo azul1.png';
+// Si un post no tiene 'cover', se usará esta imagen por defecto.
+// Es recomendable crear una imagen genérica para compartir en redes (ej. 1200x630px).
+const imagePath = cover || '/images/default-social-image.png'; // <-- ¡Actualiza esta ruta a tu nueva imagen genérica!
 const absoluteImageURL = new URL(imagePath, Astro.site).href;
+
+// Ayudante para obtener el tipo de imagen a partir de la extensión del archivo
+const getImageType = (path: string) => {
+  if (path.endsWith('.png')) return 'image/png';
+  if (path.endsWith('.jpg') || path.endsWith('.jpeg')) return 'image/jpeg';
+  if (path.endsWith('.gif')) return 'image/gif';
+  if (path.endsWith('.webp')) return 'image/webp';
+  if (path.endsWith('.avif')) return 'image/avif';
+  return undefined; // Dejar que el rastreador lo descubra
+};
+
+const imageType = getImageType(imagePath);
 
 ---
 
@@ -35,6 +48,8 @@ const absoluteImageURL = new URL(imagePath, Astro.site).href;
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={absoluteImageURL} />
+<meta property="og:image:secure_url" content={absoluteImageURL} />
+{imageType && <meta property="og:image:type" content={imageType} />}
 <meta property="og:image:alt" content={coverAlt || title} />
 
 <!-- Twitter -->

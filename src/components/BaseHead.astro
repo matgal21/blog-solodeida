@@ -7,7 +7,6 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, cover } = Astro.props;
-const coverURL = cover ? `${Astro.site}${cover}` : '/img/logos solo de ida/logo.png';
 
 ---
 
@@ -33,7 +32,7 @@ const coverURL = cover ? `${Astro.site}${cover}` : '/img/logos solo de ida/logo.
 <meta property="og:url" content={`${Astro.site}${Astro.url.pathname}`} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={coverURL} />
+<meta property="og:image" content={cover} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />

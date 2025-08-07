@@ -3,10 +3,16 @@ interface Props {
   title: string;
   description: string;
   cover?: string;
+  coverAlt?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, cover } = Astro.props;
+const { title, description, cover, coverAlt } = Astro.props;
+
+// Usa la imagen de portada del post o una por defecto. La ruta debe ser relativa a la carpeta `public`.
+// Estoy usando el favicon del sitio como alternativa, pero podrías crear una imagen específica para compartir en redes.
+const imagePath = cover || '/img/logos solo de ida/logo azul1.png';
+const absoluteImageURL = new URL(imagePath, Astro.site).href;
 
 ---
 
@@ -23,16 +29,18 @@ const { title, description, cover } = Astro.props;
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
+<!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content={canonicalURL.href} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={cover} />
-<meta property="og:image:alt" content={title} />
+<meta property="og:image" content={absoluteImageURL} />
+<meta property="og:image:alt" content={coverAlt || title} />
 
+<!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={canonicalURL.href} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="og:image" content={cover} />
-<meta property="twitter:image" content={cover} />
+<meta property="twitter:image" content={absoluteImageURL} />
+<meta property="twitter:image:alt" content={coverAlt || title} />

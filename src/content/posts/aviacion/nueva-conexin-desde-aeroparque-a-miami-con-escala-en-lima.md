@@ -1,6 +1,6 @@
 ---
 title: Nueva conexión desde Aeroparque a Miami con escala en Lima
-slug: aviacion/nueva-conexión-desde-aeroparque-a-miami-con-escala-en-lima
+slug: aviacion/nueva-conexion-desde-aeroparque-a-miami-con-escala-en-lima
 description: La aerolínea chilena volará la ruta Miami-Lima-Aeroparque con Airbus 320neo.
 category:
   - Aviación

@@ -2,7 +2,7 @@
 interface Props {
   title: string;
   description: string;
-  cover: string;
+  cover?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -34,4 +34,5 @@ const { title, description, cover } = Astro.props;
 <meta property="twitter:url" content={canonicalURL.href} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
+<meta property="og:image" content={cover} />
 <meta property="twitter:image" content={cover} />

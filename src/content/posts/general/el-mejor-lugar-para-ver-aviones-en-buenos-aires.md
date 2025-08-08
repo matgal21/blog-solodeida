@@ -6,6 +6,15 @@ category:
   - General
 tags:
   - Spotting
+  - Aeroparque
+  - Buenos Aires
+  - Latam
+  - Gol
+  - Flybondi
+  - Jetsmart
+  - Aerolineas Argentinas
+  - Costanera
+  - Uber
 pubDate: 2025-08-08
 cover: "/images/general/spotting-aeroparque/boeing-737ar.jpg"
 coverAlt: Aeropuerto de Buneos Aires Aeroparque

@@ -2,16 +2,14 @@
 interface Props {
   title: string;
   description: string;
-  cover: string;
+  cover?: string;
 }
 
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, cover } = Astro.props;
-
-
-
-
+const { title, description } = Astro.props;
+// Usamos una imagen por defecto si `cover` no se proporciona. Deberías crear una imagen `default-og.png` en tu carpeta `public/`.
+const coverImage = new URL(Astro.props.cover || '/default-og.png', Astro.site).href;
 ---
 
 
@@ -37,7 +35,7 @@ const { title, description, cover } = Astro.props;
 <meta property="og:url" content={canonicalURL.href} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={cover} />
+<meta property="og:image" content={coverImage} />
 
 
 <!-- Twitter -->
@@ -45,5 +43,4 @@ const { title, description, cover } = Astro.props;
 <meta property="twitter:url" content={canonicalURL.href} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={cover} />
-
+<meta property="twitter:image" content={coverImage} />

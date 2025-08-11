@@ -6,6 +6,12 @@ category:
   - Aviación
 tags:
   - Vueling
+  - España
+  - Airbus
+  - Boeing
+  - Low Cost
+  - Barcelona
+  - Boeing 737
 pubDate: 2025-08-11
 cover: "/images/aviacion/vueling/Vueling_3-984x554.jpg"
 coverAlt: Airbus 320 Vueling

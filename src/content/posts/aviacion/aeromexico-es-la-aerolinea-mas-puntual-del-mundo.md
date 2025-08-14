@@ -6,6 +6,16 @@ category:
   - Aviación
 tags:
   - Aeroméxico
+  - Saudia 
+  - Delta 
+  - LATAM 
+  - Qatar Airways
+  - Avianca 
+  - Iberia 
+  - SAS 
+  - United Airlines 
+  - Azul
+  - Puntualidad
 pubDate: 2025-08-14
 cover: "/images/aeropuertos/aerolineas/aeromexico.jpeg"
 coverAlt: Boeing 787 Dreamliner de Aeroméxico

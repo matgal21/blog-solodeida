@@ -6,7 +6,7 @@ category:
   - Aviación
 tags:
   - Rusia
-pubDate: 2024-08-14
+pubDate: 2024-08-15
 cover: "/images/aviacion/ms-21-avion-ruso/avion-ruso.jpg"
 coverAlt: MS-21 avión de producción rusa
 author: Mateo

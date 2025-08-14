@@ -1,5 +1,5 @@
 ---
-title: Aaeroméxico es la aerolínea más puntual del mundo
+title: Aeroméxico es la aerolínea más puntual del mundo
 slug: aviacion/aeromexico-es-la-aerolinea-mas-puntual-del-mundo
 description: Las 10 Aerolíneas más puntuales del mundo.
 category:

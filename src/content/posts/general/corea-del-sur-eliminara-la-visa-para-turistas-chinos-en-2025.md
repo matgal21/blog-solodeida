@@ -10,7 +10,7 @@ tags:
   - Visa
   - Corea del Sur
   - Turismo
-pubDate: 2024-08-18
+pubDate: 2025-08-18
 cover: "/images/general/seul/Namsan-Tower-during-autumn-in-Seoul-South-Korea-1244x700.jpg"
 coverAlt: Ciudad de Seúl
 author: Mateo

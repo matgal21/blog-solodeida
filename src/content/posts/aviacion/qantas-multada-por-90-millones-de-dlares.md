@@ -1,11 +1,15 @@
 ---
-title: qantas multada por 90 millones de dólares
+title: Qantas multada por 90 millones de dólares
 slug: aviacion/qantas-multada-por-90-millones-de-dolares
 description: La aerolínea de Australia deberá pagar por hechos ocurridos durante la pandemia.
 category:
   - Aviación
 tags:
   - Australia
+  - Qantas
+  - Aerolinea
+  - Sidney
+  - Turismo
 pubDate: 2025-08-19
 cover: "/images/aeropuertos/aerolineas/qantas/Unknown_160102_A380_SYDNEY-HARBOUR-1200x790.jpg"
 coverAlt: Airbus A380 de Qantas sobre Sidney
@@ -34,8 +38,6 @@ La aerolínea, por su parte, había argumentado que la multa debería ser más m
 
 ### El impacto sobre una marca icónica
 
-Más allá de la sanción económica, el caso ha dañado aún más la marca Qantas. La aerolínea, que históricamente ha sido un símbolo de orgullo nacional en Australia, ha visto su reputación caer en picada en los últimos años. Las decisiones tomadas durante la pandemia, como la gestión de los reembolsos y el trato a los empleados, han erosionado la confianza del público.
+Más allá de la sanción económica, el caso ha dañado aún más la marca Qantas. La aerolínea, que históricamente ha sido un símbolo de  Australia, ha visto su reputación caer en picada en los últimos años. Las decisiones tomadas durante la pandemia, como la gestión de los reembolsos y el trato a los empleados, han erosionado la confianza del público.
 
 ![Airbus A380 de Qantas](/images/aeropuertos/aerolineas/qantas/Qantas_140624_7864-1200x632.jpg)
-
-Los analistas concuerdan en que, si bien la multa sienta un precedente importante para que las grandes corporaciones se responsabilicen por sus acciones, el verdadero desafío para Qantas será reparar el daño a su marca y recuperar la confianza de sus clientes y empleados.

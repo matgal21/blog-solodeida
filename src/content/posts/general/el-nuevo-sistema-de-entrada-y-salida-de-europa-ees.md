@@ -12,7 +12,7 @@ coverAlt: Sistema de Entradas y Salidas Unión Europea
 author: Mateo
 ---
 
-## ✈️ Adios a los sellos: El nuevo sistema de entrada y salida de Europa (EES)
+## No más sellos: el nuevo sistema de entrada y salida de Europa (EES)
 
 Si planeas viajar a Europa a partir de 2025, prepárate para un cambio significativo en las fronteras del Espacio Schengen. La Unión Europea está implementando dos nuevos sistemas para reforzar la seguridad y optimizar el control fronterizo: el Sistema Europeo de Información y Autorización de Viajes (ETIAS) y el Sistema de Entrada y Salida (EES).
 

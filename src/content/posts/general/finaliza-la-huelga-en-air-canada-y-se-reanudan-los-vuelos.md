@@ -38,8 +38,8 @@ El conflicto ha llegado a su fin. En la noche de ayer, 19 de agosto, la aerolín
 
 Si bien la aerolínea ha comenzado a operar algunos vuelos de forma gradual, ha advertido que la normalización completa del servicio podría demorar entre siete y diez días, ya que las tripulaciones y las aeronaves necesitan ser reubicadas en sus posiciones. La nueva negociación incluye puntos clave como el pago por el trabajo en tierra, una demanda central del sindicato.
 
-### Horas después del acuerdo
-<img src="/images/general/aircanada-huelga/Captura de pantalla 2025-08-19 182016.png" alt="Los vuelos activos al dia martes 19 a la noche de Argentina">
+### Cómo estan los vuelos hoy
+<img src="/images/general/aircanada-huelga/vuelos-hoy.png" alt="Los vuelos activos al dia de hoy 20 de agosto">
 
 ### Un futuro con desafíos
 

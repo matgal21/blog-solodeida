@@ -11,8 +11,6 @@ tags:
   - EES
   - Turismo
   - Viaje
-  
-
 pubDate: 2025-08-21
 cover: "/images/general/union-auropea/Europa_ETIAS_EES.jpg"
 coverAlt: Sistema de Entradas y Salidas Unión Europea
@@ -33,7 +31,7 @@ El EES comenzará a funcionar el 12 de octubre de 2025. Su implementación será
 
 ### ¿Cómo funcionará el EES?
 
-![Entrada Union Europea](\images\general\union-auropea\EES-Lithuania-Entry-exit-system.jpg)
+![Entrada Union Europea](/images/general/union-auropea/EES-Lithuania-Entry-exit-system.jpg)
 
 Cuando llegues a la frontera de un país Schengen, en lugar de recibir un sello en tu pasaporte, se registrarán electrónicamente tus datos y se controlará automáticamente la duración de tu estancia. Este sistema permitirá a las autoridades saber si has superado el límite de 90 días en un período de 180 días.
 

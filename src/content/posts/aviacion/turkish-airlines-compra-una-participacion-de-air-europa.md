@@ -1,5 +1,5 @@
 ---
-title: Turkish airlines compra una participacion de air europa
+title: Turkish Airlines compra una participación de Air Europa
 slug: aviacion/turkish-airlines-compra-una-participacion-de-air-europa
 description: La aerolínea turca compra entre el 26% y el 27% del capital de la aerolínea española.
 category:
@@ -22,7 +22,7 @@ author: Mateo
 
 ### Después de muchos idas y vueltas, Turkish Airlines compra una participación de Air Europa
 
-Este mes, se ha confirmado una de las noticias más destacadas del año en la aviación europea: Turkish Airlines ha llegado a un acuerdo para adquirir una participación minoritaria de Air Europa.
+Este mes, se ha confirmado una de las noticias más destacadas del año en la aviación europea: **Turkish Airlines ha llegado a un acuerdo para adquirir una participación minoritaria de Air Europa**.
 
 ![Aviones de Air Europa y Turkish Airlines](/images/aviacion/turkish-aireuropa/acuerdo-turkish-airlinews-y-air-europa_4_732x400.jpeg)
 
@@ -30,7 +30,7 @@ Este movimiento es especialmente relevante, ya que se produce después de varios
 
 ![Aeropuerto de Istambul](/images/aeropuertos/aeropuerto-ist2.webp)
 
-Ahora, la aerolínea turca, con el objetivo de expandir su red global, ha acordado comprar entre el 26% y el 27% del capital de la compañía española. La operación, valorada en alrededor de 300 millones de euros, permitirá a Air Europa inyectar capital para saldar una deuda pendiente con el Estado español.
+Ahora, la aerolínea turca, con el objetivo de expandir su red global, ha acordado comprar entre el **26% y el 27%** del capital de la compañía española. La operación, valorada en alrededor de **300 millones de euros**, permitirá a Air Europa inyectar capital para saldar una deuda pendiente con el Estado español.
 
 ![Boeing 787 de AirEuropa](/images/aviacion/turkish-aireuropa/b787-aireuropa.jpg)
 

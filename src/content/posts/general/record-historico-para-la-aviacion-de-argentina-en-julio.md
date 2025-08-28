@@ -19,7 +19,7 @@ author: Mateo
 
 ## Récord Histórico: Julio de 2025 es el mejor mes para la aviación en Argentina
 
-El sector aerocomercial argentino ha alcanzado un nuevo hito. Según los datos oficiales de la Administración Nacional de Aviación Civil (ANAC), durante el mes de **julio de 2025** se movilizaron **4.446.692 pasajeros** en los aeropuertos de todo el país. Esta cifra no solo supera en un 10% el total de julio de 2024, sino que también establece un **nuevo récord histórico**, convirtiendo a este mes en el mejor julio de la historia de la aviación argentina.
+ Según los datos oficiales de la ANAC, durante el mes de **julio de 2025** se movilizaron **4.446.692 pasajeros** en los aeropuertos de todo el país. Esta cifra no solo supera en un 10% el total de julio de 2024, sino que también establece un **nuevo récord histórico**, convirtiendo a este mes en el mejor julio de la historia de la aviación argentina.
 
 <img src="/images/general/pasajeros-julio/anac2.jpeg" alt="Aeropuertos que más crecieron en julio">
 

@@ -24,10 +24,10 @@ author: Mateo
 En mi visita a la hermosa ciudad de Sevilla tuve la oportunidad de recorrer un espacio que despertó mi curiosidad: el Museo Histórico Militar de Sevilla.
 <img src="/images/viajes/sevilla/museo-militar/1.jpg" alt="Escenarios en miniatura">
 
-Ubicado en la Plaza España, de los lugares más hermosos de Sevilla, este museo ofrece un recorrido fascinante a través de diferentes épocas de la historia militar española, con un enfoque particular en su relación con la ciudad de Sevilla y la región de Andalucía. La entrada es gratuita y no es necesario (o al menos en mi caso) sacar entradas con anticipación.
+Ubicado en la Plaza España, de los lugares más hermosos de Sevilla, este museo ofrece un recorrido a través de diferentes épocas de la historia militar española, con un enfoque particular en su relación con la ciudad de Sevilla y la región de Andalucía. La entrada es gratuita y no es necesario (o al menos en mi caso) sacar entradas con anticipación.
 <img src="/images/viajes/sevilla/museo-militar/10.jpg" alt="Fuerte y foratleza de la época en miniatura">
 
-Al adentrarme en sus salas, me encontré con una impresionante colección de objetos: desde armas de diferentes épocas hasta uniformes históricos, pasando por maquetas detalladas que recrean batallas y escenarios bélicos . 
+Al entrar en sus salas, encontré con una impresionante colección de objetos: desde armas de diferentes épocas hasta uniformes históricos, pasando por maquetas detalladas que recrean batallas y escenarios bélicos . 
 <img src="/images/viajes/sevilla/museo-militar/2.jpg" alt="Interior del Museo Histórico Militar de Sevilla">
 
 

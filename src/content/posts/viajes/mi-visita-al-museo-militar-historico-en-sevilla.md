@@ -10,7 +10,7 @@ tags:
   - Museo
   - Museo Militar
   - Plaza España
-  - 
+
 pubDate: 2025-08-29
 cover: "/images/viajes/sevilla/museo-militar/museo-sevilla.jpg"
 coverAlt: Museo historico militar de sevilla

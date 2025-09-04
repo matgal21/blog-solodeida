@@ -7,8 +7,12 @@ category:
 tags:
   - LOT
   - Polonia
-pubDate: 2024-09-01
-cover: "/images/aviacion/delivery-korean/korean-avion2.webp"
+  - Europa
+  - Varsovia
+  - Turismo
+  - Aerolíneas
+pubDate: 2025-09-04
+cover: "/images/aviacion/lot/lot.jpeg"
 coverAlt: Avion de LOT
 author: Mateo
 ---
@@ -23,10 +27,14 @@ LOT Polish Airlines ha logrado un hito histórico, consolidando un mes de julio 
 
 Durante el pasado mes de julio, LOT transportó a más de 1.18 millones de pasajeros, superando su mejor marca histórica. Además de este impresionante número, la aerolínea también batió récords en horas de vuelo y distancia recorrida, demostrando una operación eficiente y en plena expansión.
 
+<img src="/images/aviacion/lot/lot2.jpg" alt="Avión de LOT en Varsovia">
+
 Este éxito se debe en gran medida a la inauguración de nuevas rutas a lo largo de 2025, como los vuelos desde Cracovia a París Orly, y desde Varsovia a Salónica, Malta, Reikiavik y Lisboa. Estas nuevas conexiones, sumadas a la alta demanda de sus rutas de largo alcance a destinos como Toronto, Nueva York y Chicago, han sido los principales motores de su crecimiento.
 
 ### Un crecimiento sostenido a lo largo del año
 
 El excelente desempeño de julio es el punto culminante de un primer semestre de 2025 que ha sido excepcional para la aerolínea polaca. Aunque las cifras totales del año aún no se han hecho públicas, la compañía ha confirmado que los números de pasajeros de este año ya superan todos los registros previos.
+
+<img src="/images/aviacion/lot/lot3.jpg" alt="Primeros 6 meses de LOT">
 
 Con planes de continuar expandiendo su red y con la llegada de nuevos aviones, LOT Polish Airlines está reforzando su posición como una de las aerolíneas líderes en Europa Central y del Este, atrayendo a un creciente número de pasajeros de tránsito a través de su hub en Varsovia.

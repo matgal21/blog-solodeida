@@ -7,19 +7,34 @@ category:
 tags:
   - México
   - Aeroméxico
-pubDate: 2024-09-12
-cover: "/images/aviacion/aeromexico/Boeing 787-8 Dreamliner Aeromexico N961AM(CDG).jpg"
+  - Chile
+  - Boeing 787-9
+  - Santiago
+  - Buenos Aires
+  - Miami
+  - Lima
+  - Sao Paulo
+  - Bogotá
+  - Cali
+  - Medellín
+  - Cartagena
+
+pubDate: 2025-09-05
+cover: "/images/aviacion/aeromexico/boeing-787-aeromexico.jpg"
 coverAlt: Boeing 787-9 Dreamliner Aeroméxico
 author: Mateo
 ---
 
 ## Aeroméxico fija fecha para su retorno a Santiago con más frecuencias
 
-Aeroméxico anunció el retorno de sus operaciones a Santiago de Chile a partir del 26 de octubre de 2025. Lo más destacado es que, por primera vez en más de una década, la aerolínea operará vuelos diarios en esta ruta, una medida que se mantendrá hasta el 27 de marzo de 2026.
+Aeroméxico anunció el retorno de sus operaciones a **Santiago de Chile** a partir del **26 de octubre de 2025**. Lo más destacado es que, por primera vez en más de una década, la aerolínea operará **vuelos diarios** en esta ruta, una medida que se mantendrá hasta el 27 de marzo de 2026.
+
+<img src="/images/aviacion/aeromexico/aeromexico2.jpg" alt="Boeing 787 Dreamliner">
 
 Esta nueva dimensión operacional en Chile es clave para la estrategia de la compañía en la región. Los vuelos se realizarán con aviones Boeing 787-8 Dreamliner, un modelo de alta eficiencia que ofrece 243 asientos en dos clases: Premier One (Business Class) y Turista (Economy). En total, la aerolínea ofrecerá 3.402 asientos por semana en ambos sentidos.
 
 ### Horarios y conectividad
+<img src="/images/aviacion/aeromexico/aeropuertos-del-mundo-635x397.jpg" alt="Aeropuerto Benito Júarez">
 
 Los vuelos de Aeroméxico están programados para optimizar las conexiones de los pasajeros.
 

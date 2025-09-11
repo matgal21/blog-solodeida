@@ -13,8 +13,7 @@ tags:
   - Airbus
   - Airbus A321xlr
 pubDate: 2025-09-11
-cover: "/images/aviacion/jetsmart/jetsmart-2.jpg"
-coverAlt: Foto airbus 321 neo JetSmart
+cover: "/images/aeropuertos/aerolineas/aircanada/a321xlr.jpg"
 author: Mateo
 ---
 
@@ -22,8 +21,7 @@ author: Mateo
 
 Air Canada anunció nuevas rutas para su red internacional para el verano de 2026 con el lanzamiento de nuevos destinos en Europa y Asia. La aerolínea busca fortalecer su posición global, ofreciendo más opciones para viajes de ocio y consolidando sus centros de conexión en Norteamérica.
 
-<img src="/images/aeropuertos/aerolineas/aircanada/a321xlr.webp" alt="Arbus A321xlr Air Canada">
-
+<img src="/images/aeropuertos/aerolineas/aircanada/Air-Canada-Airbus-A321XLR-1.webp" alt="Airbus A321xlr Air Canada">
 
 ## Nuevos destinos y rutas ampliadas
 A partir del próximo año, la aerolínea lanzará las siguientes conexiones:

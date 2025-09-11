@@ -14,6 +14,7 @@ tags:
   - Airbus A321xlr
 pubDate: 2025-09-11
 cover: "/images/aeropuertos/aerolineas/aircanada/a321xlr.jpg"
+coverAlt: Airbus A321xlr Air Canada
 author: Mateo
 ---
 
@@ -36,6 +37,7 @@ Desde **Vancouver**: La popular ruta estacional a **Bangkok** pasará a ser oper
 
 ## Estrategia y visión de la compañía
 La expansión de Air Canada responde a una estrategia que busca aprovechar la creciente demanda mundial de viajes de placer y los mercados en desarrollo en Asia. Según Mark Galardo, vicepresidente ejecutivo de la aerolínea, estas incorporaciones también potencian el transporte de carga, ya que gran parte de la carga aérea de Canadá viaja en el interior de los aviones de pasajeros.
+
 <img src="/images/aeropuertos/aerolineas/aircanada/A321XLR_1.jpg" alt="Arbus A321xlr Air Canada">
 
 ## Impacto económico y comercial

@@ -6,7 +6,13 @@ category:
   - General
 tags:
   - Latam
-pubDate: 2024-09-11
+  - Agosto
+  - Vuelos
+  - Sudamérica
+  - Viajes
+  - Aerolínea
+
+pubDate: 2024-09-12
 cover: "/images/aeropuertos/aerolineas/latam/airbus-a320-latam.jpg"
 coverAlt: Airbus 320 de Latam
 author: Mateo

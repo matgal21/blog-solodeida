@@ -12,7 +12,7 @@ tags:
   - Viajes
   - Aerolínea
 
-pubDate: 2024-09-12
+pubDate: 2024-09-18
 cover: "/images/aeropuertos/aerolineas/latam/airbus-a320-latam.jpg"
 coverAlt: Airbus 320 de Latam
 author: Mateo

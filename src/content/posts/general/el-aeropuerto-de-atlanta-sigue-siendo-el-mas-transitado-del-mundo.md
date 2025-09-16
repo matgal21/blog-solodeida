@@ -6,7 +6,16 @@ category:
   - General
 tags:
   - Atlanta
-pubDate: 2024-09-16
+  - Dubái
+  - Tokio
+  - Estambul
+  - Londres
+  - Chicago
+  - Shanghai
+  - Guangzou
+  - Denver
+  - Dallas
+pubDate: 2025-09-16
 cover: "/images/aeropuertos/atlanta-aeropuerto.jpg"
 coverAlt: Aeropuerto de Atlanta
 author: Mateo

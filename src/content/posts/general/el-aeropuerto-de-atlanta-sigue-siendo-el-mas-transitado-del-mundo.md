@@ -1,5 +1,5 @@
 ---
-title: El Aeropuerto de Atlanta sigue siendo el mas transitado del mundo
+title: El Aeropuerto de Atlanta sigue siendo el más transitado del mundo
 slug: general/el-aeropuerto-de-atlanta-sigue-siendo-el-mas-transitado-del-mundo
 description: Los 10 Aeropuertos con más tráfico en el mes de agosto de 2025.
 category:

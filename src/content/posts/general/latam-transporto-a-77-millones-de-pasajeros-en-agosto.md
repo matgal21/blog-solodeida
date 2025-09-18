@@ -1,5 +1,5 @@
 ---
-title: latam transporto a 7,7 millones de pasajeros en agosto
+title: Latam transportó a 7,7 millones de pasajeros en agosto
 slug: general/latam-transporto-a-7-millones-de-pasajeros-en-agosto
 description: La aerolínea de Sudamérica creció casi un 10% con respecto al año pasado.
 category:
@@ -18,7 +18,7 @@ coverAlt: Airbus 320 de Latam
 author: Mateo
 ---
 
-### LATAM incrementa su capacidad en 9,4% y transporta 7,7 millones de pasajeros en agosto
+## LATAM incrementa su capacidad en 9,4% y transporta 7,7 millones de pasajeros en agosto
 
 El grupo LATAM ha anunciado sus estadísticas operacionales preliminares de agosto, destacando un sólido desempeño que confirma la tendencia de crecimiento sostenido. El grupo incrementó su capacidad consolidada, medida en asientos-kilómetros disponibles (ASK), en un 9,4% respecto al mismo mes de 2024, lo que se tradujo en un aumento significativo en el número de pasajeros transportados.
 

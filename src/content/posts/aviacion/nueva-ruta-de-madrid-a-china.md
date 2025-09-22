@@ -12,7 +12,7 @@ tags:
   - España
   - China Southern
 pubDate: 2025-09-22
-cover: "/images/aviacion/mad-china-southern/china-southern-787-9_73657.jpg"
+cover: "/images/aviacion/mad-china-southern/cover-mad-china.jpg"
 coverAlt: Boeing 787-9 Dreamliner China Southern
 author: Mateo 
 ---
@@ -20,7 +20,7 @@ author: Mateo
 ## China Southern unirá Guangzhou y Madrid a partir de diciembre de 2025 🇪🇸🇨🇳
 **China Southern Airlines** ha anunciado la apertura de una nueva conexión sin escalas entre **Guangzhou** (CAN) y **Madrid** (MAD). Esta esperada ruta comenzará a operar el **2 de diciembre de 2025**, ofreciendo una alternativa directa para conectar el sur de China con la capital española.
 
-<img src="/images/aviacion/mad-china-southern/50bdcd6728d2ef33e3fafcc2648fb02174e6b387.jpg" alt="Boeing 787-9 Dreamliner China Southern">
+<img src="/images/aviacion/mad-china-southern/china-southern-787-9_73657.jpg" alt="Boeing 787-9 Dreamliner China Southern">
 
 La aerolínea ha programado **tres vuelos semanales** en su moderno Boeing 787-9 Dreamliner, lo que promete una experiencia de viaje más cómoda y eficiente.
 

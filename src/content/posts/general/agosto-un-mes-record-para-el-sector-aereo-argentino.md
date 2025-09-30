@@ -1,11 +1,15 @@
 ---
-title: Agosto Un mes récord para el sector aéreo argentino
+title: Agosto un mes récord para el sector aéreo argentino
 slug: general/agosto-un-mes-record-para-el-sector-aereo-argentino
 description: Creció un 13% con respecto al agosto del año 2024, y 6% al mes de julio.
 category:
   - General
 tags:
   - Argentina
+  - Turistas
+  - Pasajeros
+  - Agosto
+
 pubDate: 2025-09-29
 cover: "/images/anac/agosto-2025/anac1.jpg"
 coverAlt: Más de 4.300.000 pasajeros pasaron por los aeropuertos argentinos

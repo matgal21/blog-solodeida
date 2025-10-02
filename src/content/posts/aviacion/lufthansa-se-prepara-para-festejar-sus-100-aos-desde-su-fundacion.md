@@ -6,7 +6,7 @@ category:
   - Aviación
 tags:
   - Lufthansa
-pubDate: 2025-10-03T03:00:00.000Z
+pubDate: 2024-10-03
 cover: /images/aviacion/100-años-lufthansa/100-luf3.jpg
 coverAlt: Boeing 787-9 Lufthansa livery 100 años
 author: Mateo

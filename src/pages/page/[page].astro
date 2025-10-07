@@ -14,8 +14,8 @@ export async function getStaticPaths() {
       new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
   );
 
-  const firstPagePosts = allPosts.slice(0, 15);
-  const remainingPosts = allPosts.slice(15);
+  const firstPagePosts = allPosts.slice(0, 5);
+  const remainingPosts = allPosts.slice(5);
   const totalPages = Math.ceil(remainingPosts.length / 12);
 
   const paths = [
@@ -59,7 +59,7 @@ const { page } = Astro.props;
           {page.data.length > 0 && <HeroCard post={page.data[0]} />}
         </div> */}
         <div class="mb-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
-          {page.data.slice(0, 14).map((post) => (
+          {page.data.slice(0, 5).map((post) => (
             <PostCard post={post} />
           ))}
         </div>

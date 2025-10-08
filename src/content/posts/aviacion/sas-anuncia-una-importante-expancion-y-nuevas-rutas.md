@@ -12,7 +12,7 @@ tags:
   - Vuelos
   - Europa
   - Escandinavos
-pubDate: 2024-10-01
+pubDate: 2025-10-01
 cover: "/images/aviacion/sas/sas3.jpg"
 coverAlt: Airbus A330 SAS
 author: Mateo

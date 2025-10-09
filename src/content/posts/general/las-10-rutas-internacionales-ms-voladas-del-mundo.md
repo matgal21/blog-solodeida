@@ -49,7 +49,7 @@ De las 10 rutas más voladas, siete se encuentran en la región de Asia-Pacífic
 #### Sorpresa en el Oriente Medio
 
 La ruta que conecta El Cairo (CAI) y Yeda (JED) rompe el dominio asiático, asegurando el segundo puesto global. Esta ruta es vital, especialmente por su intensa demanda relacionada con viajes religiosos y de negocios entre Egipto y Arabia Saudita.
-<img src="/public/images/general/10-rutas-octubre/Aeropuerto-de-El-Cairo_0-2.jpg" alt="Aeropuerto de El Cairo">
+<img src="/images/general/10-rutas-octubre/Aeropuerto-de-El-Cairo_0-2.jpg" alt="Aeropuerto de El Cairo">
 
 #### El puente Transatlántico único
 

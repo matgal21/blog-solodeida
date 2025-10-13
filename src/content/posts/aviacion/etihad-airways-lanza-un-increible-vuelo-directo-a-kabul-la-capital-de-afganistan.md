@@ -1,7 +1,7 @@
 ---
 title: Etihad Airways lanza un increíble vuelo directo a Kabul, la capital de Afganistán
 slug: aviacion/etihad-airways-lanza-un-increible-vuelo-directo-a-kabul-la-capital-de-afganistan
-description: Vuelos directos desde Abu Dhabi con 3 vuelos semanales.
+description: Vuelos directos desde Abu Dhabi con 3 vuelos semanales.ees
 category:
   - Aviación
 tags:

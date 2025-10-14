@@ -1,5 +1,5 @@
 ---
-title: american airlines la aerolinea con mas aviones del mundo
+title: American Airlines la aerolinea con más aviones del mundo
 slug: aviacion/american-airlines-la-aerolinea-con-mas-aviones-del-mundo
 description: Más de 1.500 aviones en su flota, seguida por United e Delta con 1.396 y 1.271
 category:

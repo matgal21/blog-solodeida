@@ -1,5 +1,5 @@
 ---
-title: Lima y Santiago la ruta internacionalcon más pasajeros de América Latina
+title: Lima y Santiago la ruta internacional con más pasajeros de América Latina
 slug: aviacion/lima-y-santiago-la-ruta-internacional-mas-volada-de-america-latina
 description: Las 10 rutas internacionales con más pasajeros de America Latina.
 category:

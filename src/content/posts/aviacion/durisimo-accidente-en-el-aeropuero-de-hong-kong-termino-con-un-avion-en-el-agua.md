@@ -1,7 +1,7 @@
 ---
 title: Durísimo accidente en el Aeropuero de Hong Kong terminó con un avion en el agua
 slug: aviacion/durisimo-accidente-en-el-aeropuero-de-hong-kong-termino-con-una-vion-en-el-agua
-description: Un Boeing 747 cargo de Emirates operado por ACT se salió de la pista y termino en el agua. 
+description: Un Boeing 747 cargo de Emirates operado por ACT se salió de la pista y terminó en el agua. 
 category:
   - Aviación
 tags:

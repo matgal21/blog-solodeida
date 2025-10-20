@@ -18,7 +18,7 @@ coverAlt: Boeing 747 cargo de Air ACT chocado en el agua
 author: Mateo
 ---
 
-## Incidente aéreo un Boeing 747 Se Sale de Pista y Termina en el Mar en Hong Kong
+## Incidente aéreo un Boeing 747 se salió de la pista y terminó en el mar en Hong Kong
 
 Lamentables noticias desde Asia. Un avión de carga Boeing 747-400F, operado por ACT Airlines bajo la marca Emirates SkyCargo, se salió de la pista al aterrizar en el Aeropuerto Internacional de Hong Kong (HKG), terminando en las aguas del mar adyacente.
 

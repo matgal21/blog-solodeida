@@ -20,7 +20,7 @@ La historia de la aviación comercial ha marcado un punto de inflexión: la fami
 
 Este es un logro monumental para el gigante europeo, sobre todo considerando que el A320 entró en servicio en 1988, ¡dos décadas después que su rival estadounidense (1968)!
 
-### Las Cifras del Sorpasso
+### Las cifras del sorpasso
 
 Según los últimos datos de entrega, el icónico 737 de Boeing ha sido superado:
 
@@ -29,7 +29,7 @@ Según los últimos datos de entrega, el icónico 737 de Boeing ha sido superado
 | Airbus A320 | 12.257                                            | 1988                |
 | Boeing 737  | 12.254                                            | 1968                |
 
-### El Contexto de un Liderazgo
+### El contexto de un liderazgo
 
 Este cambio en el liderazgo de ventas se produce en un momento en que la aviación global prioriza la eficiencia. El éxito del A320 y sus variantes (incluyendo el A321XLR, que permite vuelos transoceánicos) ha consolidado la posición de Airbus, mientras que Boeing enfrenta desafíos en su producción.
 

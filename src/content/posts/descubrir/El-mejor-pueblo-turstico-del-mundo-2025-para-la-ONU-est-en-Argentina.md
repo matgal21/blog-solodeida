@@ -1,6 +1,6 @@
 ---
 title: El mejor pueblo turístico del mundo 2025 para la ONU está en Argentina
-slug: escubrir/el-mejor-pueblo-turístico-del-mundo-2025-para-la-ONU-está-en-Argentina
+slug: descubrir/el-mejor-pueblo-turístico-del-mundo-2025-para-la-ONU-está-en-Argentina
 description: La Organización de las Naciones Unidas para el Turismo realizó unos premios en China.
 category:
   - Descubrir
@@ -9,7 +9,7 @@ tags:
   - Turismo
   - Maimará
   - Jujuy
-pubDate: 2024-10-24
+pubDate: 2025-10-23
 cover: /images/descubrir/maimara/maimara2.jpeg
 coverAlt: Ciudad jujeña de Maimará
 author: Mateo
@@ -19,7 +19,7 @@ author: Mateo
 
 El norte argentino se hace sentir a nivel global. Maimará, un pequeño pueblo ubicado en el corazón de la Quebrada de Humahuaca (Jujuy), ha sido reconocida como el "Mejor Pueblo Turístico del Mundo 2025" por la Organización de las Naciones Unidas para el Turismo (ONU Turismo).
 
-![](/images/descubrir/maimara/1018bestvillages-2121081.jpg)
+![Intendente de Marimará recibiendo el premio](/images/descubrir/maimara/1018bestvillages-2121081.jpg)
 
 La distinción, entregada en China, valora su identidad cultural, su entorno natural y su desarrollo sustentable, imponiéndose entre más de 270 candidatos de 65 países.
 

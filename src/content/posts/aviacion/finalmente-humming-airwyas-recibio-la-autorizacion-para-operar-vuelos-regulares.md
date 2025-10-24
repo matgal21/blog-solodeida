@@ -29,11 +29,11 @@ author: Mateo
 
 Humming Airways una aerolínea fundada en abril de 2024 por tres jóvenes emprendedores, acaba de recibir la autorización oficial para operar vuelos.
 
-La compañía tendrá como principal objetivo conectar las provincias del interior del país con Buenos Aires, buscando mejorar la conectividad y la movilidad a nivel nacional. Actualmente vuela desde Venado Tuerto(Santa Fe), Villa María(Córdoba), Tandil, Olavarría y Villa Gesell(Buenos Aires) con vuelos que rondan 1 hora de viaje.
+La compañía tendrá como principal objetivo conectar las provincias del interior del país con Buenos Aires, buscando mejorar la conectividad y la movilidad a nivel nacional. Actualmente vuela desde **Venado Tuerto**(Santa Fe), **Villa María**(Córdoba), **Tandil**, **Olavarría** y **Villa Gesell**(Buenos Aires) con vuelos que rondan 1 hora de viaje.
 
 ![Rutas actuales de Humming Airways](</images/aviacion/humming-airways/Captura de pantalla 2025-10-23 103052.png>)
 
-Próximamente planean volar a más destinos nacionales e internacionales, con viajes a Buenos Aires desde Concordia y Paraná (Entre Ríos) y vuelos hacia Uruguay volando a Montevideo y Paisandú donde estos vuelos rondarían solo 40/50 minutos
+Próximamente planean volar a más destinos nacionales e internacionales, con viajes a Buenos Aires desde **Concordia** y **Paraná** (Entre Ríos) y vuelos hacia Uruguay volando a **Montevideo** y **Paisandú** donde estos vuelos rondarían solo 40/50 minutos
 
 ![Próximas rutas de Humming Airways](</images/aviacion/humming-airways/Captura de pantalla 2025-10-23 103059.png>)
 

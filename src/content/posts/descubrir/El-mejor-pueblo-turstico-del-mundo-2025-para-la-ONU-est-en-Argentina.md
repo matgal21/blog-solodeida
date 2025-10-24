@@ -27,7 +27,7 @@ La distinción, entregada en China, valora su identidad cultural, su entorno nat
 
 Este pueblo de poco más de 5.000 habitantes es mundialmente famoso por asentarse sobre la Paleta del Pintor, una icónica formación montañosa de colores vibrantes.
 
-![](/images/descubrir/maimara/maimara.jpeg)
+![Ciudad de Maimará](/images/descubrir/maimara/maimara.jpeg)
 
 * Economía Local: Su vida está ligada a la Pachamama y se basa en la agricultura, la floricultura (campos de rosas, gladiolos) y la vitivinicultura de altura.
 * Experiencias Únicas: Los visitantes pueden explorar sus bodegas, participar en la Vendimia del Bayeh (festival de vino, arte y gastronomía), y disfrutar de platos típicos jujeños como el locro, la humita y el picante de lengua.

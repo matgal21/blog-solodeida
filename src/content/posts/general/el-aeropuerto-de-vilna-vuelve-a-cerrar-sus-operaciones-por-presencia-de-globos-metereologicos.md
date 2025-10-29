@@ -1,5 +1,5 @@
 ---
-title: El Aeropuerto de Vilna vuelve a cerrar sus operaciones por presencia de globos metereológicos
+title: El Aeropuerto de Vilna vuelve a cerrar sus operaciones por presencia de globos meteorológicos 
 slug: general/el-aeropuerto-de-vilna-vuelve-a-cerrar-sus-operaciones-por-presencia-de-globos-metereologicos
 description: Lituania cerró de manera definitiva la frontera con Bielorrusia tras reiterados hechos.
 category:

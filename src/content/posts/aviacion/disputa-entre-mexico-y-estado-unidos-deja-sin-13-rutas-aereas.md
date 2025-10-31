@@ -1,5 +1,5 @@
 ---
-title: Disputa entre México y Estado Snidos deja sin 13 rutas aéreas
+title: Disputa entre México y Estado Unidos deja sin 13 rutas aéreas
 slug: aviacion/disputa-entre-mexico-y-estado-unidos-deja-sin-13-rutas-aereas
 description: Estados Unidos cancela 13 rutas aéreas con México en represalia.
 category:
@@ -7,6 +7,8 @@ category:
 tags:
   - México
   - Estados Unidos
+  - Vuelos
+  - Rutas aéreas
 pubDate: 2025-10-30T03:00:00.000Z
 cover: /images/aviacion/mexico-usa/b737-aeromexico.jpg
 coverAlt: Boeing 737 Aeroméxico
@@ -32,6 +34,6 @@ La medida es una represalia que llega tras meses de quejas del Gobierno estadoun
 
 ### Reacción en México
 
-La decisión ha generado una fuerte respuesta política. La presidenta de México, Claudia Sheinbaum, criticó la medida y afirmó: “México no es piñata de nadie. A México se le respeta”.
+La decisión ha generado una fuerte respuesta política. La presidenta de México, Claudia Sheinbaum, criticó la medida.
 
 El DOT reconoció que esta orden "podría afectar los planes de viaje de los ciudadanos estadounidenses" y aconsejó a los pasajeros contactar a sus aerolíneas. La crisis abre un nuevo frente de tensión bilateral con un impacto inmediato en la conectividad aérea

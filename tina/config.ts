@@ -78,10 +78,13 @@ export default defineConfig({
           },
           {
             type: "datetime",
-            name: "pubDate",
-            label: "Date",
-            // Las fechas no suelen ser directamente buscables por texto,
-            // pero puedes manejarlas con filtros en tus consultas si lo necesitas.
+            name: "publishDate",
+            label: "Fecha de Publicación",
+            required: true,
+            ui: {
+              dateFormat: "DD/MM/YYYY",
+              timeFormat: "HH:mm",
+            },
           },
           {
             type: "image",

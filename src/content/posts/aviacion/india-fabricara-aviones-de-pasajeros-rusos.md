@@ -9,7 +9,7 @@ tags:
   - Rusia
   - India
   - Avión
-pubDate: 2025-10-31T03:00:00.000Z
+pubDate: 2025-10-31
 cover: /images/aviacion/ms-21-avion-ruso/cj-100/hal-russia-sj-100-aircraft-280650392-16x9_0.avif
 coverAlt: Avión SJ-100
 author: Mateo

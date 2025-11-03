@@ -78,7 +78,7 @@ export default defineConfig({
           },
           {
             type: "datetime",
-            name: "publishDate",
+            name: "pubDate",
             label: "Fecha de Publicación",
             required: true,
             ui: {

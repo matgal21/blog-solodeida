@@ -1,5 +1,4 @@
 ---
-pubDate: '2023-11-04T00:00:00.000Z'
 title: >-
   Air Europa roza el 100% de ocupación en septiembre y Avianca experimenta una
   caída muy grande
@@ -13,7 +12,7 @@ tags:
   - Argentina
   - Turismo
   - Air Europa
-publishDate: 2025-11-04T11:00:00.000Z
+pubDate: 2025-11-04T11:00:00.000Z
 cover: /images/aviacion/aireuropa/b787-aireuropa2.jpeg
 coverAlt: Boeing 787 Dreamliner Air Europa
 author: Mateo

@@ -1,9 +1,6 @@
 ---
-title: >-
-  Air Europa roza el 100% de ocupación en septiembre y Avianca experimenta una
-  caída muy grande
-slug: >-
-  general/air-europa-roza-el-100%-de-ocupacion-en-septiembre-y-avianca-experimenta-una-caida-muy-grande
+title: Air Europa roza el 100% de ocupación en septiembre y Avianca experimenta una caída muy grande
+slug: general/air-europa-roza-el-100%-de-ocupacion-en-septiembre-y-avianca-experimenta-una-caida-muy-grande
 description: Estos son los datos de pasajeros en Argentina en septiembre del 2025.
 category:
   - General
@@ -12,7 +9,7 @@ tags:
   - Argentina
   - Turismo
   - Air Europa
-pubDate: 2025-11-04T11:00:00.000Z
+pubDate: 2025-11-04T14:00:00.000Z
 cover: /images/aviacion/aireuropa/b787-aireuropa2.jpeg
 coverAlt: Boeing 787 Dreamliner Air Europa
 author: Mateo

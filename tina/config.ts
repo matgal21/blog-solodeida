@@ -81,10 +81,6 @@ export default defineConfig({
             name: "pubDate",
             label: "Fecha de Publicación",
             required: true,
-            ui: {
-              dateFormat: "DD/MM/YYYY",
-              timeFormat: "HH:mm",
-            },
           },
           {
             type: "image",

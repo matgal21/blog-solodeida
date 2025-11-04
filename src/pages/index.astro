@@ -8,15 +8,17 @@ import Carrousel from "@components/Carrousel.astro";
 import YtCard from "@components/YtCard.astro";
 import CookiesBanner from "@components/CookiesBanner.astro";
 
-const allPosts = await getCollection("posts");
-allPosts.sort(
-  (a, b) =>
-    new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
-);
+// 1. Obtenemos todos los posts y los filtramos para mostrar solo los publicados.
+const publishedPosts = (await getCollection("posts"))
+  .filter((post) => post.data.pubDate <= new Date())
+  .sort(
+    (a, b) =>
+      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+  );
 
 const postsPerPage = 16;
-const totalPages = Math.ceil(allPosts.length / postsPerPage);
-
+// 2. Calculamos el total de páginas basándonos en los posts que sí se van a mostrar.
+const totalPages = Math.ceil(publishedPosts.length / postsPerPage);
 const basePath = "/page/";
 ---
 <head>

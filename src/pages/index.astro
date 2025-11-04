@@ -10,10 +10,10 @@ import CookiesBanner from "@components/CookiesBanner.astro";
 
 // 1. Obtenemos todos los posts y los filtramos para mostrar solo los publicados.
 const publishedPosts = (await getCollection("posts"))
-  .filter((post) => post.data.pubDate <= new Date())
+  .filter((post) => new Date(post.data.pubDate).valueOf() <= new Date().valueOf())
   .sort(
     (a, b) =>
-      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
   );
 
 const postsPerPage = 16;

@@ -8,7 +8,7 @@ tags:
   - Egipto
   - Museos
   - Gran Museo Egipcio
-pubDate: 2023-11-05
+pubDate: 2025-11-05
 cover: /images/general/museos/museo-egipcio/gran-museo-egipcio_c96b3e8a_230411094623_1200x675.jpg
 coverAlt: Gran Museo Egipcio
 author: Mateo

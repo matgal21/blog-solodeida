@@ -14,7 +14,7 @@ tags:
 pubDate: 2025-11-06T03:00:00.000Z
 cover: /images/aviacion/plus-ultra/foto-spoters.jpg
 coverAlt: Airbus A330 Plus Ultra
-Autor: Mateo
+author: Mateo
 ---
 
 ## Plus Ultra Abre la Ruta Madrid-Buenos Aires con Dos Frecuencias Semanales 

@@ -27,7 +27,8 @@ Al dia de hoy los pasajes ya se encuentran a la venta en su página web oficial,
 
 Plus Ultra ya ha iniciado la venta de billetes con el objetivo de empezar a volar en mayo, coincidiendo con la temporada alta. Buenos Aires se une a los cuatro destinos regulares que ya opera la compañía en Latinoamérica: Bogotá, Cartagena de Indias, Lima y Caracas.
 
-<img src="images/aviacion/plus-ultra/a330-plus-ultra.jpg" alt="Anuncio PLus Ultra vuelo Buenos Aires-Madrid">
+<img src="/images/aviacion/plus-ultra/a330-plus-ultra.jpg" alt="Anuncio PLus Ultra vuelo Buenos Aires-Madrid">
+
 Esta inauguración forma parte del plan de expansión que contempla acabar 2025 con la incorporación de dos aviones Airbus A-330 de largo radio, el séptimo de su flota, y el aumento de frecuencias en todos sus destinos.
 
 La aerolínea destacó que esta nueva ruta subraya su capacidad para consolidar el crecimiento y la expansión en mercados de alto potencial, siendo América Latina su objetivo prioritario. El inicio de operaciones en Argentina coincide además con la celebración del primer centenario del vuelo del hidroavión Plus Ultra, que da nombre a la compañía.

@@ -20,16 +20,16 @@ author: Mateo
 
 Aeroméxico ha anunciado una importante expansión de su red internacional, incrementando su capacidad hacia Europa en un 11% el próximo año.
 
-![](/images/aviacion/aeromexico/b787-aeromexico.jpg)
+![Boeing 787 Dreamliner Aeroméxico](/images/aviacion/aeromexico/b787-aeromexico.jpg)
 
 Esta expansión es vista como una acción estratégica para no quedarse atrás después el reciente anuncio de Iberia, que confirmó que volará la ruta directa Madrid-Monterrey.
 
-![](/images/aviacion/aeromexico/premier_section.jpg)
+![Interior del avión Boeing 787 Dreamliner Aeroméxico](/images/aviacion/aeromexico/premier_section.jpg)
 
 La aerolínea reactivará su ruta México - Barcelona, con seis vuelos semanales a partir del 28 de marzo.
 
 Además, Aeroméxico abrirá una nueva ruta directa desde Monterrey hacia París Charles de Gaulle, que comenzará a operar con tres vuelos semanales desde el 13 de abril.
 
-![](/images/aviacion/aeromexico/horarios-vuelos.jpeg)
+![Horarios de los vuelos de Aeroméxico](/images/aviacion/aeromexico/horarios-vuelos.jpeg)
 
 Ambos trayectos transatlánticos serán operados con el moderno y eficiente Boeing 787 Dreamliner, consolidando la apuesta de la aerolínea por la conectividad entre México y el continente europeo.

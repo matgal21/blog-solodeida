@@ -10,7 +10,7 @@ tags:
   - Casablanca
 pubDate: 2025-11-12T03:00:00.000Z
 cover: /images/general/casablanca-aeropuerto/aeorpuerto-marruecos2.jpeg
-coverAlt: Nuevo Aeropuerto de Casablanca (Marruecos).'
+coverAlt: Nuevo Aeropuerto de Casablanca (Marruecos)
 author: Mateo
 ---
 

@@ -12,7 +12,7 @@ tags:
   - Starlink
   - Boeing 777-9
 pubDate: 2025-11-18T15:00:00.000Z
-cover: /images/aviacion/dubai-airshow/777-9-full-wing-16x9-1-800x415.jpg
+cover: /images/aviacion/dubai-airshow/cover.jpeg
 coverAlt: Boeing 777-9 Emirates
 author: Mateo
 ---

@@ -19,7 +19,7 @@ author: Mateo
 
 El Dubai Airshow 2025 ha comenzado hoy 17 de noviembre hasta el 21 de este mes, atrayendo a líderes, fabricantes y aerolíneas de todo el mundo al corazón de los Emiratos Árabes Unidos. Este evento bienal es conocido por ser un epicentro de grandes anuncios de pedidos y alianzas estratégicas.
 
-![](/images/aviacion/dubai-airshow/cover-das.jpg)
+![](/images/aviacion/dubai-airshow/G59XonkWUAATCLc.jpeg)
 
 Según se ha anticipado, Emirates se lleva las luces en este Dubai Airshow, con dos anuncios importantes en la mira. El primero sería la asociación con Starlink para ofrecer WiFi de alta velocidad gratuito en todos sus aviones.
 

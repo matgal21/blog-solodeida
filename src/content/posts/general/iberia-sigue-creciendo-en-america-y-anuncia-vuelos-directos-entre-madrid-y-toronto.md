@@ -12,7 +12,7 @@ tags:
   - España
   - Airbus A321XLR
   - Airbus
-pubDate: 2024-11-19T15:00:00.000Z
+pubDate: 2025-11-19T03:00:00.000Z
 cover: /images/A321LXR_1.jpg
 coverAlt: Airbus A321XLR Iberia
 author: Mateo

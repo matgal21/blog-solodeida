@@ -1,5 +1,5 @@
 ---
-title: Iiberia sigue creciendo en América y anuncia vuelos directos entre Madrid y Toronto
+title: Iberia sigue creciendo en América y anuncia vuelos directos entre Madrid y Toronto
 slug:  general/iberia-sigue-creciendo-en-america-y-anuncia-vuelos-directos-entre-madrid-y-toronto
 description: 5 vuelos semanales en los Airbus A321XLR, avión de un pasillo con clase ejecutiva y 182 asientos.
 category:

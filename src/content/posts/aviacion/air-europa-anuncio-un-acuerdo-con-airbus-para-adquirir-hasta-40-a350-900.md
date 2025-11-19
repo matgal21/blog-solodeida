@@ -10,7 +10,7 @@ tags:
   - Boeing
   - Airbus
   - España
-pubDate: 2024-11-19T03:00:00.000Z
+pubDate: 2025-11-19T03:00:00.000Z
 cover: /images/aviacion/aireuropa-airbus/a350-aireuqopa.jpg
 coverAlt: Airbus A350-900 Air Europa
 author: Mateo

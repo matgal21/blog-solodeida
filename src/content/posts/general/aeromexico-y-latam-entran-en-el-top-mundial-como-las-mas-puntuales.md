@@ -1,5 +1,5 @@
 ---
-title: aeromexico y latam entran en el top mundial como las mas puntuales
+title: Aeroméxico y Copa entran en el top mundial como las aerolíneas más puntuales
 slug: general/aeromexico-y-latam-entran-en-el-top-mundial-como-las-mas-puntuales
 description: La aerolínea de Jordania, Royal Jordanian la más puntual del mundo en el mes pasado.
 category:
@@ -17,7 +17,7 @@ tags:
   - Philippine Airlines
   - Jiangxi Air
   - Aerolineas
-pubDate: 2024-11-20T15:00:00.000Z
+pubDate: 2025-11-20T15:00:00.000Z
 cover: /images/aviacion/aeromexico/aeromexico2.jpg
 coverAlt: Avión de Aeroméxico
 author: Mateo
@@ -25,7 +25,7 @@ author: Mateo
 
 ## Aeroméxico y Copa lideran la puntualidad en sus vuelos en Latinoamérica 
 
-Los datos del rendimiento mundial de aerolíneas muestran un gran rendimiento para dos grandes aerolíneas de latinoamérica en la puntualidad de sus vuelos.
+Los datos del rendimiento mundial de aerolíneas según la OAG muestran un gran rendimiento para dos grandes aerolíneas de latinoamérica en la puntualidad de sus vuelos.
 
 Aeroméxico se posiciona en el top 10 mundial con un índice de puntualidad del 91.73%, asegurando el sexto lugar a nivel global, un logro notable en la compleja aviación de la región.
 

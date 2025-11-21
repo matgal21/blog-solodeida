@@ -9,7 +9,7 @@ tags:
   - Aeropuerto de Córdoba
   - Argentina
   - Remodelacion
-pubDate: 2024-11-20T15:00:00.000Z
+pubDate: 2025-11-20T15:00:00.000Z
 cover: /images/aeropuertos/cordoba/cordoba3.jpg
 coverAlt: Futuro Aeropuerto de Córdoba
 author: Mateo

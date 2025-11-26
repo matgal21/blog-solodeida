@@ -18,12 +18,12 @@ author: Mateo
 
 Dubái ha vuelto a captar la atención mundial con la apertura del Ciel Dubai Marina, que oficialmente se convierte en el hotel más alto del mundo con una altura de 365 metros. Esta impresionante estructura pertenece al reconocido grupo hotelero global IHG.
 
-![](/images/general/hotel-ciel-marina/hotel-ciel-dubai-skyline.webp)
+![Skyline Dubai](/images/general/hotel-ciel-marina/hotel-ciel-dubai-skyline.webp)
 
 El hotel cuenta con más de 1.000 habitaciones y suites, y ofrece vistas panorámicas inigualables de la costa, Palm Jumeirah y el horizonte de la ciudad.
 
 El alojamiento se enfoca en el segmento de lujo: la noche de habitación más barata se encuentra por más de 400 USD, mientras que el precio de una suite comienza en los 600 USD.
 
-![](/images/general/hotel-ciel-marina/vignette-collection-dubai-10657471736-4x3.jpg)
+![Hotel Ciel Dubai Marina](/images/general/hotel-ciel-marina/vignette-collection-dubai-10657471736-4x3.jpg)
 
 El Ciel Dubai Marina no solo es un hito arquitectónico, sino que también establece un nuevo estándar en la hotelería de lujo, consolidando la posición de Dubái como un destino clave para el turismo de alto nivel.

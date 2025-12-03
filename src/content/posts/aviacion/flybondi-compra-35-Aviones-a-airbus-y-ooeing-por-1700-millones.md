@@ -1,6 +1,6 @@
 ---
 title: Flybondi compra 35 aviones a Airbus y Boeing por $1.700 millones
-slug: aviacion/flybondi-compra-35-aviones-a-airbus-y-boeing-por-1-700-millones
+slug: aviacion/flybondi-compra-35-Aviones-a-airbus-y-boeing-por-1-700-millones
 description: La low cost argentina anunció la compra de Airbus A220 y Boeing 737 MAX10 en un crecimiento histórico de su flota.
 category:
   - Aviación

@@ -12,6 +12,7 @@ tags:
   - Boeing 737 MAX 10
 pubDate: 2025-12-03T14:00:00.000Z
 cover: /images/aviacion/flybondi/Gemini_Generated_Image_3ypxtd3ypxtd3ypx.png
+coverAlt: Aviones Airbus A220 y Boieng 737 MAX 10 Flybondi
 author: Mateo
 ---
 

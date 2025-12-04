@@ -28,12 +28,12 @@ Londres Heathrow (LHR) e Istanbul Airport (IST) completan la lista de hubs clave
 | Puesto | Código | Aeropuerto                             | Asientos  |
 | ------ | ------ | -------------------------------------- | --------- |
 | 1      | DXB    | Dubai International                    | 5,498,334 |
-| 2      | LHR    | London Heathrow Apt                    | 4,062,666 |
-| 3      | SIN    | Singapore Changi Apt                   | 3,743,399 |
-| 4      | ICN    | Seoul Incheon International Airport    | 3,710,486 |
-| 5      | HKG    | Hong Kong International Apt            | 3,513,089 |
-| 6      | IST    | Istanbul Airport                       | 3,431,690 |
-| 7      | CDG    | Paris Charles de Gaulle Apt            | 3,294,232 |
-| 8      | AMS    | Amsterdam                              | 3,260,723 |
-| 9      | DOH    | Doha (QA)                              | 2,914,708 |
-| 10     | BKK    | Bangkok Suvarnabhumi International Apt | 2,877,663 |
+| 2      | ATL    | Atlanta Hartsfield-Jackson Intl Apt    | 5,211,533 |
+| 3      | HND    | Tokyo Intl (Haneda)                    | 4,675,127 |
+| 4      | CAN    | Baiyun Intl (CN)                       | 4,430,746 |
+| 5      | LHR    | London Heathrow Apt                    | 4,345,154 |
+| 6      | PVG    | Shanghai Pudong International Apt      | 4,317,590 |
+| 7      | DEL    | Delhi                                  | 4,306,307 |
+| 8      | DFW    | Dallas Dallas/Fort Worth Intl Apt      | 4,290,733 |
+| 9      | IST    | Istanbul Airport                       | 4,224,881 |
+| 10     | ORD    | Chicago O'Hare International Apt       | 4,119,711 |

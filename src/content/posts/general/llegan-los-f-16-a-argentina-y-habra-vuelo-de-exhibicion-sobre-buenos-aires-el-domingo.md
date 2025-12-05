@@ -1,5 +1,5 @@
 ---
-title: Llegan los F-16 a Argentina y habrá vuelo de exhibición sobre Buenos Aires el domingo
+title: Llegan los F-16 a Argentina y habrá vuelo de exhibición sobre Buenos Aires el sábado
 slug: general/llegan-los-f-16-a-argentina-y-habra-vuelo-de-exhibicion-sobre-buenos-aires-el-domingo
 description: Los aviones de la Fuerza Aérea Argentina se podrán ver en los puntos claves de la ciudad.
 category:
@@ -22,7 +22,7 @@ La Fuerza Aérea Argentina celebrará la incorporación de los nuevos aviones de
 
 ![F-16 de la Fuerza Aérea de Argentina](/images/general/f-16/G7RFmlyWwAAP2di.jpg)
 
-El evento se llevará a cabo el domingo 7 de diciembre, permitiendo a los ciudadanos observar la aeronave en acción.
+El evento se llevará a cabo el **sábado 6 de diciembre**, atención que en primera instancia era el domingo 7 pero por condiciones climáticas en Rio Cuarto se adelanto un día antes.
 
 ![Trayecto del vuelo de muestra de los F-16](/images/general/f-16/G7U7jKNXEAMCWMj.jpg)
 

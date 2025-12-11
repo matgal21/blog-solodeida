@@ -22,7 +22,7 @@ El Grupo Lufthansa ha anunciado el lanzamiento de una nueva identidad de marca, 
 
 ![Aerolíneas miembros del Grupo Lufthansa](/images/aviacion/logo-lufthansa/lufthansagroup_lounge-.jpg)
 
-La nueva identidad visual incluye un nuevo logotipo donde la icónica grúa se utilizará sin el círculo circundante. También se introduce una nueva fuente y una paleta de colores ampliada con seis nuevos tonos que reflejan la diversidad del Grupo.
+La nueva identidad visual incluye un nuevo logotipo donde la icónica grulls se utilizará sin el círculo circundante. También se introduce una nueva fuente y una paleta de colores ampliada con seis nuevos tonos que reflejan la diversidad del Grupo.
 
 ![Nuevo logo del Grupo Lufthansa](/images/aviacion/logo-lufthansa/lufthansagrouplogoimraum.png)
 

@@ -1,6 +1,5 @@
 ---
-title: >-
-  paros gremiales de controladores aereos afectaran vuelos nacionales e internacionales
+title: Paros gremiales de controladores aéreos de ATEPSA afectarán vuelos nacionales e internacionales
 slug: >-
   aviacion/paros-gremiales-controladores-aereos-afectaran-vuelos-nacionales-e-internacionales
 description: >-
@@ -12,7 +11,7 @@ tags:
   - Controladores Aéreos
   - Argentina
   - Gremios
-pubDate: 2024-12-16T11:00:00.000Z
+pubDate: 2025-12-16T11:00:00.000Z
 cover: /images/aviacion/gremios/202409095312_75.webp
 coverAlt: Paro de controladores aéreos en Argentina
 author: Mateo

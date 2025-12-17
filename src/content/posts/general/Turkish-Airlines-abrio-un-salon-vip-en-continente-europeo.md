@@ -8,7 +8,7 @@ tags:
   - Turkish Airlines
   - Edimburgo
   - Salón vip
-pubDate: 2025-12-18T11:00:00.000Z
+pubDate: 2025-12-17T11:00:00.000Z
 cover: /images/general/turkish-airlines/TK-Edinburgh-Lounge-01.jpg
 coverAlt: Salón vip de Turkish Airlines en Edimburgo
 author: Mateo

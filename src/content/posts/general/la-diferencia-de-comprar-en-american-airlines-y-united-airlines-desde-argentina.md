@@ -2,7 +2,7 @@
 title: >-
   la diferencia de comprar en american airlines y united airlines desde
   argentina
-slug: general/la diferencia-de-comprar-en-american-airlines-y-united-airlines
+slug: general/la-diferencia-de-comprar-en-american-airlines-y-united-airlines
 description: >-
   United al momento de pagar te pesifica la compra, American te permite pagar en
   dólares.
@@ -12,7 +12,7 @@ tags:
   - United Airlines
   - American Airlines
   - Argentina
-pubDate: 2024-12-18T15:00:00.000Z
+pubDate: 2025-12-18T15:00:00.000Z
 cover: /images/aeropuertos/aviones/american-united.png
 coverAlt: Aviones de American Airlines y United Airlines
 author: Mateo

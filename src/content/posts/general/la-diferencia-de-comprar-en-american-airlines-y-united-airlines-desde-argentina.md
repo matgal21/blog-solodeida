@@ -13,7 +13,7 @@ tags:
   - American Airlines
   - Argentina
 pubDate: 2025-12-18T15:00:00.000Z
-cover: /images/aeropuertos/aviones/american-united.png
+cover: /images/aeropuertos/aviones/image.jpg
 coverAlt: Aviones de American Airlines y United Airlines
 author: Mateo
 ---

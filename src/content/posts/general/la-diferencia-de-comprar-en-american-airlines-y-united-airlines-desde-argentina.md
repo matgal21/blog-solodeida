@@ -1,7 +1,7 @@
 ---
 title: >-
-  la diferencia de comprar en american airlines y united airlines desde
-  argentina
+  La diferencia de comprar en American Airlines y Enited Airlines desde
+  Argentina
 slug: general/la-diferencia-de-comprar-en-american-airlines-y-united-airlines
 description: >-
   United al momento de pagar te pesifica la compra, American te permite pagar en

@@ -1,7 +1,7 @@
 ---
 title: >-
   El Boeing 787 de Lufthansa con el diseño de los 100 años ya aterrizó en
-  fFráncfort
+  Fráncfort
 slug: >-
   aviacion/el-boeing-787-de-lufthansa-con-el-diseño-de-los-100-años-ya-aterrizo-en-francfort
 description: >-

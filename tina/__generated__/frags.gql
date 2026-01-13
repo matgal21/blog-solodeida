@@ -1,0 +1,9 @@
+fragment PostParts on Post {
+  __typename
+  title
+  body
+  description
+  category
+  tags
+  author
+}

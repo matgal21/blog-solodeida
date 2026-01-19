@@ -1,6 +1,6 @@
 ---
 title: >-
-  Lufthansa se suma a otras aerolíneas y prohíbe el uso de baterñias portátiles
+  Lufthansa se suma a otras aerolíneas y prohíbe el uso de baterías portátiles
   en vuelos
 slug: >-
   aviacion/lufthansa-se-suma-a-otras-aerolíneas-y-prohíbe-el-uso-de-baterias-portatiles-en-vuelos

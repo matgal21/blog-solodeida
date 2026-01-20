@@ -1,5 +1,5 @@
 ---
-title: El Aeropuerto de Santiago de Chile, Panamá y Guayaquil fueron los más puntuales del mundo es sus categorías
+title: Los aeropuertos de Santiago de Chile, Panamá y Guayaquil fueron los más puntuales del mundo es sus categorías
 slug: >-
   general/el-aeropuerto-de-santiago-de-chile-fue-el-mas-puntual-del-mundo-en-2025
 description: Latinoamérica sorprende con los datos de puntualidad de los aeropuertos.

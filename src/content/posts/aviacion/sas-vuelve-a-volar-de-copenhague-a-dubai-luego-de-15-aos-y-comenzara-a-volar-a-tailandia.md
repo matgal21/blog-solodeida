@@ -29,7 +29,7 @@ author: Mateo
 
 La aerolínea SAS (Scandinavian Airlines) ha anunciado una ambiciosa expansión de su red de larga distancia desde su centro de conexiones en Copenhague. Con la incorporación de nuevos aviones y un enfoque en mercados dinámicos, la compañía refuerza su papel como el principal puente entre Escandinavia y el resto del mundo.
 
-![](</images/aviacion/sas/cop/Captura de pantalla 2026-01-29 094050.png>)
+![Rutas de Copenhague a Tailandia y Dubai](</images/aviacion/sas/cop/Captura de pantalla 2026-01-29 094050.png>)
 
 ### Regreso al Medio Oriente
 
@@ -39,16 +39,16 @@ Tras 15 años de ausencia (su última operación fue en 2011), SAS regresa a Dub
 * Aeronave: Airbus A320neo.
 * Horarios: Salida de Copenhague a las 23:45, llegando a Dubái a las 09:15 del día siguiente.
 
-![](/images/aviacion/sas/cop/a320neo-sas.jpg)
+![Airbus A320neo SAS](/images/aviacion/sas/cop/a320neo-sas.jpg)
 
 ### Apuesta total por Tailandia volando a Phuket y Krabi
 
 SAS se convierte en la única aerolínea en ofrecer vuelos sin escalas desde Copenhague hacia algunos de los paraísos más buscados de Tailandia, incrementando su capacidad hacia este país en un 75%.
 
 * Phuket (HKT): Entre 2 y 3 vuelos semanales en aviones Airbus A350.
-* Krabi (KBV): ¡Novedad absoluta! Por primera vez, SAS operará vuelos programados a este destino con 2 frecuencias semanales (martes y sábados) también en A350.
+* Krabi (KBV): Por primera vez, SAS operará vuelos programados a este destino con 2 frecuencias semanales (martes y sábados) también en A350.
 
-![](/images/aviacion/sas/cop/GizxSetW0AA4uJO.jpg)
+![Airbus A350 SAS](/images/aviacion/sas/cop/GizxSetW0AA4uJO.jpg)
 
 ### Más fuerza en Estados Unidos y Asia Oriental
 
@@ -57,7 +57,7 @@ Gracias a la incorporación de dos nuevos Airbus A350, la aerolínea aumentará 
 * Norteamérica: Incremento masivo en Boston (+70%), San Francisco (+20%) y Chicago (+10%).
 * Asia: Refuerzo de frecuencias a Seúl (+50%), Tokio Haneda (+40%) y Bangkok (+15%).
 
-![](/images/aviacion/sas/cop/FtRurKfaAAIsY1J.jpg)
+![Airbus A350 SAS](/images/aviacion/sas/cop/FtRurKfaAAIsY1J.jpg)
 
 ***
 

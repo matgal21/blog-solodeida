@@ -1,6 +1,6 @@
 ---
 title: >-
-  SAS vuelve a volar de Copenhague a Dubái luego de 15 años y comenzara a volar
+  SAS vuelve a volar de Copenhague a Dubái luego de 15 años y comenzará a volar
   a Tailandia
 slug: >-
   aviacion/sas-vuelve-a-volar-de-copenhague-a-dubai-luego-de-15-anos-y-comenzara-a-volar-a-tailandia

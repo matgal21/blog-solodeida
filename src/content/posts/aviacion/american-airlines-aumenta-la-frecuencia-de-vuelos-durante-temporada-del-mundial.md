@@ -3,7 +3,7 @@ title: >-
   American Airlines aumenta la frecuencia de vuelos durante la temporada del
   mundial
 slug: >-
-  aviacion/american-airlines-aumenta-la-frecuencia-de-vuelos-durante-temporada-del-mundial
+  aviacion/american-airlines-aumenta-la-frecuencia-de-vuelos-durantet-emporada-del-mundial
 description: >-
   American Airlines apuesta fuerte por Argentina y aumenta a 28 vuelos semanales
   para 2026.

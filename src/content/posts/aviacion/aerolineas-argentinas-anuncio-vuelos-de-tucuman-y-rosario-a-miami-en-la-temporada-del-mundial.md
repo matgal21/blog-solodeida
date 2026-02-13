@@ -3,7 +3,7 @@ title: >-
   Aerolíneas Argentinas anunció vuelos de Tucumán y Rosario a Miami en la
   temporada del Mundial
 slug: >-
-  aviacion/aerolineas-argentinas-anuncio-vuelos-a-tucuman-y-rosario-que-tendran-vuelos-a-miami 
+  aviacion/aerolineas-argentinas-anuncio-vuelos-a-tucuman-y-rosario-que-tendran-vuelos-a-miami
 description: >-
   Aerolíneas Argentinas lanza rutas para el Mundial 2026 con nuevas rutas desde
   el interior de Argentina.

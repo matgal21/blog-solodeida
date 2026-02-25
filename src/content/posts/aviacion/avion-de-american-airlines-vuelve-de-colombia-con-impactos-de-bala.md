@@ -10,7 +10,7 @@ tags:
   - Medellín
   - Colombia
   - Estados Unidos
-  -Boeing
+  - Boeing
 pubDate: 2026-02-25T11:00:00.000Z
 cover: /images/aviacion/b737-balas/b737-american.jpg
 coverAlt: Avión con impactos de bala al llegar a Miami desde Colombia

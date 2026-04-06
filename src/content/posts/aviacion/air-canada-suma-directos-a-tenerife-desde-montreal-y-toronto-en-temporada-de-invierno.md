@@ -1,6 +1,6 @@
 ---
 title: >-
-  Air Canada suma directos a Tenerife desde Montreál y Toronto en temporada de
+  Air Canada suma vuelos directos a Tenerife desde Montreál y Toronto en temporada de
   invierno
 slug: >-
   aviacion/air-canada-suma-directos-a-tenerife-desde-montreal-y-toronto-en-temporada-de-invierno

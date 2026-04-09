@@ -14,9 +14,7 @@ tags:
   - Argentina
   - Estados Unidos
 pubDate: 2026-04-09T15:00:00.000Z
-cover: >-
-  /images/aviacion/american/livery-mundial/Captura de pantalla 2026-04-08
-  113954.png
+cover: /images/aviacion/american/livery-mundial/737-aa.png
 coverAlt: American Airlines presentó un Boeing 737 con un livery del mundial 2026
 author: Mateo
 ---
